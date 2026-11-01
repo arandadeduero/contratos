@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contratación del Ayuntamiento de Aranda de Duero · Licitaciones y adjudicaciones</title>
-    <link>https://willyaranda.github.io/contratacion-estado/</link>
+    <link>https://contratos.arandadeduero.dev/</link>
     <description>Nuevas licitaciones, adjudicaciones y contratos menores adjudicados del Ayuntamiento de Aranda de Duero, según la Plataforma de Contratación del Sector Público.</description>
     <language>es</language>
     <lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
     <generator>contratacion-estado (lib/feed.js)</generator>
-    <atom:link href="https://willyaranda.github.io/contratacion-estado/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://contratos.arandadeduero.dev/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Adjudicación: Servicio de transporte-desplazamiento en autobús, alojamiento y manutención para el intercambio escolar con la ciudad hermanada de Romorantin-Lanthenay (Francia) de los alumnos de los Institutos de Educación Secundaria de Aranda de Duero. Año 2026. — AUTOCARES VICTOR BAYO, SL</title>
       <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=Ss1Cr0uek%2B59Zh%2FyRJgM8w%3D%3D</link>

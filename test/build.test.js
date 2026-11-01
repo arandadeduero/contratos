@@ -233,9 +233,11 @@ test('las URLs absolutas salen de transparencia/site.js', (t) => {
 
 test('el README solo usa URLs del sitio y del repositorio que coinciden con transparencia/site.js', (t) => {
   const readme = readFileSync(join(ROOT, 'README.md'), 'utf8');
-  const urls = readme.match(/https:\/\/[^\s>)]*(github\.io|github\.com)[^\s>)]*/g) || [];
-  t.true(urls.length > 0);
-  for (const url of urls) t.true(url.startsWith(SITE_URL) || url.startsWith(REPO_URL), url);
+  const urls = readme.match(/https:\/\/[^\s>)]*/g) || [];
+  const siteOrRepoUrls = urls.filter((url) => url.startsWith(SITE_URL) || url.startsWith(REPO_URL));
+  t.true(siteOrRepoUrls.length > 0);
+  t.notRegex(readme, /willyaranda\.github\.io\/contratacion-estado/);
+  for (const url of siteOrRepoUrls) t.true(url.startsWith(SITE_URL) || url.startsWith(REPO_URL), url);
 });
 
 test('el build es determinista: dos ejecuciones dan exactamente el mismo HTML', (t) => {

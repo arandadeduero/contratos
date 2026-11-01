@@ -4,8 +4,8 @@ Descarga los anuncios de contratación del Ayuntamiento de Aranda de Duero publi
 [Plataforma de Contratación del Sector Público](https://contrataciondelestado.es), los guarda como JSON en
 [`dump/`](dump/) y publica una página de transparencia con los datos.
 
-- **Página de transparencia:** <https://willyaranda.github.io/contratacion-estado/>
-- **Calendario de Contratación (.ics):** <https://willyaranda.github.io/contratacion-estado/aperturas.ics>
+- **Página de transparencia:** <https://contratos.arandadeduero.dev/>
+- **Calendario de Contratación (.ics):** <https://contratos.arandadeduero.dev/aperturas.ics>
 
 ## Calendarios
 
@@ -14,11 +14,11 @@ de evento, así que suscribirse a varios no duplica nada.
 
 | Calendario | URL | Para qué sirve |
 | --- | --- | --- |
-| Completo | <https://willyaranda.github.io/contratacion-estado/aperturas.ics> | Todo lo siguiente junto. |
-| Mesas de contratación | <https://willyaranda.github.io/contratacion-estado/mesas.ics> | Aperturas de ofertas. |
-| Plazos de licitaciones | <https://willyaranda.github.io/contratacion-estado/plazos.ics> | `PUB` (publicación) y `ULT. DÍA` (fin del plazo de ofertas, con alarma). |
-| Adjudicaciones | <https://willyaranda.github.io/contratacion-estado/adjudicaciones.ics> | `ADJ` y `ADJ. MENOR`. |
-| Vencimientos de contratos | <https://willyaranda.github.io/contratacion-estado/vencimientos.ics> | `AVISO FIN`: contratos que caducan, con alarma el día antes. |
+| Completo | <https://contratos.arandadeduero.dev/aperturas.ics> | Todo lo siguiente junto. |
+| Mesas de contratación | <https://contratos.arandadeduero.dev/mesas.ics> | Aperturas de ofertas. |
+| Plazos de licitaciones | <https://contratos.arandadeduero.dev/plazos.ics> | `PUB` (publicación) y `ULT. DÍA` (fin del plazo de ofertas, con alarma). |
+| Adjudicaciones | <https://contratos.arandadeduero.dev/adjudicaciones.ics> | `ADJ` y `ADJ. MENOR`. |
+| Vencimientos de contratos | <https://contratos.arandadeduero.dev/vencimientos.ics> | `AVISO FIN`: contratos que caducan, con alarma el día antes. |
 
 ## Feeds
 
@@ -26,20 +26,20 @@ Alternativa abierta al aviso por correo: licitaciones nuevas, adjudicaciones y c
 últimos 90 días (máximo 200 entradas), con el mismo contenido en dos formatos. Se suscriben desde cualquier lector de
 feeds, y la página los anuncia para el descubrimiento automático.
 
-- Atom 1.0: <https://willyaranda.github.io/contratacion-estado/feed.xml>
-- RSS 2.0: <https://willyaranda.github.io/contratacion-estado/rss.xml>
+- Atom 1.0: <https://contratos.arandadeduero.dev/feed.xml>
+- RSS 2.0: <https://contratos.arandadeduero.dev/rss.xml>
 
 Las entradas son una foto de los datos del último nocturno (las fechas son las de los anuncios, no la de la consulta).
 
 ## Datos abiertos
 
-Página con todos los ficheros y el diccionario de datos: <https://willyaranda.github.io/contratacion-estado/datos/>
+Página con todos los ficheros y el diccionario de datos: <https://contratos.arandadeduero.dev/datos/>
 
 | Fichero | URL |
 | --- | --- |
-| Contratos (CSV) | <https://willyaranda.github.io/contratacion-estado/datos/contratos.csv> |
-| Contratos (JSON) | <https://willyaranda.github.io/contratacion-estado/datos/contratos.json> |
-| Adjudicatarios (CSV) | <https://willyaranda.github.io/contratacion-estado/datos/adjudicatarios.csv> |
+| Contratos (CSV) | <https://contratos.arandadeduero.dev/datos/contratos.csv> |
+| Contratos (JSON) | <https://contratos.arandadeduero.dev/datos/contratos.json> |
+| Adjudicatarios (CSV) | <https://contratos.arandadeduero.dev/datos/adjudicatarios.csv> |
 
 Más los calendarios y los feeds de arriba. Los anuncios originales descargados de la Plataforma están en [`dump/`](dump/).
 Se regeneran cada noche. Los **datos** se publican con licencia
