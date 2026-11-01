@@ -1,7 +1,7 @@
 // URLs absolutas del sitio, en un único sitio. Al transferir el repositorio a la organización oficial hay que
 // actualizar SITE_URL y REPO_URL aquí (y el README, que es Markdown y no puede importar esto; lo vigila un test).
 export const SITE_URL = 'https://contratos.arandadeduero.dev/';
-export const REPO_URL = 'https://github.com/willyaranda/contratacion-estado';
+export const REPO_URL = 'https://github.com/arandadeduero/contratos';
 export const AYTO_URL = 'https://www.arandadeduero.es';
 
 // Analítica (Google Analytics 4) con consentimiento: nada de Google se carga hasta que la persona pulsa «Aceptar».

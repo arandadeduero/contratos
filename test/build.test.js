@@ -227,7 +227,7 @@ test('imágenes sociales e iconos: existen, PNG con las dimensiones y el peso es
 
 test('las URLs absolutas salen de transparencia/site.js', (t) => {
   t.is(AYTO_URL, 'https://www.arandadeduero.es');
-  t.notRegex(TEMPLATE, /willyaranda/);
+  t.notRegex(TEMPLATE, /github\.com|github\.io/);
   t.notRegex(readFileSync(join(ROOT, 'transparencia', 'build.js'), 'utf8'), /github\.com|github\.io/);
 });
 
@@ -236,7 +236,7 @@ test('el README solo usa URLs del sitio y del repositorio que coinciden con tran
   const urls = readme.match(/https:\/\/[^\s>)]*/g) || [];
   const siteOrRepoUrls = urls.filter((url) => url.startsWith(SITE_URL) || url.startsWith(REPO_URL));
   t.true(siteOrRepoUrls.length > 0);
-  t.notRegex(readme, /willyaranda\.github\.io\/contratacion-estado/);
+  t.notRegex(readme, /github\.io\/contratacion-estado|github\.com\/[^/\s]+\/contratacion-estado/);
   for (const url of siteOrRepoUrls) t.true(url.startsWith(SITE_URL) || url.startsWith(REPO_URL), url);
 });
 

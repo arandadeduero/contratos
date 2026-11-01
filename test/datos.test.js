@@ -256,7 +256,7 @@ test('la página usa las constantes de site.js, el canonical y las metas básica
   t.true(html.includes(`href="${AYTO_URL}"`));
   t.true(html.includes(LICENSE.attribution));
   // la plantilla no lleva URLs del sitio escritas a mano
-  t.notRegex(PAGE_TEMPLATE, /willyaranda|github\.com\/[a-z]/);
+  t.notRegex(PAGE_TEMPLATE, /github\.com\/[a-z]/);
 });
 
 test('la página solo lleva el script de analítica con consentimiento (y el JSON-LD), con landmarks y sin ocultar el contenido hasta "ready"', (t) => {
