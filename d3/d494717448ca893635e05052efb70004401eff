@@ -1,0 +1,21 @@
+test/build.test.js
+  s_5dfe3476e0f4cb::t_3ebebc360ee07a 236-240
+docs/datos/index.html
+  s_5dfe3476e0f4cb::t_2dc593852b9cf1 7,13-16,21,23-24,33,35,222,224
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5c8ff16e511d32611f8ac270a0c8e017eccc1e57",
+  "prompts": {},
+  "sessions": {
+    "s_5dfe3476e0f4cb": {
+      "agent_id": {
+        "tool": "kiro",
+        "id": "sess_3bf8d661-9461-4386-aa3b-edfa3b040326",
+        "model": "auto"
+      },
+      "human_author": "Guillermo López Leal <guillermo.lopezleal@vonage.com>"
+    }
+  }
+}
