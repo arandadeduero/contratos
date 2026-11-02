@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
-  <id>https://contratos.arandadeduero.dev/feed.xml</id>
+  <id>https://contratos.arandadeduero.es/feed.xml</id>
   <title>Contratación del Ayuntamiento de Aranda de Duero · Licitaciones y adjudicaciones</title>
   <subtitle>Nuevas licitaciones, adjudicaciones y contratos menores adjudicados del Ayuntamiento de Aranda de Duero, según la Plataforma de Contratación del Sector Público.</subtitle>
-  <link rel="self" type="application/atom+xml" href="https://contratos.arandadeduero.dev/feed.xml"/>
-  <link rel="alternate" type="text/html" href="https://contratos.arandadeduero.dev/"/>
+  <link rel="self" type="application/atom+xml" href="https://contratos.arandadeduero.es/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://contratos.arandadeduero.es/"/>
   <updated>2026-10-29T00:00:00Z</updated>
   <author><name>Ayuntamiento de Aranda de Duero</name></author>
   <generator>contratacion-estado (lib/feed.js)</generator>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20682106-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20682106-adjudicacion</id>
     <title>Adjudicación: Servicio de transporte-desplazamiento en autobús, alojamiento y manutención para el intercambio escolar con la ciudad hermanada de Romorantin-Lanthenay (Francia) de los alumnos de los Institutos de Educación Secundaria de Aranda de Duero. Año 2026. — AUTOCARES VICTOR BAYO, SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=Ss1Cr0uek%2B59Zh%2FyRJgM8w%3D%3D"/>
     <published>2026-10-29T00:00:00Z</published>
@@ -27,7 +27,7 @@ Importe de adjudicación sin IVA: 11.068,00 €.
 Expediente: ABR_SP_SMPL/SERV/2026000045.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20820608-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20820608-menor</id>
     <title>Contrato menor adjudicado: Contrato menor para el acondicionamiento, pintado y vinilado de los elementos informativos MUPI&apos;s del Polígono Industrial Allendeduero — ROTULOS ARANDA SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=XnPd53WuJuQzjChw4z%2FXvw%3D%3D"/>
     <published>2026-10-29T00:00:00Z</published>
@@ -45,7 +45,7 @@ Importe de adjudicación sin IVA: 13.570,00 €.
 Expediente: MEN/SERV/2026000119.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20287240-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20287240-adjudicacion</id>
     <title>Adjudicación: Adquisición de Luminarias de alumbrado público 2026 para el Ayuntamiento de Aranda de Duero — NOVELEC TECHNICS S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D"/>
     <published>2026-10-28T00:00:00Z</published>
@@ -63,7 +63,7 @@ Importe de adjudicación sin IVA: 412.622,07 €.
 Expediente: ABR/SUMIN/2026000029.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20788096-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20788096-licitacion</id>
     <title>Nueva licitación: Contrato de suministro de adquisición de uniformidad y dotación de los efectivos del Servicio de Prevención, Extinción de incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D"/>
     <published>2026-10-27T00:00:00Z</published>
@@ -79,7 +79,7 @@ Plazo de presentación de ofertas: hasta el 11/11/2026 a las 23:59.
 Expediente: ABR_SMPL/SUMIN/2026000046.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20788245-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20788245-licitacion</id>
     <title>Nueva licitación: Suministro y Servicio de licencias de uso de una aplicación informática para la gestión académica de la Escuela Municipal de Música y Danza &apos;Antonio Baciero&apos; de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D"/>
     <published>2026-10-27T00:00:00Z</published>
@@ -95,7 +95,7 @@ Plazo de presentación de ofertas: hasta el 11/11/2026 a las 23:59.
 Expediente: ABR_SMPL/SUMIN/2026000047.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20794106-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20794106-menor</id>
     <title>Contrato menor adjudicado: contrato suministro e instalación pladur para cierre de huecos escalera en portales del ERRP Santa Catalina — ARALLEVA UNIVERSAL SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=x5Kb8bf5FXw4NavIWzMcHA%3D%3D"/>
     <published>2026-10-26T00:00:00Z</published>
@@ -113,7 +113,7 @@ Importe de adjudicación sin IVA: 25.520,00 €.
 Expediente: MEN/OBR/2026000124.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-19627745-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-19627745-adjudicacion</id>
     <title>Adjudicación: Gestión RRSS y diseño de contenidos WEB para el Ayuntamiento de Aranda de Duero — ELENA CEBOLLA MANSO</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=e05vDBSEOVeIzo3LHNPGcQ%3D%3D"/>
     <published>2026-10-24T00:00:00Z</published>
@@ -131,7 +131,7 @@ Importe de adjudicación sin IVA: 28.541,00 €.
 Expediente: ABR_SMPL/SERV/2026000016.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20774462-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20774462-menor</id>
     <title>Contrato menor adjudicado: Contratación del espectáculo Flamencoh — PRODUCCIONES YLLANA SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=gFOynb4SnTJeKgd8LfVV9g%3D%3D"/>
     <published>2026-10-23T00:00:00Z</published>
@@ -149,7 +149,7 @@ Importe de adjudicación sin IVA: 9.000,00 €.
 Expediente: MEN/SERV/2026000082.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20774957-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20774957-menor</id>
     <title>Contrato menor adjudicado: Contratación del Suministro e Instalación de 7 ventanas en el Edificio de las Francesas para la Escuela Municipal de Música y Danza Antonio Baciero. — ALUARTE ARANDA SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=C0QQ2R90r9IaF6cS8TCh%2FA%3D%3D"/>
     <published>2026-10-22T00:00:00Z</published>
@@ -167,7 +167,7 @@ Importe de adjudicación sin IVA: 8.755,30 €.
 Expediente: MEN/OBR/2026000118.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20812250-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20812250-menor</id>
     <title>Contrato menor adjudicado: Suministro e instalación de licencias de software técnico ZWCAD y PRESTO 2026 — MPS SOFTWARE TECNICO</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=ccKLq5N3lXWIzo3LHNPGcQ%3D%3D"/>
     <published>2026-10-22T00:00:00Z</published>
@@ -185,7 +185,7 @@ Importe de adjudicación sin IVA: 6.904,80 €.
 Expediente: MEN/SUMIN/2026000115.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20775036-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20775036-menor</id>
     <title>Contrato menor adjudicado: Contratación de la participación de la feria INTUR 2026 — CONSORCIO DE LA INSTITUCION FERIAL DE CASTILLA Y LEON</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=sLgtmdZ6j9WcTfjQf3USOg%3D%3D"/>
     <published>2026-10-21T00:00:00Z</published>
@@ -203,7 +203,7 @@ Importe de adjudicación sin IVA: 14.780,99 €.
 Expediente: MEN/SERV/2026000121.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20329134-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20329134-adjudicacion</id>
     <title>Adjudicación: Contratación de un Programa de Ocio Alternativo para fines de semana — PROACTIVA FORMACIÓN S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D"/>
     <published>2026-10-19T00:00:00Z</published>
@@ -221,7 +221,7 @@ Importe de adjudicación sin IVA: 36.500,00 €.
 Expediente: ABR/SERV/2026000032.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20497029-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20497029-adjudicacion</id>
     <title>Adjudicación: Campaña asfáltica 2026. — ASFALTIA S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3romEb2jLkfzAq95uGTrDQ%3D%3D"/>
     <published>2026-10-16T00:00:00Z</published>
@@ -239,7 +239,7 @@ Importe de adjudicación sin IVA: 656.796,07 €.
 Expediente: ABR_SMPL/OBR/2026000034.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20722178-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20722178-menor</id>
     <title>Contrato menor adjudicado: Reparacion y acondicionamiento de la ribera del rio Bañuelos. — TRANSPORTES Y CONSTRUCCIONES BLASGON SA</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=Y7dKscpvlaXE6P%2FuLemXRw%3D%3D"/>
     <published>2026-10-16T00:00:00Z</published>
@@ -257,7 +257,7 @@ Importe de adjudicación sin IVA: 22.624,28 €.
 Expediente: MEN/OBR/2026000111.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20416552-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20416552-adjudicacion</id>
     <title>Adjudicación: Contratación de trabajos de diseño, ejecución y decoración de dos carrozas para la Cabalgata de Reyes — ARTE EFIMERO SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D"/>
     <published>2026-10-15T00:00:00Z</published>
@@ -275,7 +275,7 @@ Importe de adjudicación sin IVA: 49.580,00 €.
 Expediente: ABR_SMPL/SERV/2026000039.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20698366-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20698366-licitacion</id>
     <title>Nueva licitación: Contrato basado en Acuerdo Marco de la Central de Compras de la FEMP para la contratación del Seguro para la flota de vehículos del Ayuntamiento de Aranda de Duero (Lote 11)</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=jyHv%2B0LxGpN9Zh%2FyRJgM8w%3D%3D"/>
     <published>2026-10-15T00:00:00Z</published>
@@ -289,7 +289,7 @@ Presupuesto base de licitación sin IVA: 43.306,00 €.
 Expediente: 2026/00019536R.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20682106-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20682106-licitacion</id>
     <title>Nueva licitación: Servicio de transporte-desplazamiento en autobús, alojamiento y manutención para el intercambio escolar con la ciudad hermanada de Romorantin-Lanthenay (Francia) de los alumnos de los Institutos de Educación Secundaria de Aranda de Duero. Año 2026.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=Ss1Cr0uek%2B59Zh%2FyRJgM8w%3D%3D"/>
     <published>2026-10-13T00:00:00Z</published>
@@ -305,7 +305,7 @@ Plazo de presentación de ofertas: hasta el 27/10/2026 a las 23:59.
 Expediente: ABR_SP_SMPL/SERV/2026000045.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20297452-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20297452-adjudicacion</id>
     <title>Adjudicación: Contrato de obras para el rediseño estancial y mejora del equipamiento de uso público del parque de la Huerta en Aranda de Duero (Burgos) — INFOREST MEDIO AMBIENTE, S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D"/>
     <published>2026-10-09T00:00:00Z</published>
@@ -323,7 +323,7 @@ Importe de adjudicación sin IVA: 208.800,00 €.
 Expediente: ABR_SMPL/OBR/2026000028.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20670799-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20670799-licitacion</id>
     <title>Nueva licitación: Contrato de servicios para la Dirección de Obra, la Dirección de Ejecución de Obra y la Coordinación de Seguridad y Salud de las obras de reurbanización de las calles del entorno de &quot;Los Bloques&quot;, situados en la UR-5 del ERRP de Santa Catalina.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=gwvjtJozm7peKgd8LfVV9g%3D%3D"/>
     <published>2026-10-09T00:00:00Z</published>
@@ -339,7 +339,7 @@ Plazo de presentación de ofertas: hasta el 26/10/2026 a las 23:59.
 Expediente: ABR/SERV/2026000044.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20703046-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20703046-menor</id>
     <title>Contrato menor adjudicado: Servicio de Recogida, Transporte y Gestión de Residuos No Peligrosos procedentes del cribado de la EDAR de Aranda de Duero en 2026 — GESECO RESIDUOS, S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=zm7IYImeUzB6nTs9LZ9RhQ%3D%3D"/>
     <published>2026-10-09T00:00:00Z</published>
@@ -357,7 +357,7 @@ Importe de adjudicación sin IVA: 14.254,54 €.
 Expediente: MEN/SERV/2026000101.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20698366-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20698366-adjudicacion</id>
     <title>Adjudicación: Contrato basado en Acuerdo Marco de la Central de Compras de la FEMP para la contratación del Seguro para la flota de vehículos del Ayuntamiento de Aranda de Duero (Lote 11) — OCCIDENT GCO SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=jyHv%2B0LxGpN9Zh%2FyRJgM8w%3D%3D"/>
     <published>2026-10-07T00:00:00Z</published>
@@ -375,7 +375,7 @@ Importe de adjudicación sin IVA: 24.397,24 €.
 Expediente: 2026/00019536R.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20686803-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20686803-menor</id>
     <title>Contrato menor adjudicado: Contratación de la obra de teatro El hijo de la cómica — PENTACION ESPECTACULOS SA</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=x7KldCHxQRp%2BF6L2uCfUWg%3D%3D"/>
     <published>2026-10-07T00:00:00Z</published>
@@ -393,7 +393,7 @@ Importe de adjudicación sin IVA: 10.500,00 €.
 Expediente: MEN/SERV/2026000081.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20703056-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20703056-menor</id>
     <title>Contrato menor adjudicado: Contratación espectáculo La bella durmiente, el musical de tus recuerdos — TRENCADIS PRODUCCIONS SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=2M1ZJtjytph4zIRvjBVCSw%3D%3D"/>
     <published>2026-10-07T00:00:00Z</published>
@@ -411,7 +411,7 @@ Importe de adjudicación sin IVA: 6.500,00 €.
 Expediente: MEN/SERV/2026000083.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20658180-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20658180-licitacion</id>
     <title>Nueva licitación: PRTR - Contratación de las Obras de Reurbanización de las calles del entorno de Los Bloques, situados en la UR-5 del ERRP de Santa Catalina.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D"/>
     <published>2026-10-06T00:00:00Z</published>
@@ -427,7 +427,7 @@ Plazo de presentación de ofertas: hasta el 21/10/2026 a las 23:59.
 Expediente: ABR/OBR/2026000043.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20317636-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20317636-adjudicacion</id>
     <title>Adjudicación: Contrato de mantenimiento y certificación de los medidores de cloro en continuo del Ayuntamiento de Aranda de Duero. — HANNA instruments,S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=iPNNbTdg5vFJ8Trn0ZPzLw%3D%3D"/>
     <published>2026-09-30T00:00:00Z</published>
@@ -445,7 +445,7 @@ Importe de adjudicación sin IVA: 23.400,00 €.
 Expediente: ABR_SMPL/SERV/2026000030.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20593604-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20593604-licitacion</id>
     <title>Nueva licitación: Suministro de furgón de atestados para la Policía Local de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=1YIBJEct%2BG4IYE3ZiZ%2BxmQ%3D%3D"/>
     <published>2026-09-30T00:00:00Z</published>
@@ -461,7 +461,7 @@ Plazo de presentación de ofertas: hasta el 15/10/2026 a las 23:59.
 Expediente: ABR_SMPL/SUMIN/2026000041.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20617062-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20617062-menor</id>
     <title>Contrato menor adjudicado: Contrato para el control de la población de palomas del municipio de Aranda de Duero — DIAZ*SANCHEZ,EDUARDO</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=OpJlmTUb2HeIzo3LHNPGcQ%3D%3D"/>
     <published>2026-09-30T00:00:00Z</published>
@@ -479,7 +479,7 @@ Importe de adjudicación sin IVA: 8.890,00 €.
 Expediente: MEN/SERV/2026000109.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20585907-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20585907-licitacion</id>
     <title>Nueva licitación: Suministro de material de informática para la Escuela Municipal de Música y Danza del Ayuntamiento de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D"/>
     <published>2026-09-29T00:00:00Z</published>
@@ -495,7 +495,7 @@ Plazo de presentación de ofertas: hasta el 14/10/2026 a las 23:59.
 Expediente: ABR_SMPL/SUMIN/2026000040.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20586273-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20586273-licitacion</id>
     <title>Nueva licitación: Suministro de energía a varias dependencias municipales a través de la red de calor de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=BEtE8Mxlvfxq1DdmE7eaXg%3D%3D"/>
     <published>2026-09-29T00:00:00Z</published>
@@ -511,7 +511,7 @@ Plazo de presentación de ofertas: hasta el 28/10/2026 a las 23:59.
 Expediente: ABR/SUMIN/2026000042.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20560193-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20560193-menor</id>
     <title>Contrato menor adjudicado: Contratación de la obra de teatro Polvo serán, más polvo enamorado — MORFEO TEATRO SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=HrpgxG7S%2FKLE6P%2FuLemXRw%3D%3D"/>
     <published>2026-09-24T00:00:00Z</published>
@@ -529,7 +529,7 @@ Importe de adjudicación sin IVA: 5.000,00 €.
 Expediente: MEN/SERV/2026000076.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20560217-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20560217-menor</id>
     <title>Contrato menor adjudicado: Contratación del espectáculo Rodeo — FONCUBIERTA CAMPANO,DANIEL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=FDy88yOK4T3jHF5qKI4aaw%3D%3D"/>
     <published>2026-09-24T00:00:00Z</published>
@@ -547,7 +547,7 @@ Importe de adjudicación sin IVA: 3.000,00 €.
 Expediente: MEN/SERV/2026000079.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20562229-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20562229-menor</id>
     <title>Contrato menor adjudicado: Contrato de Asistencia Técnica Jurídica Especializada para el estudio, análisis y valoración de la relevancia penal de determinadas actuaciones relacionadas con la Plaza de Toros de Aranda de Duero. — MZ. DE SALINAS-LOPEZ MARQUES, DERECHO PENAL ECONOMICO, SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=CBTP5aZ%2BdSteKgd8LfVV9g%3D%3D"/>
     <published>2026-09-22T00:00:00Z</published>
@@ -565,7 +565,7 @@ Importe de adjudicación sin IVA: 13.000,00 €.
 Expediente: MEN/SERV/2026000103.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20562188-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20562188-menor</id>
     <title>Contrato menor adjudicado: Contratación del espectáculo de Somión. La ciudad de los oficios olvidados — EQM SERVEIS CULTURALS SCCL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=FiSLRymF3ieFlFRHfEzEaw%3D%3D"/>
     <published>2026-09-16T00:00:00Z</published>
@@ -583,7 +583,7 @@ Importe de adjudicación sin IVA: 2.200,00 €.
 Expediente: MEN/SERV/2026000070.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20562358-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20562358-menor</id>
     <title>Contrato menor adjudicado: Contratación de la obra de teatro ICONOS-EL BRUJO — GESTION Y PRODUCCION BAKTY SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=b2Ombr8rfu5PpzdqOdhuWg%3D%3D"/>
     <published>2026-09-16T00:00:00Z</published>
@@ -601,7 +601,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000064.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20562474-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20562474-menor</id>
     <title>Contrato menor adjudicado: Redacción Proyecto Planta Sótano Comisaría de Policía Local — BARRIO Y CAMENO ARQUITECTOS SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=F0CvS4ar9YbLIx6q1oPaMg%3D%3D"/>
     <published>2026-09-16T00:00:00Z</published>
@@ -619,7 +619,7 @@ Importe de adjudicación sin IVA: 14.500,00 €.
 Expediente: MEN/SERV/2026000110.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20416552-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20416552-licitacion</id>
     <title>Nueva licitación: Contratación de trabajos de diseño, ejecución y decoración de dos carrozas para la Cabalgata de Reyes</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D"/>
     <published>2026-09-11T00:00:00Z</published>
@@ -635,7 +635,7 @@ Plazo de presentación de ofertas: hasta el 28/09/2026 a las 23:59.
 Expediente: ABR_SMPL/SERV/2026000039.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20416971-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20416971-licitacion</id>
     <title>Nueva licitación: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D"/>
     <published>2026-09-11T00:00:00Z</published>
@@ -651,7 +651,7 @@ Plazo de presentación de ofertas: hasta el 13/10/2026 a las 23:59.
 Expediente: ABR/SERV/2026000038.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20417018-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20417018-licitacion</id>
     <title>Nueva licitación: Servicio de jornadas de soporte para los programas de T-Systems del Ayuntamiento de Aranda de Duero.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=l9SrtHQprt16nTs9LZ9RhQ%3D%3D"/>
     <published>2026-09-10T00:00:00Z</published>
@@ -667,7 +667,7 @@ Plazo de presentación de ofertas: hasta el 17/08/2026 a las 23:59.
 Expediente: NEG_SINP/CON_SERV/2026000027.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20417756-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20417756-licitacion</id>
     <title>Nueva licitación: Servicio de actualización permanente del sistema de protección de datos de carácter personal y del registro de actividades de tratamiento del Ayuntamiento de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D"/>
     <published>2026-09-10T00:00:00Z</published>
@@ -683,7 +683,7 @@ Plazo de presentación de ofertas: hasta el 25/09/2026 a las 23:59.
 Expediente: ABR_SMPL/SERV/2026000037.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20402180-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20402180-menor</id>
     <title>Contrato menor adjudicado: Contratación servicio de emisión, producción y realización de streaming y retransmisión televisiva cross de la constitución 24 octubre 2026 — TRECE GRADOS SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=UBNIZio%2BpQ970UvEyYJSGw%3D%3D"/>
     <published>2026-09-10T00:00:00Z</published>
@@ -701,7 +701,7 @@ Importe de adjudicación sin IVA: 6.350,00 €.
 Expediente: MEN/SERV/2026000106.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20417018-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20417018-adjudicacion</id>
     <title>Adjudicación: Servicio de jornadas de soporte para los programas de T-Systems del Ayuntamiento de Aranda de Duero. — T-Systems ITC IBERIA S.A.U.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=l9SrtHQprt16nTs9LZ9RhQ%3D%3D"/>
     <published>2026-09-09T00:00:00Z</published>
@@ -719,7 +719,7 @@ Importe de adjudicación sin IVA: 41.280,00 €.
 Expediente: NEG_SINP/CON_SERV/2026000027.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20391133-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20391133-menor</id>
     <title>Contrato menor adjudicado: Contratación de la obra de teatro La desconquista — RON LALA TEATRO SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=b9ob3IGWD%2FDzAq95uGTrDQ%3D%3D"/>
     <published>2026-09-09T00:00:00Z</published>
@@ -737,7 +737,7 @@ Importe de adjudicación sin IVA: 9.500,00 €.
 Expediente: MEN/SERV/2026000074.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20391175-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20391175-menor</id>
     <title>Contrato menor adjudicado: Contratación de la obra de teatro Camuñas — BORREGO*MALMIERCA,PILAR</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=WbEuKUL90fpVq4S9zvaQpQ%3D%3D"/>
     <published>2026-09-09T00:00:00Z</published>
@@ -755,7 +755,7 @@ Importe de adjudicación sin IVA: 3.727,27 €.
 Expediente: MEN/SERV/2026000087.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20377047-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20377047-licitacion</id>
     <title>Nueva licitación: Contratación de la actuación musical de &quot;Kiko Veneno&quot; el sábado 5 de septiembre de 2026, para la IX Fiesta de la Vendimia de Aranda de Duero.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=b%2BuyqCyJvYh%2FR5QFTlaM4A%3D%3D"/>
     <published>2026-09-07T00:00:00Z</published>
@@ -771,7 +771,7 @@ Plazo de presentación de ofertas: hasta el 25/08/2026 a las 23:59.
 Expediente: NEG_SINP/SERV/2026000031.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-19806745-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-19806745-adjudicacion</id>
     <title>Adjudicación: Constitución de un derecho de superficies sobre parcela destinada a puerto seco — ASERCOMEX LOGISTICS SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=P0XcA8xTHJjXOjazN1Dw9Q%3D%3D"/>
     <published>2026-09-03T00:00:00Z</published>
@@ -789,7 +789,7 @@ Importe de adjudicación sin IVA: 1.900.000,00 €.
 Expediente: 2025/0025377G-2.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20377047-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20377047-adjudicacion</id>
     <title>Adjudicación: Contratación de la actuación musical de &quot;Kiko Veneno&quot; el sábado 5 de septiembre de 2026, para la IX Fiesta de la Vendimia de Aranda de Duero. — EL PLANETA SONORO, S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=b%2BuyqCyJvYh%2FR5QFTlaM4A%3D%3D"/>
     <published>2026-09-03T00:00:00Z</published>
@@ -807,7 +807,7 @@ Importe de adjudicación sin IVA: 25.000,00 €.
 Expediente: NEG_SINP/SERV/2026000031.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20497029-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20497029-licitacion</id>
     <title>Nueva licitación: Campaña asfáltica 2026.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3romEb2jLkfzAq95uGTrDQ%3D%3D"/>
     <published>2026-08-31T00:00:00Z</published>
@@ -823,7 +823,7 @@ Plazo de presentación de ofertas: hasta el 21/09/2026 a las 23:59.
 Expediente: ABR_SMPL/OBR/2026000034.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20252113-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20252113-menor</id>
     <title>Contrato menor adjudicado: Migración Exchange, SharePoint y copies de seguridad en la nube — ASAC COMUNICACIONES S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=PjrhIR7Cd7p9Zh%2FyRJgM8w%3D%3D"/>
     <published>2026-08-31T00:00:00Z</published>
@@ -841,7 +841,7 @@ Importe de adjudicación sin IVA: 14.450,00 €.
 Expediente: MEN/SERV/2026000077.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20497482-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20497482-licitacion</id>
     <title>Nueva licitación: Reparación muro contención CEIP Fuenteminaya.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=pV9XV%2BShuLicTfjQf3USOg%3D%3D"/>
     <published>2026-08-28T00:00:00Z</published>
@@ -857,7 +857,7 @@ Plazo de presentación de ofertas: hasta el 17/09/2026 a las 23:59.
 Expediente: ABR_SMPL/OBR/2026000036.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20356747-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20356747-licitacion</id>
     <title>Nueva licitación: Dirección de Obra y Coordinación de Seguridad y Salud para la Campaña asfáltica 2026, de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=VC5RLOloRlo3vLk2DU2Ddg%3D%3D"/>
     <published>2026-08-27T00:00:00Z</published>
@@ -873,7 +873,7 @@ Plazo de presentación de ofertas: hasta el 11/09/2026 a las 23:59.
 Expediente: ABR_SP_SMPL/SERV/2026000035.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20353714-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20353714-menor</id>
     <title>Contrato menor adjudicado: Contrato para la limpieza arbustiva (desbroce de maleza, corte chupones de árboles, gation de los residuos...) de las aceras del Polígono Industrial Prado Marina. — JIMENO*SERRANO,ANTONIO</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=rvBKx%2FWXsVKcTfjQf3USOg%3D%3D"/>
     <published>2026-08-25T00:00:00Z</published>
@@ -891,7 +891,7 @@ Importe de adjudicación sin IVA: 10.000,00 €.
 Expediente: MEN/SERV/2026000092.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20329134-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20329134-licitacion</id>
     <title>Nueva licitación: Contratación de un Programa de Ocio Alternativo para fines de semana</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D"/>
     <published>2026-08-21T00:00:00Z</published>
@@ -907,7 +907,7 @@ Plazo de presentación de ofertas: hasta el 07/09/2026 a las 23:59.
 Expediente: ABR/SERV/2026000032.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20348157-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20348157-menor</id>
     <title>Contrato menor adjudicado: Programa de actividades de animación para las Fiestas Patronales 2026 a cargo de la EL ALBOROTO — PEÑA TAURINA EL ALBOROTO</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=8qn8jzNwUg54zIRvjBVCSw%3D%3D"/>
     <published>2026-08-21T00:00:00Z</published>
@@ -925,7 +925,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000043.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20317636-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20317636-licitacion</id>
     <title>Nueva licitación: Contrato de mantenimiento y certificación de los medidores de cloro en continuo del Ayuntamiento de Aranda de Duero.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=iPNNbTdg5vFJ8Trn0ZPzLw%3D%3D"/>
     <published>2026-08-19T00:00:00Z</published>
@@ -941,7 +941,7 @@ Plazo de presentación de ofertas: hasta el 03/09/2026 a las 23:59.
 Expediente: ABR_SMPL/SERV/2026000030.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20313739-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20313739-menor</id>
     <title>Contrato menor adjudicado: Programa de actividades de animación para las Fiestas Patronales 2026 a cargo de la PEÑA LA CAPEA — ASOCIACION PEÑA CULTURAL, GASTRONOMICA Y TAURINA LA CAPEA</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=KyuUShj1jhfN3k3tjedSGw%3D%3D"/>
     <published>2026-08-18T00:00:00Z</published>
@@ -959,7 +959,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000041.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20313744-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20313744-menor</id>
     <title>Contrato menor adjudicado: Programa de actividades de animación para las Fiestas Patronales 2026 a cargo de la PEÑA LA RIBERA — ASOCIACION PEÑA LA RIBERA</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=NcR2j06JkCD10HRJw8TEnQ%3D%3D"/>
     <published>2026-08-18T00:00:00Z</published>
@@ -977,7 +977,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000042.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20313750-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20313750-menor</id>
     <title>Contrato menor adjudicado: Programa de actividades de animación para las Fiestas Patronales 2026 a cargo de la PEÑA EL CHILINDRÓN — PEÑA TAURINA EL CHILINDRON</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=2Ooo0LFg4dvpxJFXpLZ%2B2A%3D%3D"/>
     <published>2026-08-18T00:00:00Z</published>
@@ -995,7 +995,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000044.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20313767-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20313767-menor</id>
     <title>Contrato menor adjudicado: Programa de actividades de animación para las Fiestas Patronales 2026 a cargo de la PEÑA EL CUBILLO — ASOC PEÑA TAURINA EL CUBILLO</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=eT2FteGVfSv10HRJw8TEnQ%3D%3D"/>
     <published>2026-08-18T00:00:00Z</published>
@@ -1013,7 +1013,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000040.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20314130-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20314130-menor</id>
     <title>Contrato menor adjudicado: Programa de actividades de animación para las Fiestas Patronales 2026 a cargo de la PEÑA EL JARRO — PEÑA EL JARRO</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=ccFY%2F2Gyewa7JOCXkOhcDg%3D%3D"/>
     <published>2026-08-18T00:00:00Z</published>
@@ -1031,7 +1031,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000045.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20305305-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20305305-adjudicacion</id>
     <title>Adjudicación: Conciertos estelares de las Fiestas Patronales 2026 de Aranda de Duero — EL PLANETA SONORO, S.L.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=oCNcH3LJDSnCfVQHDepjGQ%3D%3D"/>
     <published>2026-08-17T00:00:00Z</published>
@@ -1049,7 +1049,7 @@ Importe de adjudicación sin IVA: 305.000,00 €.
 Expediente: NEG_SINP/SERV/2026000025.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20305305-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20305305-licitacion</id>
     <title>Nueva licitación: Conciertos estelares de las Fiestas Patronales 2026 de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=oCNcH3LJDSnCfVQHDepjGQ%3D%3D"/>
     <published>2026-08-17T00:00:00Z</published>
@@ -1065,7 +1065,7 @@ Plazo de presentación de ofertas: hasta el 27/07/2026 a las 23:59.
 Expediente: NEG_SINP/SERV/2026000025.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20314773-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20314773-menor</id>
     <title>Contrato menor adjudicado: Programa de actividades de animación para las Fiestas Patronales 2026 a cargo de la PEÑA TIERRA ARANDA — PEÑA TAURINA TIERRA ARANDA</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=aLUPAuF60YjgL1BHd3qjQA%3D%3D"/>
     <published>2026-08-17T00:00:00Z</published>
@@ -1083,7 +1083,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000047.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20314952-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20314952-menor</id>
     <title>Contrato menor adjudicado: Programa de actividades de animación para las Fiestas Patronales 2026 a cargo de la PEÑA LA AMISTAD — PEÑA TAURINA CULTURAL LA AMISTAD</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=NELOPbUFqgYmMOlAXxDEjw%3D%3D"/>
     <published>2026-08-17T00:00:00Z</published>
@@ -1101,7 +1101,7 @@ Importe de adjudicación sin IVA: 7.000,00 €.
 Expediente: MEN/SERV/2026000046.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20314960-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20314960-menor</id>
     <title>Contrato menor adjudicado: Urban Fest Joven — LOPEZ*GONZALEZ,MIGUEL ANGEL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=F14yKsshMcAmMOlAXxDEjw%3D%3D"/>
     <published>2026-08-17T00:00:00Z</published>
@@ -1119,7 +1119,7 @@ Importe de adjudicación sin IVA: 9.000,00 €.
 Expediente: MEN/SERV/2026000100.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20314975-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20314975-menor</id>
     <title>Contrato menor adjudicado: XIV edición Feria de la Música (Fiestas Patronales 2026) — LOPEZ*GONZALEZ,MIGUEL ANGEL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=THf7Omc0Fljua%2Fi14w%2FPLA%3D%3D"/>
     <published>2026-08-17T00:00:00Z</published>
@@ -1137,7 +1137,7 @@ Importe de adjudicación sin IVA: 14.995,00 €.
 Expediente: MEN/SERV/2026000099.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-19900401-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-19900401-adjudicacion</id>
     <title>Adjudicación: Contrato para la gestión, organización y ejecución de un programa de actividades de ocio y tiempo libre para menores de 7-12 años, a desarrollar para la Concejalía de Educación, en el patio del CEIP Fernán González. — LAST DAY OCIO ALTERNATIVO SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=KQnTsYMAi2wIYE3ZiZ%2BxmQ%3D%3D"/>
     <published>2026-08-14T00:00:00Z</published>
@@ -1155,7 +1155,7 @@ Importe de adjudicación sin IVA: 25.070,00 €.
 Expediente: ABR_SMPL/SERV/2026000019.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20297452-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20297452-licitacion</id>
     <title>Nueva licitación: Contrato de obras para el rediseño estancial y mejora del equipamiento de uso público del parque de la Huerta en Aranda de Duero (Burgos)</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D"/>
     <published>2026-08-14T00:00:00Z</published>
@@ -1171,7 +1171,7 @@ Plazo de presentación de ofertas: hasta el 03/09/2026 a las 23:59.
 Expediente: ABR_SMPL/OBR/2026000028.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-20287240-licitacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-20287240-licitacion</id>
     <title>Nueva licitación: Adquisición de Luminarias de alumbrado público 2026 para el Ayuntamiento de Aranda de Duero</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D"/>
     <published>2026-08-12T00:00:00Z</published>
@@ -1187,7 +1187,7 @@ Plazo de presentación de ofertas: hasta el 10/09/2026 a las 23:59.
 Expediente: ABR/SUMIN/2026000029.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-19938552-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-19938552-adjudicacion</id>
     <title>Adjudicación: Contrato de obras para la reparación de los caminos de los parques Virgen de las Viñas, La Isla y El Barriles (2 LOTES) — HORMIGONES Y EXCAVACIONES GERARDO DE LA CALLE SLU</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=N6oojKthy2qFlFRHfEzEaw%3D%3D"/>
     <published>2026-08-11T00:00:00Z</published>
@@ -1205,7 +1205,7 @@ Importe de adjudicación sin IVA: 232.295,96 €.
 Expediente: ABR_SMPL/OBR/2026000022.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20290705-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20290705-menor</id>
     <title>Contrato menor adjudicado: Contratación de los servicios de vigilancia y seguridad privada de las Fiestas Patronales 2026 — SELEC GLOBAL SECURITY S.A.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=OYBTw8v92y47%2B9FIQYNjeQ%3D%3D"/>
     <published>2026-08-11T00:00:00Z</published>
@@ -1223,7 +1223,7 @@ Importe de adjudicación sin IVA: 14.862,50 €.
 Expediente: MEN/SERV/2026000098.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20295038-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20295038-menor</id>
     <title>Contrato menor adjudicado: Servicios técnicos profesionales consistentes en la redacción de informes urbanísticos correspondientes a expedientes administrativos relacionados con actuaciones de canalización (infraestructuras de gas, electricidad, telecomunicaciones, saneamiento u otras). — AYLLON*RODRIGUEZ,MARIA DEL MAR</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=%2BM8gjN%2FTf7k%2FbjW6njtWLw%3D%3D"/>
     <published>2026-08-11T00:00:00Z</published>
@@ -1241,7 +1241,7 @@ Importe de adjudicación sin IVA: 3.100,00 €.
 Expediente: MEN/SERV/2026000061.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-19910735-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-19910735-adjudicacion</id>
     <title>Adjudicación: Contrato de servicios para la gestión de las Escuelas Infantiles Municipales, &quot;Allendeduero&quot; y &quot;Aranda de Duero&quot;, a tramitar por procedimiento abierto sujeto a regulación armonizada con dos lotes — ENEQUIP SERVEIS INTEGRALS S.L.U.</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=Dj%2Fki8xDhoeOUi78BmzhOQ%3D%3D"/>
     <published>2026-08-10T00:00:00Z</published>
@@ -1259,7 +1259,7 @@ Importe de adjudicación sin IVA: 668.000,00 €.
 Expediente: ABR/CON_SERV/2026000021.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:l-19965175-adjudicacion</id>
+    <id>tag:contratos.arandadeduero.es,2026:l-19965175-adjudicacion</id>
     <title>Adjudicación: Contratación de infraestructura y gestión de circuito para la celebración del cross de la Constitución 2026 y 3 posibles prorrogas — FOREVENT SERVICIOS ORGANIZATIVOS SLU</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3AwZHRzA%2F7xPpzdqOdhuWg%3D%3D"/>
     <published>2026-08-07T00:00:00Z</published>
@@ -1277,7 +1277,7 @@ Importe de adjudicación sin IVA: 16.899,00 €.
 Expediente: ABR_SMPL/SERV/2026000020.</content>
   </entry>
   <entry>
-    <id>tag:contratos.arandadeduero.dev,2026:m-20266589-menor</id>
+    <id>tag:contratos.arandadeduero.es,2026:m-20266589-menor</id>
     <title>Contrato menor adjudicado: Dirección de obra para la reparación de los caminos del lote 1: parque del Barriles y de la Isla — HERNANDO*GARCIA,RODRIGO</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=COuyaFEOe9XCfVQHDepjGQ%3D%3D"/>
     <published>2026-08-05T00:00:00Z</published>
