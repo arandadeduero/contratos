@@ -1734,16 +1734,18 @@ const mesaRow = (m, now) => {
     + `</div></details></div></li>`;
 };
 const MESAS_VISIBLE = 4;
+const MESAS_NOTE = '<p class="note" style="margin:6px 0 0">Solo aparecen las mesas que el departamento de Contratación del Ayuntamiento publica en la Plataforma de Contratación del Sector Público: si no las publica, o no indica bien la fecha, no salen aquí.</p>';
 // Pinta la franja en `container` (el mismo código en Resumen y en Licitaciones abiertas): solo mesas con inicio >= ahora.
 function renderMesas(container, now = Date.now()) {
   const next = (DATA.mesas || []).filter((m) => m.start >= now);
   const hid = container.getAttribute("aria-labelledby");
   const head = `<div class="head"><h2 id="${esc(hid)}">Próximas mesas de contratación${next.length ? ` <span class="note">(${next.length})</span>` : ""}</h2>`
     + '<a class="cal-link" href="mesas.ics" title="Fichero .ics con todas las mesas de contratación: suscríbete desde tu calendario">📅 Calendario mesas de contratación</a></div>';
-  if (!next.length) { container.innerHTML = head + '<p class="empty-line">No hay mesas de contratación pendientes</p>'; return; }
+  if (!next.length) { container.innerHTML = head + '<p class="empty-line">No hay mesas de contratación pendientes</p>' + MESAS_NOTE; return; }
   const rest = next.slice(MESAS_VISIBLE);
   container.innerHTML = head + `<ul>${next.slice(0, MESAS_VISIBLE).map((m) => mesaRow(m, now)).join("")}</ul>`
-    + (rest.length ? `<details class="more"><summary>Ver todas (${next.length})</summary><ul>${rest.map((m) => mesaRow(m, now)).join("")}</ul></details>` : "");
+    + (rest.length ? `<details class="more"><summary>Ver todas (${next.length})</summary><ul>${rest.map((m) => mesaRow(m, now)).join("")}</ul></details>` : "")
+    + MESAS_NOTE;
 }
 // el menú se cierra al pulsar fuera o con Escape
 document.addEventListener("click", (e) => document.querySelectorAll("details.mesacal[open]").forEach((d) => { if (!d.contains(e.target)) d.open = false; }));
@@ -1824,7 +1826,9 @@ function renderCad() {
   ], rows, tbl.cad, 25, "No hay contratos con ese vencimiento en los datos.");
   $("cad-note").textContent = `Solo contratos adjudicados con fecha de fin en la ficha o con duración indicada (${nf.format(all.length)} de ${nf.format(R.filter((r) => r.hasAward).length)}). `
     + `Cuando la ficha no trae fecha de fin, se estima sumando la duración al inicio de ejecución o, si no consta, a la adjudicación («est.»). `
-    + `No incluye prórrogas ni modificaciones: la fecha real puede ser posterior. Los datos son del ${fmtDate(REF)}: confirma siempre en el anuncio original.`;
+    + `No incluye prórrogas ni modificaciones: la fecha real puede ser posterior. `
+    + `La fecha de fin y la duración dependen de que el departamento de Contratación del Ayuntamiento las indique correctamente en la Plataforma. `
+    + `Los datos son del ${fmtDate(REF)}: confirma siempre en el anuncio original.`;
 }
 
 function renderList() {
@@ -1871,6 +1875,8 @@ $("csv").addEventListener("click", () => {
 });
 
 $("foot").innerHTML = `Fuente: Plataforma de Contratación del Sector Público (feeds de sindicación). Datos hasta el ${esc(fmtDate(REF))} (último anuncio recibido).
+  Esta página solo agrega lo publicado en la Plataforma: que los datos (mesas de contratación, plazos, fechas de fin…) estén completos y sean correctos
+  depende de que el departamento de Contratación del Ayuntamiento los publique correctamente.
   «Fecha» es la de adjudicación o, si no consta, la de última actualización del anuncio. «Importe» es el adjudicado con IVA; si el contrato aún no
   tiene importe adjudicado se muestra el presupuesto y no se suma en los totales. Si un contrato tiene varias versiones publicadas se usa la más reciente.
   El tiempo hasta la adjudicación se mide desde el cierre del plazo de ofertas y solo en licitaciones con ambas fechas.

@@ -16,10 +16,10 @@ de evento, así que suscribirse a varios no duplica nada.
 | Calendario | URL | Para qué sirve |
 | --- | --- | --- |
 | Completo | <https://contratos.arandadeduero.es/aperturas.ics> | Todo lo siguiente junto. |
-| Mesas de contratación | <https://contratos.arandadeduero.es/mesas.ics> | Aperturas de ofertas. |
+| Mesas de contratación | <https://contratos.arandadeduero.es/mesas.ics> | Aperturas de ofertas (solo las que publica el Ayuntamiento, ver «Datos»). |
 | Plazos de licitaciones | <https://contratos.arandadeduero.es/plazos.ics> | `PUB` (publicación) y `ULT. DÍA` (fin del plazo de ofertas, con alarma). |
 | Adjudicaciones | <https://contratos.arandadeduero.es/adjudicaciones.ics> | `ADJ` y `ADJ. MENOR`. |
-| Vencimientos de contratos | <https://contratos.arandadeduero.es/vencimientos.ics> | `AVISO FIN`: contratos que caducan, con alarma el día antes. |
+| Vencimientos de contratos | <https://contratos.arandadeduero.es/vencimientos.ics> | `AVISO FIN`: contratos que caducan, con alarma el día antes (según la fecha de fin o duración publicada, ver «Datos»). |
 
 ## Feeds
 
@@ -105,6 +105,10 @@ Configuración del envío de correos (opcional): `SEND_EMAILS=1`, `NOTIFY_TO` (d
 
 Los datos proceden de fuentes públicas de la Plataforma de Contratación del Sector Público. La página es informativa:
 confirma siempre el estado de cada procedimiento en el anuncio original.
+
+Este proyecto **solo agrega lo que hay publicado en la Plataforma**; no crea ni corrige datos. Las mesas de
+contratación (aperturas de ofertas) y los vencimientos de los contratos solo aparecen si el departamento de Contratación
+del Ayuntamiento los publica, y con las fechas que indique: mantenerlos completos y correctos es trabajo suyo.
 
 ## Licencia
 
