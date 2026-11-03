@@ -46,7 +46,7 @@ Más los calendarios y los feeds de arriba. Los anuncios originales descargados 
 Se regeneran cada noche. Los **datos** se publican con licencia
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) (reutilización de la información del sector público,
 Ley 37/2007), citando: «Ayuntamiento de Aranda de Duero, a partir de la Plataforma de Contratación del Sector Público».
-La licencia MIT es solo del código.
+La licencia EUPL-1.2 es solo del código.
 
 ## Analítica
 
@@ -112,5 +112,5 @@ del Ayuntamiento los publica, y con las fechas que indique: mantenerlos completo
 
 ## Licencia
 
-El código: [MIT](LICENSE), © 2026 Ayuntamiento de Aranda de Duero. Los datos publicados en `/datos`: CC BY 4.0
-(ver «Datos abiertos»).
+El código: [Licencia Pública de la Unión Europea (EUPL) v1.2](LICENSE), © 2026 Ayuntamiento de Aranda de Duero. Es la licencia común de todo el software del Ayuntamiento: ver [arandadeduero/licencia](https://github.com/arandadeduero/licencia).
+Los datos publicados en `/datos`: CC BY 4.0 (ver «Datos abiertos»).

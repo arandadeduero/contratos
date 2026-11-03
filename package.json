@@ -34,7 +34,7 @@
     "functions": 90
   },
   "author": "",
-  "license": "MIT",
+  "license": "EUPL-1.2",
   "type": "module",
   "dependencies": {
     "@aws-sdk/client-ses": "^3.1159.0",
