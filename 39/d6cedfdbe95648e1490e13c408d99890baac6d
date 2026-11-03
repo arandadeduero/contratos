@@ -1,0 +1,28 @@
+transparencia/template.html
+  s_59b9978543df22::t_8317e1cfd78042 1725,1732,1735-1736,1817-1819,1866-1867
+README.md
+  s_59b9978543df22::t_8317e1cfd78042 19,22,109-111
+  s_59b9978543df22::t_d7687db38f8dac 112
+docs/datos/index.html
+  s_59b9978543df22::t_8317e1cfd78042 236-238
+transparencia/datos.html
+  s_59b9978543df22::t_8317e1cfd78042 186-188
+docs/index.html
+  s_59b9978543df22::t_f3a9103514d163 1737,1744,1747-1748,1829-1831,1878-1879
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "39d6cedfdbe95648e1490e13c408d99890baac6d",
+  "prompts": {},
+  "sessions": {
+    "s_59b9978543df22": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "42e0b888-9dca-41c2-8e1b-e19cc465b116",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
