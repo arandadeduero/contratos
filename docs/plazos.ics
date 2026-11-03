@@ -6,10 +6,105 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Plazos de licitaciones
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:l-20827723-pub@contratacion-estado
+DTSTAMP:20261103T135338Z
+LAST-MODIFIED:20261103T135338Z
+SEQUENCE:1793714018
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:PUB: Contratación del servicio de mantenimiento e inspección peri
+ ódica de las botellas de aire comprimido\, el centro de carga y la cabina
+  de seguridad de llenado de botellas de aire comprimido y los equipos de r
+ espiración autónoma del SPEIS (Bomberos)
+DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
+ ódica de las botellas de aire comprimido\, el centro de carga y la cabina
+  de seguridad de llenado de botellas de aire comprimido y los equipos de r
+ espiración autónoma del SPEIS (Bomberos)\nExpediente: ABR_SMPL/SERV/2026
+ 000048\nPublicada: 2026-11-03\nFin del plazo de ofertas: 2026-11-18 23:59\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20827723-ult@contratacion-estado
+DTSTAMP:20261103T135338Z
+LAST-MODIFIED:20261103T135338Z
+SEQUENCE:1793714018
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ULT. DÍA: Contratación del servicio de mantenimiento e inspecció
+ n periódica de las botellas de aire comprimido\, el centro de carga y la 
+ cabina de seguridad de llenado de botellas de aire comprimido y los equipo
+ s de respiración autónoma del SPEIS (Bomberos)
+DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
+ ódica de las botellas de aire comprimido\, el centro de carga y la cabina
+  de seguridad de llenado de botellas de aire comprimido y los equipos de r
+ espiración autónoma del SPEIS (Bomberos)\nExpediente: ABR_SMPL/SERV/2026
+ 000048\nPublicada: 2026-11-03\nFin del plazo de ofertas: 2026-11-18 23:59\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Contratación del servicio de mantenimiento e inspec
+ ción periódica de las botellas de aire comprimido\, el centro de carga y
+  la cabina de seguridad de llenado de botellas de aire comprimido y los eq
+ uipos de respiración autónoma del SPEIS (Bomberos)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788096-pub@contratacion-estado
+DTSTAMP:20261103T131309Z
+LAST-MODIFIED:20261103T131309Z
+SEQUENCE:1793711589
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:PUB: Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
+ _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
+ 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
+ alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788096-ult@contratacion-estado
+DTSTAMP:20261103T131309Z
+LAST-MODIFIED:20261103T131309Z
+SEQUENCE:1793711589
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ULT. DÍA: Contrato de suministro de adquisición de uniformidad y 
+ dotación de los efectivos del Servicio de Prevención\, Extinción de inc
+ endios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
+ _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
+ 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
+ alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Contrato de suministro de adquisición de uniformida
+ d y dotación de los efectivos del Servicio de Prevención\, Extinción de
+  incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20586273-pub@contratacion-estado
-DTSTAMP:20261029T121049Z
-LAST-MODIFIED:20261029T121049Z
-SEQUENCE:1793275849
+DTSTAMP:20261103T075528Z
+LAST-MODIFIED:20261103T075528Z
+SEQUENCE:1793692528
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:PUB: Suministro de energía a varias dependencias municipales a tra
@@ -24,9 +119,9 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20586273-ult@contratacion-estado
-DTSTAMP:20261029T121049Z
-LAST-MODIFIED:20261029T121049Z
-SEQUENCE:1793275849
+DTSTAMP:20261103T075528Z
+LAST-MODIFIED:20261103T075528Z
+SEQUENCE:1793692528
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:ULT. DÍA: Suministro de energía a varias dependencias municipales
@@ -294,51 +389,6 @@ ACTION:DISPLAY
 DESCRIPTION:ULT. DÍA: PRTR - Contratación de las Obras de Reurbanización
   de las calles del entorno de Los Bloques\, situados en la UR-5 del ERRP d
  e Santa Catalina.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788096-pub@contratacion-estado
-DTSTAMP:20261027T113517Z
-LAST-MODIFIED:20261027T113517Z
-SEQUENCE:1793100917
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:PUB: Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
-DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
- _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
- 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788096-ult@contratacion-estado
-DTSTAMP:20261027T113517Z
-LAST-MODIFIED:20261027T113517Z
-SEQUENCE:1793100917
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:ULT. DÍA: Contrato de suministro de adquisición de uniformidad y 
- dotación de los efectivos del Servicio de Prevención\, Extinción de inc
- endios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
-DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
- _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
- 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contrato de suministro de adquisición de uniformida
- d y dotación de los efectivos del Servicio de Prevención\, Extinción de
-  incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

@@ -11103,7 +11103,7 @@
     "title": "Contrato basado en el Acuerdo Marco para la contratación de determinados contratos de seguros por la Central de Contratación de la FEMP - Seguro de daños materiales para el Ayuntamiento de Aranda de Duero (Lote 2)",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=adzgqLJJX2FeKgd8LfVV9g%3D%3D",
     "status": "RES",
-    "version": 1770023338279,
+    "version": 1793696878820,
     "source": null,
     "events": []
   },
@@ -11873,34 +11873,10 @@
     "ref": "ABR_SMPL/OBR/2026000028",
     "title": "Contrato de obras para el rediseño estancial y mejora del equipamiento de uso público del parque de la Huerta en Aranda de Duero (Burgos)",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D",
-    "status": "ADJ",
-    "version": 1791547632151,
-    "source": {
-      "name": "Pliego",
-      "published": "2026-08-14T05:57:50.000Z"
-    },
-    "events": [
-      {
-        "kind": 1,
-        "type": "Apertura sobre administrativo",
-        "sobre": "Sobre A - Documentación administrativa",
-        "date": "2026-09-04",
-        "time": "11:30",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": false
-      },
-      {
-        "kind": 4,
-        "type": "Apertura sobre oferta económica",
-        "sobre": "Sobre C - Documentación relativa a criterios de adjudicación automáticos",
-        "date": "2026-09-04",
-        "time": "11:45",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": true
-      }
-    ]
+    "status": "RES",
+    "version": 1793694390046,
+    "source": null,
+    "events": []
   },
   "20305305": {
     "ref": "NEG_SINP/SERV/2026000025",
@@ -12200,34 +12176,10 @@
     "ref": "ABR/SUMIN/2026000042",
     "title": "Suministro de energía a varias dependencias municipales a través de la red de calor de Aranda de Duero",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BEtE8Mxlvfxq1DdmE7eaXg%3D%3D",
-    "status": "EV",
-    "version": 1793275849504,
-    "source": {
-      "name": "Pliego",
-      "published": "2026-09-29T07:54:11.000Z"
-    },
-    "events": [
-      {
-        "kind": 1,
-        "type": "Apertura sobre administrativo",
-        "sobre": "Sobre A - Documentación administrativa",
-        "date": "2026-10-29",
-        "time": "11:30",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": false
-      },
-      {
-        "kind": 4,
-        "type": "Apertura sobre oferta económica",
-        "sobre": "Sobre c - Documentación relativa a criterios de adjudicación automáticos",
-        "date": "2026-10-29",
-        "time": "11:45",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": true
-      }
-    ]
+    "status": "RES",
+    "version": 1793692528735,
+    "source": null,
+    "events": []
   },
   "20593604": {
     "ref": "ABR_SMPL/SUMIN/2026000041",
@@ -12355,23 +12307,9 @@
     "title": "Contrato de suministro de adquisición de uniformidad y dotación de los efectivos del Servicio de Prevención, Extinción de incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D",
     "status": "PUB",
-    "version": 1793100917284,
-    "source": {
-      "name": "Pliego",
-      "published": "2026-10-27T11:35:17.000Z"
-    },
-    "events": [
-      {
-        "kind": 4,
-        "type": "Apertura sobre oferta económica",
-        "sobre": "Sobre Unico - Documentación administrativa y documentación relativa a criterios de adjudicación automáticos",
-        "date": "2026-11-12",
-        "time": "11:30",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": null
-      }
-    ]
+    "version": 1793711589758,
+    "source": null,
+    "events": []
   },
   "20788245": {
     "ref": "ABR_SMPL/SUMIN/2026000047",
@@ -12395,5 +12333,14 @@
         "public": false
       }
     ]
+  },
+  "20827723": {
+    "ref": "ABR_SMPL/SERV/2026000048",
+    "title": "Contratación del servicio de mantenimiento e inspección periódica de las botellas de aire comprimido, el centro de carga y la cabina de seguridad de llenado de botellas de aire comprimido y los equipos de respiración autónoma del SPEIS (Bomberos)",
+    "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D",
+    "status": "PUB",
+    "version": 1793714018544,
+    "source": null,
+    "events": []
   }
 }
