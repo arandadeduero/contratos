@@ -103,13 +103,10 @@ header.top p.cal{margin:-6px 0 14px;font-size:.85rem}
 .kpi .s{margin-top:6px;padding-top:6px;border-top:1px solid var(--line);font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
 .panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:16px}
 .panel h2{margin:0 0 12px;font-size:1.05rem}
-#filters h2{margin:0}
-#filters-body:not([hidden]){margin-top:12px}
-.ftoggle{display:flex;align-items:center;gap:8px;border:0;background:none;padding:2px 0;font:inherit;font-weight:700;color:var(--ink);cursor:pointer;text-align:left}
-.ftoggle .chev{flex:none;transition:transform .15s ease}
-.ftoggle[aria-expanded="true"] .chev{transform:rotate(90deg)}
-.fcount{background:var(--o-info-bg);border:1px solid var(--o-info-bd);border-radius:999px;padding:0 8px;font-size:.75rem;font-weight:600}
-@media (prefers-reduced-motion:reduce){.ftoggle .chev{transition:none}}
+.fclear{display:flex;gap:8px 12px;align-items:center;flex-wrap:wrap;margin:16px 0}
+.fclear[hidden]{display:none}
+.fclear .note{flex:1 1 240px}
+button.danger{background:#b3261e;color:#fff;border-color:#b3261e;font-weight:600}
 .filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
 .filters .search{grid-column:1/-1}
 label{display:block;font-size:.8rem;color:var(--muted);margin-bottom:3px}
@@ -338,8 +335,7 @@ details.mesacal summary:focus-visible,details.mesacal .menu a:focus-visible,.mes
 <main class="wrap">
   <section class="panel mesas" id="mesas-resumen" data-tab="resumen" style="margin-top:16px;margin-bottom:0" aria-labelledby="h-mesas-resumen"></section>
   <section class="panel" id="filters" aria-labelledby="h-filtros" style="margin-top:16px">
-    <h2 id="h-filtros"><button type="button" id="filters-toggle" class="ftoggle" aria-expanded="false" aria-controls="filters-body"><svg class="chev" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true" focusable="false"><path d="M5 2l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Buscar y filtrar</span><span class="fcount" id="filters-count" hidden></span></button></h2>
-    <div id="filters-body" hidden>
+    <h2 id="h-filtros">Buscar y filtrar</h2>
     <div class="filters">
       <div class="search">
         <label for="q">Texto libre: objeto del contrato, contratista, NIF o nº de expediente</label>
@@ -360,9 +356,22 @@ details.mesacal summary:focus-visible,details.mesacal .menu a:focus-visible,.mes
       <div><label for="f-to">Hasta</label><input id="f-to" type="date"></div>
       <div class="row"><button id="reset" class="primary" type="button">Limpiar filtros</button></div>
     </div>
-    </div>
     <div class="chips" id="chips"></div>
   </section>
+  <!-- fuera de Búsqueda los filtros siguen aplicándose (p. ej. al pinchar en un gráfico): aviso y botón para quitarlos -->
+  <div class="fclear" id="fclear" role="status" hidden>
+    <span class="note" id="fclear-text"></span>
+    <button id="reset2" class="danger" type="button">Limpiar filtros</button>
+  </div>
+
+  <!-- ============ BÚSQUEDA ============ -->
+  <div data-tab="busqueda" hidden>
+    <section class="panel" id="busqueda-top">
+      <h2>Contratos de mayor importe <span class="note" id="s-count"></span></h2>
+      <div id="s-top"></div>
+      <p class="note" style="margin:8px 0 0"><button type="button" class="linkbtn" id="s-list">Ver todos en el listado general</button></p>
+    </section>
+  </div>
 
   <!-- ============ RESUMEN ============ -->
   <div data-tab="resumen">
@@ -639,7 +648,7 @@ const countParts = (e) => e.byP.map((x) => x.n);
 const emptyP = () => PERIODS.map(() => ({ n: 0, nAw: 0, sum: 0 }));
 const MONTHS = ["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"];
 const MONTHS_LONG = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
-const TABS = [["resumen","Resumen"],["evolucion","Evolución anual"],["sentiraranda","Sentir Aranda vs Partido Popular"],["nextgen","NextGenerationEU"],["adjudicatarios","Adjudicatarios"],["abiertas","Licitaciones abiertas"],["caducidades","Caducidades"],["listado","Listado general"]];
+const TABS = [["resumen","Resumen"],["busqueda","Búsqueda"],["evolucion","Evolución anual"],["sentiraranda","Sentir Aranda vs Partido Popular"],["nextgen","NextGenerationEU"],["adjudicatarios","Adjudicatarios"],["abiertas","Licitaciones abiertas"],["caducidades","Caducidades"],["listado","Listado general"]];
 // Tramos (desde, hasta]: cada uno incluye su importe superior ("hasta 3.000" incluye 3.000,00 €)
 const RANGES = [["Hasta 3.000 €",-Infinity,3000],["3.000 – 5.000 €",3000,5000],["5.000 – 15.000 €",5000,15000],["15.000 – 40.000 €",15000,40000],["Más de 40.000 €",40000,Infinity]];
 const TYPE_GROUPS = ["Servicios","Suministros","Obras","Otros"];
@@ -730,16 +739,15 @@ for (const [id,key,delay] of bind) {
     clearTimeout(timer); timer = setTimeout(render, delay);
   });
 }
-$("filters-toggle").addEventListener("click", () => {
-  const open = $("filters-toggle").getAttribute("aria-expanded") !== "true";
-  $("filters-toggle").setAttribute("aria-expanded", String(open)); $("filters-body").hidden = !open;
-});
-$("reset").addEventListener("click", () => {
+function clearFilters() {
   Object.assign(state, { q:"",year:"",month:"",body:"",kind:"",type:"",proc:"",status:"",result:"",period:"",min:"",max:"",from:"",to:"",winner:"" });
   for (const [id,key] of bind) if (!key.startsWith("cmp") && key !== "adjQ") $(id).value = "";
   for (const t of Object.values(tbl)) t.page = 0;
   render();
-});
+}
+$("reset").addEventListener("click", clearFilters);
+$("reset2").addEventListener("click", clearFilters);
+$("s-list").addEventListener("click", () => { goTab("listado"); window.scrollTo({ top: 0, behavior: "smooth" }); });
 function toggleFilter(key, val, selectId) {
   state[key] = String(state[key]) === String(val) ? "" : String(val);
   if (selectId) $(selectId).value = state[key];
@@ -1179,22 +1187,37 @@ $("detail").addEventListener("click", (e) => { if (e.target === $("detail")) $("
 let filtered = [], listRows = [], adjRows = [];
 function render() {
   tip.hidden = true;
-  $("filters").hidden = ["sentiraranda", "nextgen", "caducidades"].includes(state.tab); // pestañas solo informativas: sin filtros
+  $("filters").hidden = state.tab !== "busqueda";
   // pestañas
   $("tabs").innerHTML = visibleTabs().map(([k, l]) => `<button role="tab" id="tab-${k}" aria-selected="${state.tab === k}" data-t="${k}">${esc(l)}</button>`).join("");
   $("tabs").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => goTab(b.dataset.t)));
   document.querySelectorAll("[data-tab]").forEach((s) => { s.hidden = s.dataset.tab !== state.tab; });
 
   filtered = R.filter((r) => passes(r));
-  // indicador de filtros activos en el botón (los filtros se aplican aunque el panel esté colapsado)
-  const nActive = ["q","year","month","body","kind","type","proc","status","result","period","min","max","from","to","winner"].filter((k) => state[k] !== "" && state[k] != null).length;
-  $("filters-count").hidden = !nActive; $("filters-count").textContent = nActive ? `${nActive} ${nActive === 1 ? "activo" : "activos"}` : "";
+  // fuera de Búsqueda, aviso en rojo de los filtros activos (las pestañas solo informativas no filtran)
+  const active = activeFilters();
+  $("fclear").hidden = !active.length || ["busqueda", "sentiraranda", "nextgen", "caducidades"].includes(state.tab);
+  $("fclear-text").textContent = active.length ? "Filtros activos: " + active.join(" · ") : "";
   const chips = [];
   if (state.winner) chips.push(["winner", "Contratista: " + winnerLabel(state.winner)]);
   $("chips").innerHTML = chips.map(([k,t]) => `<span class="chip">${esc(t)}<button data-k="${k}" aria-label="Quitar filtro: ${esc(t)}">×</button></span>`).join("");
   $("chips").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => { state[b.dataset.k] = ""; for (const t of Object.values(tbl)) t.page = 0; render(); }));
 
-  ({ resumen: renderResumen, evolucion: renderEvolucion, sentiraranda: renderVersus, nextgen: renderNextGen, adjudicatarios: renderAdj, abiertas: renderOpen, caducidades: renderCad, listado: renderList })[state.tab]();
+  ({ resumen: renderResumen, busqueda: renderBusqueda, evolucion: renderEvolucion, sentiraranda: renderVersus, nextgen: renderNextGen, adjudicatarios: renderAdj, abiertas: renderOpen, caducidades: renderCad, listado: renderList })[state.tab]();
+}
+
+// Descripción legible de cada filtro activo (para el aviso de fuera de Búsqueda)
+const FILTER_SELECTS = [["year","Año","f-year"],["month","Mes","f-month"],["body","Órgano","f-body"],["kind","Clase","f-kind"],["type","Tipo","f-type"],["proc","Procedimiento","f-proc"],["status","Estado","f-status"],["result","Resultado","f-result"],["period","Corporación","f-period"]];
+function activeFilters() {
+  const out = [];
+  if (state.q) out.push(`Texto: «${state.q}»`);
+  for (const [k, l, id] of FILTER_SELECTS) if (state[k] !== "") out.push(`${l}: ${$(id).selectedOptions[0]?.textContent ?? state[k]}`);
+  if (state.min !== "") out.push(`Desde ${eur.format(+state.min)}`);
+  if (state.max !== "") out.push(`Hasta ${eur.format(+state.max)}`);
+  if (state.from) out.push(`Desde el ${fmtDate(state.from)}`);
+  if (state.to) out.push(`Hasta el ${fmtDate(state.to)}`);
+  if (state.winner) out.push("Contratista: " + winnerLabel(state.winner));
+  return out;
 }
 
 // Leyenda de colores con el recuento de cada corporación sobre lo que se está viendo
@@ -1302,11 +1325,18 @@ function renderResumen() {
       $("f-min").value = state.min; $("f-max").value = state.max; render();
     },
   });
+  renderTop($("c-top"));
+  bubbles($("c-bubbles"), filtered);
+}
+function renderBusqueda() {
+  $("s-count").textContent = `(${nf.format(filtered.length)} contratos con los filtros actuales)`;
+  renderTop($("s-top"));
+}
+function renderTop(el) {
   const topC = filtered.filter((r) => r.hasAward).sort((a, b) => b.amount - a.amount).slice(0, 8);
-  $("c-top").innerHTML = topC.length ? `<table><tbody>` + topC.map((r) =>
+  el.innerHTML = topC.length ? `<table><tbody>` + topC.map((r) =>
     `<tr><td>${esc(r.title.length > 90 ? r.title.slice(0, 90) + "…" : r.title)}<div class="sub">${esc(r.winners.map((w) => winnerLabel(w.key)).join(", ") || "—")} · ${esc(fmtDate(r.date))} · <button type="button" class="linkbtn" data-d="${esc(r.id)}">Ficha</button></div></td>
      <td class="num"><strong>${esc(eur.format(r.amount))}</strong></td></tr>`).join("") + `</tbody></table>` : '<div class="empty">Sin datos</div>';
-  bubbles($("c-bubbles"), filtered);
 }
 // igual que passes() pero sin el filtro de importe (para los tramos)
 function passesNoAmount(r) {

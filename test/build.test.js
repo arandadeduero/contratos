@@ -352,14 +352,23 @@ test('la etiqueta NextGenerationEU es azul, con la bandera de la UE incrustada (
   t.regex(html, /const NG_FLAG = "data:image\/svg\+xml;base64,/);
 });
 
-test('"Buscar y filtrar" carga colapsado: botón con aria-expanded="false", aria-controls y chevron', (t) => {
-  t.regex(TEMPLATE, /<button type="button" id="filters-toggle" class="ftoggle" aria-expanded="false" aria-controls="filters-body"><svg class="chev"[^>]*aria-hidden="true"[\s\S]*?<span>Buscar y filtrar<\/span>/);
-  t.regex(TEMPLATE, /<div id="filters-body" hidden>/);
-  t.regex(TEMPLATE, /\.ftoggle\[aria-expanded="true"\] \.chev\{transform:rotate\(90deg\)\}/);
-  t.regex(TEMPLATE, /prefers-reduced-motion:reduce\)\{\.ftoggle \.chev\{transition:none\}/);
-  // los filtros activos se indican en el botón y las pestañas informativas siguen ocultando todo el panel
-  t.true(TEMPLATE.includes('id="filters-count"'));
-  t.true(TEMPLATE.includes('$("filters").hidden = ["sentiraranda", "nextgen", "caducidades"].includes(state.tab)'));
+test('"Buscar y filtrar" vive en la pestaña Búsqueda (segunda), con el listado de mayor importe', (t) => {
+  t.regex(TEMPLATE, /const TABS = \[\["resumen","Resumen"\],\["busqueda","Búsqueda"\],/);
+  t.regex(TEMPLATE, /<h2 id="h-filtros">Buscar y filtrar<\/h2>/);
+  t.false(TEMPLATE.includes('filters-toggle'));
+  t.true(TEMPLATE.includes('$("filters").hidden = state.tab !== "busqueda";'));
+  const busqueda = TEMPLATE.match(/<div data-tab="busqueda" hidden>([\s\S]*?)<!-- =+ RESUMEN/)[1];
+  t.regex(busqueda, /<h2>Contratos de mayor importe[\s\S]*?<div id="s-top"><\/div>/);
+  // la portada conserva su copia del listado
+  t.regex(TEMPLATE, /renderTop\(\$\("c-top"\)\);/);
+  t.regex(TEMPLATE, /renderTop\(\$\("s-top"\)\);/);
+});
+
+test('fuera de Búsqueda, los filtros activos se avisan con un botón rojo "Limpiar filtros"', (t) => {
+  t.regex(TEMPLATE, /<div class="fclear" id="fclear"[^>]*hidden>[\s\S]*?<button id="reset2" class="danger" type="button">Limpiar filtros<\/button>/);
+  t.regex(TEMPLATE, /button\.danger\{background:#b3261e;color:#fff/);
+  t.true(TEMPLATE.includes('$("fclear").hidden = !active.length || ["busqueda", "sentiraranda", "nextgen", "caducidades"].includes(state.tab);'));
+  t.true(TEMPLATE.includes('$("reset2").addEventListener("click", clearFilters);'));
 });
 
 test('los valores que van en nombres de clase pasan por safeCls (el estado viene del feed externo)', (t) => {
