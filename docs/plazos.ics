@@ -599,33 +599,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20297452-ult@contratacion-estado
-DTSTAMP:20261009T120712Z
-LAST-MODIFIED:20261009T120712Z
-SEQUENCE:1791547632
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:ULT. DÍA: Contrato de obras para el rediseño estancial y mejora d
- el equipamiento de uso público del parque de la Huerta en Aranda de Duero
-  (Burgos)
-DESCRIPTION:Contrato de obras para el rediseño estancial y mejora del equi
- pamiento de uso público del parque de la Huerta en Aranda de Duero (Burgo
- s)\nExpediente: ABR_SMPL/OBR/2026000028\nPublicada: 2026-08-14\nFin del pl
- azo de ofertas: 2026-09-03 23:59\nAdjudicada el 2026-10-09 a INFOREST MEDI
- O AMBIENTE\, S.L.\nFin previsto del contrato: 2027-07-09 (estimado: adjudi
- cación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplin
- k:detalle_licitacion&idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contrato de obras para el rediseño estancial y mejo
- ra del equipamiento de uso público del parque de la Huerta en Aranda de D
- uero (Burgos)
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20698366-pub@contratacion-estado
 DTSTAMP:20261015T065119Z
 LAST-MODIFIED:20261015T065119Z
@@ -644,30 +617,6 @@ DESCRIPTION:Contrato basado en Acuerdo Marco de la Central de Compras de la
  2B0LxGpN9Zh%2FyRJgM8w%3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=jyHv%2B0LxGpN9Zh%2FyRJgM8w%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20317636-ult@contratacion-estado
-DTSTAMP:20261005T055810Z
-LAST-MODIFIED:20261005T055810Z
-SEQUENCE:1791179890
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:ULT. DÍA: Contrato de mantenimiento y certificación de los medido
- res de cloro en continuo del Ayuntamiento de Aranda de Duero.
-DESCRIPTION:Contrato de mantenimiento y certificación de los medidores de 
- cloro en continuo del Ayuntamiento de Aranda de Duero.\nExpediente: ABR_SM
- PL/SERV/2026000030\nPublicada: 2026-08-19\nFin del plazo de ofertas: 2026-
- 09-03 23:59\nAdjudicada el 2026-09-30 a HANNA instruments\,S.L.\nhttps://c
- ontrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iPNN
- bTdg5vFJ8Trn0ZPzLw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=iPNNbTdg5vFJ8Trn0ZPzLw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contrato de mantenimiento y certificación de los me
- didores de cloro en continuo del Ayuntamiento de Aranda de Duero.
-TRIGGER:-PT15H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20417018-pub@contratacion-estado

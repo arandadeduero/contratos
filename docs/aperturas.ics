@@ -42,45 +42,6 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
 END:VEVENT
 BEGIN:VEVENT
-UID:20297452-1-sobre-a-documentacio-n-administrativa@contratacion-estado
-DTSTAMP:20260814T055750Z
-LAST-MODIFIED:20260814T055750Z
-SEQUENCE:1786687070
-DTSTART:20260904T093000Z
-DTEND:20260904T100000Z
-SUMMARY:PRIV · Administrativo: Contrato de obras para el rediseño estanci
- al y mejora del equipamiento de uso público del parque de la Huerta en Ar
- anda de Duero (Burgos)
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Contrato de obras para el rediseño estancial y mejora del equi
- pamiento de uso público del parque de la Huerta en Aranda de Duero (Burgo
- s)\nExpediente: ABR_SMPL/OBR/2026000028\nSobre: Sobre A - Documentación a
- dministrativa\nActo no público\nhttps://contrataciondelestado.es/wps/poc?
- uri=deeplink:detalle_licitacion&idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:20297452-4-sobre-c-documentacio-n-relativa-a-criter@contratacion-estado
-DTSTAMP:20260814T055750Z
-LAST-MODIFIED:20260814T055750Z
-SEQUENCE:1786687070
-DTSTART:20260904T094500Z
-DTEND:20260904T101500Z
-SUMMARY:Oferta económica: Contrato de obras para el rediseño estancial y 
- mejora del equipamiento de uso público del parque de la Huerta en Aranda 
- de Duero (Burgos)
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Contrato de obras para el rediseño estancial y mejora del equi
- pamiento de uso público del parque de la Huerta en Aranda de Duero (Burgo
- s)\nExpediente: ABR_SMPL/OBR/2026000028\nSobre: Sobre C - Documentación r
- elativa a criterios de adjudicación automáticos\nActo público\nhttps://
- contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3V2
- iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:20317636-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
 DTSTAMP:20260819T060255Z
 LAST-MODIFIED:20260819T060255Z
@@ -1625,33 +1586,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20297452-ult@contratacion-estado
-DTSTAMP:20261009T120712Z
-LAST-MODIFIED:20261009T120712Z
-SEQUENCE:1791547632
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:ULT. DÍA: Contrato de obras para el rediseño estancial y mejora d
- el equipamiento de uso público del parque de la Huerta en Aranda de Duero
-  (Burgos)
-DESCRIPTION:Contrato de obras para el rediseño estancial y mejora del equi
- pamiento de uso público del parque de la Huerta en Aranda de Duero (Burgo
- s)\nExpediente: ABR_SMPL/OBR/2026000028\nPublicada: 2026-08-14\nFin del pl
- azo de ofertas: 2026-09-03 23:59\nAdjudicada el 2026-10-09 a INFOREST MEDI
- O AMBIENTE\, S.L.\nFin previsto del contrato: 2027-07-09 (estimado: adjudi
- cación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplin
- k:detalle_licitacion&idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contrato de obras para el rediseño estancial y mejo
- ra del equipamiento de uso público del parque de la Huerta en Aranda de D
- uero (Burgos)
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20297452-adj@contratacion-estado
 DTSTAMP:20261009T120712Z
 LAST-MODIFIED:20261009T120712Z
@@ -1886,30 +1820,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación espectáculo La bella durmiente\, el m
  usical de tus recuerdos
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20317636-ult@contratacion-estado
-DTSTAMP:20261005T055810Z
-LAST-MODIFIED:20261005T055810Z
-SEQUENCE:1791179890
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:ULT. DÍA: Contrato de mantenimiento y certificación de los medido
- res de cloro en continuo del Ayuntamiento de Aranda de Duero.
-DESCRIPTION:Contrato de mantenimiento y certificación de los medidores de 
- cloro en continuo del Ayuntamiento de Aranda de Duero.\nExpediente: ABR_SM
- PL/SERV/2026000030\nPublicada: 2026-08-19\nFin del plazo de ofertas: 2026-
- 09-03 23:59\nAdjudicada el 2026-09-30 a HANNA instruments\,S.L.\nhttps://c
- ontrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iPNN
- bTdg5vFJ8Trn0ZPzLw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=iPNNbTdg5vFJ8Trn0ZPzLw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contrato de mantenimiento y certificación de los me
- didores de cloro en continuo del Ayuntamiento de Aranda de Duero.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -2402,23 +2312,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-19806745-adj@contratacion-estado
-DTSTAMP:20260907T061256Z
-LAST-MODIFIED:20260907T061256Z
-SEQUENCE:1788761576
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:ADJ: Constitución de un derecho de superficies sobre parcela desti
- nada a puerto seco
-DESCRIPTION:Constitución de un derecho de superficies sobre parcela destin
- ada a puerto seco\nExpediente: 2025/0025377G-2\nPublicada: 2026-06-03\nFin
-  del plazo de ofertas: 2026-06-29 23:59\nAdjudicada el 2026-09-03 a ASERCO
- MEX LOGISTICS SL\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:de
- talle_licitacion&idEvl=P0XcA8xTHJjXOjazN1Dw9Q%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=P0XcA8xTHJjXOjazN1Dw9Q%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20377047-pub@contratacion-estado
 DTSTAMP:20260907T073540Z
 LAST-MODIFIED:20260907T073540Z
@@ -2426,25 +2319,6 @@ SEQUENCE:1788766540
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:PUB: Contratación de la actuación musical de "Kiko Veneno" el sá
- bado 5 de septiembre de 2026\, para la IX Fiesta de la Vendimia de Aranda 
- de Duero.
-DESCRIPTION:Contratación de la actuación musical de "Kiko Veneno" el sáb
- ado 5 de septiembre de 2026\, para la IX Fiesta de la Vendimia de Aranda d
- e Duero.\nExpediente: NEG_SINP/SERV/2026000031\nPublicada: 2026-09-07\nFin
-  del plazo de ofertas: 2026-08-25 23:59\nAdjudicada el 2026-09-03 a EL PLA
- NETA SONORO\, S.L.\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:
- detalle_licitacion&idEvl=b%2BuyqCyJvYh%2FR5QFTlaM4A%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=b%2BuyqCyJvYh%2FR5QFTlaM4A%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20377047-adj@contratacion-estado
-DTSTAMP:20260907T073540Z
-LAST-MODIFIED:20260907T073540Z
-SEQUENCE:1788766540
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:ADJ: Contratación de la actuación musical de "Kiko Veneno" el sá
  bado 5 de septiembre de 2026\, para la IX Fiesta de la Vendimia de Aranda 
  de Duero.
 DESCRIPTION:Contratación de la actuación musical de "Kiko Veneno" el sáb
