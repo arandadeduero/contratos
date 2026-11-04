@@ -11420,34 +11420,10 @@
     "ref": "ABR_SMPL/SERV/2026000016",
     "title": "Gestión RRSS y diseño de contenidos WEB para el Ayuntamiento de Aranda de Duero",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=e05vDBSEOVeIzo3LHNPGcQ%3D%3D",
-    "status": "ADJ",
-    "version": 1793020232224,
-    "source": {
-      "name": "Rectificación de Pliego",
-      "published": "2026-05-18T12:15:50.000Z"
-    },
-    "events": [
-      {
-        "kind": 1,
-        "type": "Apertura sobre administrativo",
-        "sobre": "Sobre A. Documentacion administrativa y documentacion relativa a criterios de adjudicación en funcion de juicio de valor",
-        "date": "2026-05-26",
-        "time": "11:30",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": false
-      },
-      {
-        "kind": 4,
-        "type": "Apertura sobre oferta económica",
-        "sobre": "Sobre C - Documentación relativa a criterios de adjudicación automáticos",
-        "date": "2026-06-03",
-        "time": "12:00",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": true
-      }
-    ]
+    "status": "RES",
+    "version": 1793778934508,
+    "source": null,
+    "events": []
   },
   "19637067": {
     "ref": "NEG_SINP/SERV/2026000015",
@@ -11547,34 +11523,10 @@
     "ref": "2025/0025377G-2",
     "title": "Constitución de un derecho de superficies sobre parcela destinada a puerto seco",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=P0XcA8xTHJjXOjazN1Dw9Q%3D%3D",
-    "status": "ADJ",
-    "version": 1788761576411,
-    "source": {
-      "name": "Rectificación de Pliego",
-      "published": "2026-06-17T07:31:46.000Z"
-    },
-    "events": [
-      {
-        "kind": 1,
-        "type": "Apertura sobre administrativo",
-        "sobre": "SOBRE A DERECHO DE SUPERFICIE",
-        "date": "2026-06-30",
-        "time": "11:30",
-        "place": "SALON DE PLENOS",
-        "address": "PLAZA MAYOR 1, ARANDA DE DUERO",
-        "public": false
-      },
-      {
-        "kind": 4,
-        "type": "Apertura sobre oferta económica",
-        "sobre": "SOBRE B DERECHO DE SUPERFICIE",
-        "date": "2026-06-30",
-        "time": "11:45",
-        "place": "SALON DE PLENOS",
-        "address": "PLAZA MAYOR 1, ARANDA DE DUERO",
-        "public": true
-      }
-    ]
+    "status": "RES",
+    "version": 1793786774645,
+    "source": null,
+    "events": []
   },
   "19846619": {
     "ref": "2026/00008980T",
