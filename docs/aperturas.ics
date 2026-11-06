@@ -296,25 +296,6 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
 END:VEVENT
 BEGIN:VEVENT
-UID:20593604-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
-DTSTAMP:20260930T112918Z
-LAST-MODIFIED:20260930T112918Z
-SEQUENCE:1790767758
-DTSTART:20261016T093000Z
-DTEND:20261016T100000Z
-SUMMARY:Oferta económica: Suministro de furgón de atestados para la Polic
- ía Local de Aranda de Duero
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Suministro de furgón de atestados para la Policía Local de Ar
- anda de Duero\nExpediente: ABR_SMPL/SUMIN/2026000041\nSobre: Sobre Unico -
-  Documentación administrativa y documentación relativa a criterios de ad
- judicación automáticos\nActo público\nhttps://contrataciondelestado.es/
- wps/poc?uri=deeplink:detalle_licitacion&idEvl=1YIBJEct%2BG4IYE3ZiZ%2BxmQ%3
- D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=1YIBJEct%2BG4IYE3ZiZ%2BxmQ%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:20658180-1-sobre-a-documentacio-n-administrativa@contratacion-estado
 DTSTAMP:20261006T125441Z
 LAST-MODIFIED:20261006T125441Z
@@ -441,6 +422,46 @@ DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
  &idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20593604-pub@contratacion-estado
+DTSTAMP:20261106T123942Z
+LAST-MODIFIED:20261106T123942Z
+SEQUENCE:1793968782
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:PUB: Suministro de furgón de atestados para la Policía Local de A
+ randa de Duero
+DESCRIPTION:Suministro de furgón de atestados para la Policía Local de Ar
+ anda de Duero\nExpediente: ABR_SMPL/SUMIN/2026000041\nPublicada: 2026-09-3
+ 0\nFin del plazo de ofertas: 2026-10-15 23:59\nhttps://contrataciondelesta
+ do.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1YIBJEct%2BG4IYE3ZiZ%2
+ BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=1YIBJEct%2BG4IYE3ZiZ%2BxmQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20593604-ult@contratacion-estado
+DTSTAMP:20261106T123942Z
+LAST-MODIFIED:20261106T123942Z
+SEQUENCE:1793968782
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:ULT. DÍA: Suministro de furgón de atestados para la Policía Loca
+ l de Aranda de Duero
+DESCRIPTION:Suministro de furgón de atestados para la Policía Local de Ar
+ anda de Duero\nExpediente: ABR_SMPL/SUMIN/2026000041\nPublicada: 2026-09-3
+ 0\nFin del plazo de ofertas: 2026-10-15 23:59\nhttps://contrataciondelesta
+ do.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1YIBJEct%2BG4IYE3ZiZ%2
+ BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=1YIBJEct%2BG4IYE3ZiZ%2BxmQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Suministro de furgón de atestados para la Policía 
+ Local de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20827723-pub@contratacion-estado
@@ -1076,46 +1097,6 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación del espectáculo Flamencoh
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20593604-pub@contratacion-estado
-DTSTAMP:20261022T071518Z
-LAST-MODIFIED:20261022T071518Z
-SEQUENCE:1792653318
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:PUB: Suministro de furgón de atestados para la Policía Local de A
- randa de Duero
-DESCRIPTION:Suministro de furgón de atestados para la Policía Local de Ar
- anda de Duero\nExpediente: ABR_SMPL/SUMIN/2026000041\nPublicada: 2026-09-3
- 0\nFin del plazo de ofertas: 2026-10-15 23:59\nhttps://contrataciondelesta
- do.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1YIBJEct%2BG4IYE3ZiZ%2
- BxmQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=1YIBJEct%2BG4IYE3ZiZ%2BxmQ%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20593604-ult@contratacion-estado
-DTSTAMP:20261022T071518Z
-LAST-MODIFIED:20261022T071518Z
-SEQUENCE:1792653318
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:ULT. DÍA: Suministro de furgón de atestados para la Policía Loca
- l de Aranda de Duero
-DESCRIPTION:Suministro de furgón de atestados para la Policía Local de Ar
- anda de Duero\nExpediente: ABR_SMPL/SUMIN/2026000041\nPublicada: 2026-09-3
- 0\nFin del plazo de ofertas: 2026-10-15 23:59\nhttps://contrataciondelesta
- do.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1YIBJEct%2BG4IYE3ZiZ%2
- BxmQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=1YIBJEct%2BG4IYE3ZiZ%2BxmQ%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Suministro de furgón de atestados para la Policía 
- Local de Aranda de Duero
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

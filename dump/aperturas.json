@@ -12138,23 +12138,9 @@
     "title": "Suministro de furgón de atestados para la Policía Local de Aranda de Duero",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1YIBJEct%2BG4IYE3ZiZ%2BxmQ%3D%3D",
     "status": "EV",
-    "version": 1792653318434,
-    "source": {
-      "name": "Pliego",
-      "published": "2026-09-30T11:29:18.000Z"
-    },
-    "events": [
-      {
-        "kind": 4,
-        "type": "Apertura sobre oferta económica",
-        "sobre": "Sobre Unico - Documentación administrativa y documentación relativa a criterios de adjudicación automáticos",
-        "date": "2026-10-16",
-        "time": "11:30",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": true
-      }
-    ]
+    "version": 1793968782452,
+    "source": null,
+    "events": []
   },
   "20658180": {
     "ref": "ABR/OBR/2026000043",
