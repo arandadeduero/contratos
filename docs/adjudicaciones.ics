@@ -6,6 +6,42 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Adjudicaciones
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:m-20859108-adj@contratacion-estado
+DTSTAMP:20261106T131336Z
+LAST-MODIFIED:20261106T131336Z
+SEQUENCE:1793970816
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ADJ. MENOR: Elaboración del proyecto y la dirección de obra para 
+ la renovación del skatepark situado en la calle Isabel I de Castilla\,
+DESCRIPTION:Elaboración del proyecto y la dirección de obra para la renov
+ ación del skatepark situado en la calle Isabel I de Castilla\,\nExpedient
+ e: MEN/SERV/2026000126\nPublicada: 2026-11-06\nAdjudicada el 2026-11-06 a 
+ DANIEL YABAR\nFin previsto del contrato: 2026-12-06 (estimado: adjudicaci
+ ón + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:de
+ talle_licitacion&idEvl=cWQ86SXNNRwadbH3CysQuQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=cWQ86SXNNRwadbH3CysQuQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20859227-adj@contratacion-estado
+DTSTAMP:20261106T124413Z
+LAST-MODIFIED:20261106T124413Z
+SEQUENCE:1793969053
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ADJ. MENOR: Instalación de marquesina para estacionamientos en Com
+ isaría de Policía Local
+DESCRIPTION:Instalación de marquesina para estacionamientos en Comisaría 
+ de Policía Local\nExpediente: MEN/OBR/2026000095\nPublicada: 2026-11-06\n
+ Adjudicada el 2026-11-06 a SORIA RENOVABLES SL\nFin previsto del contrato:
+  2027-01-06 (estimado: adjudicación + duración)\nhttps://contrataciondel
+ estado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=aR8%2BjeI7FRP10HRJ
+ w8TEnQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=aR8%2BjeI7FRP10HRJw8TEnQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20682106-adj@contratacion-estado
 DTSTAMP:20261030T073031Z
 LAST-MODIFIED:20261030T073031Z

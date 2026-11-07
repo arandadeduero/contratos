@@ -6,6 +6,54 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Vencimientos de contratos
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:m-20859108-fin@contratacion-estado
+DTSTAMP:20261106T131336Z
+LAST-MODIFIED:20261106T131336Z
+SEQUENCE:1793970816
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:AVISO FIN: Elaboración del proyecto y la dirección de obra para l
+ a renovación del skatepark situado en la calle Isabel I de Castilla\,
+DESCRIPTION:Elaboración del proyecto y la dirección de obra para la renov
+ ación del skatepark situado en la calle Isabel I de Castilla\,\nExpedient
+ e: MEN/SERV/2026000126\nPublicada: 2026-11-06\nAdjudicada el 2026-11-06 a 
+ DANIEL YABAR\nFin previsto del contrato: 2026-12-06 (estimado: adjudicaci
+ ón + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:de
+ talle_licitacion&idEvl=cWQ86SXNNRwadbH3CysQuQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=cWQ86SXNNRwadbH3CysQuQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Elaboración del proyecto y la dirección de obra pa
+ ra la renovación del skatepark situado en la calle Isabel I de Castilla\,
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20859227-fin@contratacion-estado
+DTSTAMP:20261106T124413Z
+LAST-MODIFIED:20261106T124413Z
+SEQUENCE:1793969053
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:AVISO FIN: Instalación de marquesina para estacionamientos en Comi
+ saría de Policía Local
+DESCRIPTION:Instalación de marquesina para estacionamientos en Comisaría 
+ de Policía Local\nExpediente: MEN/OBR/2026000095\nPublicada: 2026-11-06\n
+ Adjudicada el 2026-11-06 a SORIA RENOVABLES SL\nFin previsto del contrato:
+  2027-01-06 (estimado: adjudicación + duración)\nhttps://contrataciondel
+ estado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=aR8%2BjeI7FRP10HRJ
+ w8TEnQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=aR8%2BjeI7FRP10HRJw8TEnQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Instalación de marquesina para estacionamientos en 
+ Comisaría de Policía Local
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20820608-fin@contratacion-estado
 DTSTAMP:20261030T122124Z
 LAST-MODIFIED:20261030T122124Z

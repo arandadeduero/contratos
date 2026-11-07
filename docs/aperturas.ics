@@ -464,6 +464,90 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:m-20859108-adj@contratacion-estado
+DTSTAMP:20261106T131336Z
+LAST-MODIFIED:20261106T131336Z
+SEQUENCE:1793970816
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ADJ. MENOR: Elaboración del proyecto y la dirección de obra para 
+ la renovación del skatepark situado en la calle Isabel I de Castilla\,
+DESCRIPTION:Elaboración del proyecto y la dirección de obra para la renov
+ ación del skatepark situado en la calle Isabel I de Castilla\,\nExpedient
+ e: MEN/SERV/2026000126\nPublicada: 2026-11-06\nAdjudicada el 2026-11-06 a 
+ DANIEL YABAR\nFin previsto del contrato: 2026-12-06 (estimado: adjudicaci
+ ón + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:de
+ talle_licitacion&idEvl=cWQ86SXNNRwadbH3CysQuQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=cWQ86SXNNRwadbH3CysQuQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20859108-fin@contratacion-estado
+DTSTAMP:20261106T131336Z
+LAST-MODIFIED:20261106T131336Z
+SEQUENCE:1793970816
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:AVISO FIN: Elaboración del proyecto y la dirección de obra para l
+ a renovación del skatepark situado en la calle Isabel I de Castilla\,
+DESCRIPTION:Elaboración del proyecto y la dirección de obra para la renov
+ ación del skatepark situado en la calle Isabel I de Castilla\,\nExpedient
+ e: MEN/SERV/2026000126\nPublicada: 2026-11-06\nAdjudicada el 2026-11-06 a 
+ DANIEL YABAR\nFin previsto del contrato: 2026-12-06 (estimado: adjudicaci
+ ón + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:de
+ talle_licitacion&idEvl=cWQ86SXNNRwadbH3CysQuQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=cWQ86SXNNRwadbH3CysQuQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Elaboración del proyecto y la dirección de obra pa
+ ra la renovación del skatepark situado en la calle Isabel I de Castilla\,
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20859227-adj@contratacion-estado
+DTSTAMP:20261106T124413Z
+LAST-MODIFIED:20261106T124413Z
+SEQUENCE:1793969053
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ADJ. MENOR: Instalación de marquesina para estacionamientos en Com
+ isaría de Policía Local
+DESCRIPTION:Instalación de marquesina para estacionamientos en Comisaría 
+ de Policía Local\nExpediente: MEN/OBR/2026000095\nPublicada: 2026-11-06\n
+ Adjudicada el 2026-11-06 a SORIA RENOVABLES SL\nFin previsto del contrato:
+  2027-01-06 (estimado: adjudicación + duración)\nhttps://contrataciondel
+ estado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=aR8%2BjeI7FRP10HRJ
+ w8TEnQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=aR8%2BjeI7FRP10HRJw8TEnQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20859227-fin@contratacion-estado
+DTSTAMP:20261106T124413Z
+LAST-MODIFIED:20261106T124413Z
+SEQUENCE:1793969053
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:AVISO FIN: Instalación de marquesina para estacionamientos en Comi
+ saría de Policía Local
+DESCRIPTION:Instalación de marquesina para estacionamientos en Comisaría 
+ de Policía Local\nExpediente: MEN/OBR/2026000095\nPublicada: 2026-11-06\n
+ Adjudicada el 2026-11-06 a SORIA RENOVABLES SL\nFin previsto del contrato:
+  2027-01-06 (estimado: adjudicación + duración)\nhttps://contrataciondel
+ estado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=aR8%2BjeI7FRP10HRJ
+ w8TEnQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=aR8%2BjeI7FRP10HRJw8TEnQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Instalación de marquesina para estacionamientos en 
+ Comisaría de Policía Local
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20827723-pub@contratacion-estado
 DTSTAMP:20261103T135338Z
 LAST-MODIFIED:20261103T135338Z
@@ -1269,29 +1353,6 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ULT. DÍA: Reparación muro contención CEIP Fuenteminaya.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20329134-ult@contratacion-estado
-DTSTAMP:20261026T080001Z
-LAST-MODIFIED:20261026T080001Z
-SEQUENCE:1793001601
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:ULT. DÍA: Contratación de un Programa de Ocio Alternativo para fi
- nes de semana
-DESCRIPTION:Contratación de un Programa de Ocio Alternativo para fines de 
- semana\nExpediente: ABR/SERV/2026000032\nPublicada: 2026-08-21\nFin del pl
- azo de ofertas: 2026-09-07 23:59\nAdjudicada el 2026-10-19 a PROACTIVA FOR
- MACIÓN S.L.\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detall
- e_licitacion&idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contratación de un Programa de Ocio Alternativo par
- a fines de semana
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -2265,25 +2326,6 @@ ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación de la obra de teatro Camuñas
 TRIGGER:-PT15H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20377047-pub@contratacion-estado
-DTSTAMP:20260907T073540Z
-LAST-MODIFIED:20260907T073540Z
-SEQUENCE:1788766540
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:PUB: Contratación de la actuación musical de "Kiko Veneno" el sá
- bado 5 de septiembre de 2026\, para la IX Fiesta de la Vendimia de Aranda 
- de Duero.
-DESCRIPTION:Contratación de la actuación musical de "Kiko Veneno" el sáb
- ado 5 de septiembre de 2026\, para la IX Fiesta de la Vendimia de Aranda d
- e Duero.\nExpediente: NEG_SINP/SERV/2026000031\nPublicada: 2026-09-07\nFin
-  del plazo de ofertas: 2026-08-25 23:59\nAdjudicada el 2026-09-03 a EL PLA
- NETA SONORO\, S.L.\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:
- detalle_licitacion&idEvl=b%2BuyqCyJvYh%2FR5QFTlaM4A%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=b%2BuyqCyJvYh%2FR5QFTlaM4A%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:m-20252113-fin@contratacion-estado

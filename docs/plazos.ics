@@ -521,29 +521,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20329134-ult@contratacion-estado
-DTSTAMP:20261026T080001Z
-LAST-MODIFIED:20261026T080001Z
-SEQUENCE:1793001601
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:ULT. DÍA: Contratación de un Programa de Ocio Alternativo para fi
- nes de semana
-DESCRIPTION:Contratación de un Programa de Ocio Alternativo para fines de 
- semana\nExpediente: ABR/SERV/2026000032\nPublicada: 2026-08-21\nFin del pl
- azo de ofertas: 2026-09-07 23:59\nAdjudicada el 2026-10-19 a PROACTIVA FOR
- MACIÓN S.L.\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detall
- e_licitacion&idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contratación de un Programa de Ocio Alternativo par
- a fines de semana
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20497029-ult@contratacion-estado
 DTSTAMP:20261022T064231Z
 LAST-MODIFIED:20261022T064231Z
@@ -686,24 +663,5 @@ DESCRIPTION:Servicio de jornadas de soporte para los programas de T-Systems
  16nTs9LZ9RhQ%3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=l9SrtHQprt16nTs9LZ9RhQ%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20377047-pub@contratacion-estado
-DTSTAMP:20260907T073540Z
-LAST-MODIFIED:20260907T073540Z
-SEQUENCE:1788766540
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:PUB: Contratación de la actuación musical de "Kiko Veneno" el sá
- bado 5 de septiembre de 2026\, para la IX Fiesta de la Vendimia de Aranda 
- de Duero.
-DESCRIPTION:Contratación de la actuación musical de "Kiko Veneno" el sáb
- ado 5 de septiembre de 2026\, para la IX Fiesta de la Vendimia de Aranda d
- e Duero.\nExpediente: NEG_SINP/SERV/2026000031\nPublicada: 2026-09-07\nFin
-  del plazo de ofertas: 2026-08-25 23:59\nAdjudicada el 2026-09-03 a EL PLA
- NETA SONORO\, S.L.\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:
- detalle_licitacion&idEvl=b%2BuyqCyJvYh%2FR5QFTlaM4A%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=b%2BuyqCyJvYh%2FR5QFTlaM4A%3D%3D
 END:VEVENT
 END:VCALENDAR
