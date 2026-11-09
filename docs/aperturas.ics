@@ -2175,25 +2175,6 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=l9SrtHQprt16nTs9LZ9RhQ%3D%3D
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20417018-adj@contratacion-estado
-DTSTAMP:20260911T072503Z
-LAST-MODIFIED:20260911T072503Z
-SEQUENCE:1789111503
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:ADJ: Servicio de jornadas de soporte para los programas de T-System
- s del Ayuntamiento de Aranda de Duero.
-DESCRIPTION:Servicio de jornadas de soporte para los programas de T-Systems
-  del Ayuntamiento de Aranda de Duero.\nExpediente: NEG_SINP/CON_SERV/20260
- 00027\nPublicada: 2026-09-10\nFin del plazo de ofertas: 2026-08-17 23:59\n
- Adjudicada el 2026-09-09 a T-Systems ITC IBERIA S.A.U.\nFin previsto del c
- ontrato: 2028-02-09 (estimado: adjudicación + duración)\nhttps://contrat
- aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=l9SrtHQprt
- 16nTs9LZ9RhQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=l9SrtHQprt16nTs9LZ9RhQ%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20417018-fin@contratacion-estado
 DTSTAMP:20260911T072503Z
 LAST-MODIFIED:20260911T072503Z
@@ -2219,22 +2200,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20391133-adj@contratacion-estado
-DTSTAMP:20260910T071411Z
-LAST-MODIFIED:20260910T071411Z
-SEQUENCE:1789024451
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:ADJ. MENOR: Contratación de la obra de teatro La desconquista
-DESCRIPTION:Contratación de la obra de teatro La desconquista\nExpediente:
-  MEN/SERV/2026000074\nPublicada: 2026-09-10\nAdjudicada el 2026-09-09 a RO
- N LALA TEATRO SL\nFin previsto del contrato: 2026-10-29\nhttps://contratac
- iondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=b9ob3IGWD%2F
- DzAq95uGTrDQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=b9ob3IGWD%2FDzAq95uGTrDQ%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:m-20391133-fin@contratacion-estado
 DTSTAMP:20260910T071411Z
 LAST-MODIFIED:20260910T071411Z
@@ -2254,22 +2219,6 @@ ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación de la obra de teatro La desconquista
 TRIGGER:-PT15H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m-20391175-adj@contratacion-estado
-DTSTAMP:20260910T070519Z
-LAST-MODIFIED:20260910T070519Z
-SEQUENCE:1789023919
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:ADJ. MENOR: Contratación de la obra de teatro Camuñas
-DESCRIPTION:Contratación de la obra de teatro Camuñas\nExpediente: MEN/SE
- RV/2026000087\nPublicada: 2026-09-10\nAdjudicada el 2026-09-09 a BORREGO*M
- ALMIERCA\,PILAR\nFin previsto del contrato: 2026-10-30\nhttps://contrataci
- ondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=WbEuKUL90fpVq
- 4S9zvaQpQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=WbEuKUL90fpVq4S9zvaQpQ%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:m-20391175-fin@contratacion-estado
