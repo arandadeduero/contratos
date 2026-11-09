@@ -12037,23 +12037,9 @@
     "title": "Servicio de actualización permanente del sistema de protección de datos de carácter personal y del registro de actividades de tratamiento del Ayuntamiento de Aranda de Duero",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D",
     "status": "EV",
-    "version": 1793103634222,
-    "source": {
-      "name": "Rectificación de Pliego",
-      "published": "2026-09-21T08:37:23.000Z"
-    },
-    "events": [
-      {
-        "kind": 4,
-        "type": "Apertura sobre oferta económica",
-        "sobre": "Sobre Unico - Documentación administrativa y documentación relativa a criterios de adjudicación automáticos",
-        "date": "2026-09-29",
-        "time": "11:15",
-        "place": "Salón de Plenos",
-        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
-        "public": true
-      }
-    ]
+    "version": 1794233119221,
+    "source": null,
+    "events": []
   },
   "20497029": {
     "ref": "ABR_SMPL/OBR/2026000034",
