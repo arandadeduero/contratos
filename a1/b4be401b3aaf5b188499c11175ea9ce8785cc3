@@ -1,0 +1,21 @@
+transparencia/template.html
+  s_8993de4c699574::t_65acd3cc214df7 988
+docs/index.html
+  s_8993de4c699574::t_6c722b61db7533 1000
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a1b4be401b3aaf5b188499c11175ea9ce8785cc3",
+  "prompts": {},
+  "sessions": {
+    "s_8993de4c699574": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7019f3b7-a98c-49db-a800-27eeb27d3d2d",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
