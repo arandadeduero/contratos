@@ -1,0 +1,23 @@
+lib/aperturas.js
+  s_8993de4c699574::t_c6a25d25de7e39 179-184
+test/aperturas.test.js
+  s_8993de4c699574::t_c6a25d25de7e39 167-182
+dump/aperturas.json
+  s_8993de4c699574::t_2da8f37d3d6cae 11106,11423-11450,11550-11577,11876-11903,12112-12128,12203-12230,12237-12253,12358-12374
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a348c23211eb67518737107b4d15b2780f208011",
+  "prompts": {},
+  "sessions": {
+    "s_8993de4c699574": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7019f3b7-a98c-49db-a800-27eeb27d3d2d",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
