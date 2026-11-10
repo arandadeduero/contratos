@@ -1,0 +1,21 @@
+package.json
+  s_8993de4c699574::t_d76aaced418a8c 49-51
+package-lock.json
+  s_8993de4c699574::t_bf264dee08fa63 548-554,2497-2499,2503-2504,2507,3695,3786-3791,4470,4719,5065-5067,5070-5071,5436
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7a6a5042d0ef547d510eedeeed8104513bd4f315",
+  "prompts": {},
+  "sessions": {
+    "s_8993de4c699574": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7019f3b7-a98c-49db-a800-27eeb27d3d2d",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
