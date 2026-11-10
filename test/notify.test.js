@@ -290,6 +290,11 @@ test('desierto, desistimiento y renuncia se marcan aparte (el estado RES no los 
   }
   t.is(count(html, /⚠️/g), 3);
   t.is(count(body, /⚠️/g), 3);
+  // asunto: van primero y no se cuentan además como anuncios nuevos
+  const P = 'Novedades de contratación: ';
+  t.is(digestOf([withResult(1, 3), withResult(2, 4), withResult(3, 5), awarded]).subject,
+    `${P}1 desierto, 1 desistimiento, 1 renuncia y 1 anuncio nuevo`);
+  t.is(digestOf([withResult(1, 3), withResult(5, 7)]).subject, `${P}2 desiertos`);
 });
 
 test('HTML: importe en formato es-ES, expediente, cabecera, pie con los enlaces de site.js y sin direcciones', (t) => {
