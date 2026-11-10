@@ -39,14 +39,18 @@ export const outcomeOf = (codes) => {
 // REACT-EU se financia con NextGenerationEU, por eso cuenta.
 export const NEXTGEN_RE = /PRTR|Next\s*-?\s*Gen(?:eration)?(?:\s*EU)?|REACT[\s-]?EU|Plan\s+de\s+Recuperaci[oó]n,?\s+Transformaci[oó]n\s+y\s+Resiliencia|Mecanismo\s+de\s+Recuperaci[oó]n\s+y\s+Resiliencia/i;
 
+// Texto libre del anuncio, sin las URLs: los identificadores de documento son cadenas aleatorias que pueden contener
+// «prtr» por azar y marcarían el contrato como financiado.
+const freeText = (entry) => JSON.stringify(entry).replace(/https?:\/\/[^"\s]+/g, '');
+
 // Programa europeo al que se asocia el contrato, o null si no consta ninguno de NextGenerationEU.
 export const nextGenProgram = (entry) => {
   const terms = entry['cac-place-ext:ContractFolderStatus']?.['cac:TenderingTerms'] || {};
   const codes = asArray(terms['cbc:FundingProgramCode']).map((x) => `${text(x) ?? ''}`);
   const program = asArray(terms['cbc:FundingProgram']).map((x) => `${text(x) ?? ''}`).join(' ');
   const structured = `${codes.join(' ')} ${program}`;
-  if (!codes.includes('PRTR') && !NEXTGEN_RE.test(program) && !NEXTGEN_RE.test(JSON.stringify(entry))) return null;
-  if (/PRTR/i.test(structured) || /PRTR|Recuperaci[oó]n,?\s+Transformaci/i.test(JSON.stringify(entry))) return 'PRTR';
+  if (!codes.includes('PRTR') && !NEXTGEN_RE.test(program) && !NEXTGEN_RE.test(freeText(entry))) return null;
+  if (/PRTR/i.test(structured) || /PRTR|Recuperaci[oó]n,?\s+Transformaci/i.test(freeText(entry))) return 'PRTR';
   if (/REACT/i.test(structured)) return 'REACT-EU';
   return 'NextGenerationEU';
 };

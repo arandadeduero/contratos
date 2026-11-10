@@ -239,6 +239,8 @@ test('nextGenProgram reconoce el campo, el texto del programa y la mención en e
   t.is(nextGenProgram(withTerms({ 'cbc:FundingProgramCode': 'EU', 'cbc:FundingProgram': 'NextGenerationEU' })), 'NextGenerationEU');
   t.is(nextGenProgram(withTerms({ 'cbc:FundingProgramCode': 'NO-EU' }, { title: 'Obras PRTR - rehabilitación' })), 'PRTR');
   t.is(nextGenProgram(withTerms({ 'cbc:FundingProgramCode': 'NO-EU' })), null);
+  // un identificador de documento con «prtr» por azar no cuenta
+  t.is(nextGenProgram(withTerms({ 'cbc:FundingProgramCode': 'NO-EU' }, { link: { '@_href': 'https://x/doc?DocumentIdParam=aXpRtRz9' } })), null);
   t.is(nextGenProgram(withTerms({})), null);
   t.is(nextGenProgram({}), null);
   t.is(nextGenSource(withTerms({ 'cbc:FundingProgramCode': 'PRTR' })), 'financiacion');
