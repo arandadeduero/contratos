@@ -78,6 +78,37 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-20682106-fin@contratacion-estado
+DTSTAMP:20261030T073031Z
+LAST-MODIFIED:20261030T073031Z
+SEQUENCE:1793345431
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:AVISO FIN: Servicio de transporte-desplazamiento en autobús\, aloj
+ amiento y manutención para el intercambio escolar con la ciudad hermanada
+  de Romorantin-Lanthenay (Francia) de los alumnos de los Institutos de Edu
+ cación Secundaria de Aranda de Duero. Año 2026.
+DESCRIPTION:Servicio de transporte-desplazamiento en autobús\, alojamiento
+  y manutención para el intercambio escolar con la ciudad hermanada de Rom
+ orantin-Lanthenay (Francia) de los alumnos de los Institutos de Educación
+  Secundaria de Aranda de Duero. Año 2026.\nExpediente: ABR_SP_SMPL/SERV/2
+ 026000045\nPublicada: 2026-10-13\nFin del plazo de ofertas: 2026-10-27 23:
+ 59\nAdjudicada el 2026-10-29 a AUTOCARES VICTOR BAYO\, SL\nFin previsto de
+ l contrato: 2026-11-06 (estimado: adjudicación + duración)\nhttps://cont
+ rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Ss1Cr0u
+ ek%2B59Zh%2FyRJgM8w%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=Ss1Cr0uek%2B59Zh%2FyRJgM8w%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de transporte-desplazamiento en autobús\, 
+ alojamiento y manutención para el intercambio escolar con la ciudad herma
+ nada de Romorantin-Lanthenay (Francia) de los alumnos de los Institutos de
+  Educación Secundaria de Aranda de Duero. Año 2026.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20820608-fin@contratacion-estado
 DTSTAMP:20261030T122124Z
 LAST-MODIFIED:20261030T122124Z
@@ -148,6 +179,30 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: contrato suministro e instalación pladur para cierr
  e de huecos escalera en portales del ERRP Santa Catalina
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19627745-fin@contratacion-estado
+DTSTAMP:20261104T075534Z
+LAST-MODIFIED:20261104T075534Z
+SEQUENCE:1793778934
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:AVISO FIN: Gestión RRSS y diseño de contenidos WEB para el Ayunta
+ miento de Aranda de Duero
+DESCRIPTION:Gestión RRSS y diseño de contenidos WEB para el Ayuntamiento 
+ de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000016\nPublicada: 2026-
+ 05-06\nFin del plazo de ofertas: 2026-05-21 23:59\nAdjudicada el 2026-10-2
+ 4 a ELENA CEBOLLA MANSO\nFin previsto del contrato: 2027-10-24 (estimado: 
+ adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=d
+ eeplink:detalle_licitacion&idEvl=e05vDBSEOVeIzo3LHNPGcQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=e05vDBSEOVeIzo3LHNPGcQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Gestión RRSS y diseño de contenidos WEB para el Ay
+ untamiento de Aranda de Duero
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -243,6 +298,30 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación de la participación de la feria INTUR
   2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20329134-fin@contratacion-estado
+DTSTAMP:20261026T080001Z
+LAST-MODIFIED:20261026T080001Z
+SEQUENCE:1793001601
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:AVISO FIN: Contratación de un Programa de Ocio Alternativo para fi
+ nes de semana
+DESCRIPTION:Contratación de un Programa de Ocio Alternativo para fines de 
+ semana\nExpediente: ABR/SERV/2026000032\nPublicada: 2026-08-21\nFin del pl
+ azo de ofertas: 2026-09-07 23:59\nAdjudicada el 2026-10-19 a PROACTIVA FOR
+ MACIÓN S.L.\nFin previsto del contrato: 2027-10-19 (estimado: adjudicaci
+ ón + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:de
+ talle_licitacion&idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de un Programa de Ocio Alternativo par
+ a fines de semana
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -438,6 +517,31 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación espectáculo La bella durmiente\, el m
  usical de tus recuerdos
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20317636-fin@contratacion-estado
+DTSTAMP:20261005T055810Z
+LAST-MODIFIED:20261005T055810Z
+SEQUENCE:1791179890
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281001
+SUMMARY:AVISO FIN: Contrato de mantenimiento y certificación de los medido
+ res de cloro en continuo del Ayuntamiento de Aranda de Duero.
+DESCRIPTION:Contrato de mantenimiento y certificación de los medidores de 
+ cloro en continuo del Ayuntamiento de Aranda de Duero.\nExpediente: ABR_SM
+ PL/SERV/2026000030\nPublicada: 2026-08-19\nFin del plazo de ofertas: 2026-
+ 09-03 23:59\nAdjudicada el 2026-09-30 a HANNA instruments\,S.L.\nFin previ
+ sto del contrato: 2028-09-30 (estimado: adjudicación + duración)\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=i
+ PNNbTdg5vFJ8Trn0ZPzLw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=iPNNbTdg5vFJ8Trn0ZPzLw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de mantenimiento y certificación de los me
+ didores de cloro en continuo del Ayuntamiento de Aranda de Duero.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -696,6 +800,30 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación de la obra de teatro Camuñas
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19806745-fin@contratacion-estado
+DTSTAMP:20261104T100614Z
+LAST-MODIFIED:20261104T100614Z
+SEQUENCE:1793786774
+DTSTART;VALUE=DATE:20660903
+DTEND;VALUE=DATE:20660904
+SUMMARY:AVISO FIN: Constitución de un derecho de superficies sobre parcela
+  destinada a puerto seco
+DESCRIPTION:Constitución de un derecho de superficies sobre parcela destin
+ ada a puerto seco\nExpediente: 2025/0025377G-2\nPublicada: 2026-06-03\nFin
+  del plazo de ofertas: 2026-06-29 23:59\nAdjudicada el 2026-09-03 a ASERCO
+ MEX LOGISTICS SL\nFin previsto del contrato: 2066-09-03 (estimado: adjudic
+ ación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink
+ :detalle_licitacion&idEvl=P0XcA8xTHJjXOjazN1Dw9Q%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=P0XcA8xTHJjXOjazN1Dw9Q%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Constitución de un derecho de superficies sobre par
+ cela destinada a puerto seco
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -1007,6 +1135,36 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-19900401-fin@contratacion-estado
+DTSTAMP:20260821T065319Z
+LAST-MODIFIED:20260821T065319Z
+SEQUENCE:1787295199
+DTSTART;VALUE=DATE:20280814
+DTEND;VALUE=DATE:20280815
+SUMMARY:AVISO FIN: Contrato para la gestión\, organización y ejecución d
+ e un programa de actividades de ocio y tiempo libre para menores de 7-12 a
+ ños\, a desarrollar para la Concejalía de Educación\, en el patio del C
+ EIP Fernán González.
+DESCRIPTION:Contrato para la gestión\, organización y ejecución de un pr
+ ograma de actividades de ocio y tiempo libre para menores de 7-12 años\, 
+ a desarrollar para la Concejalía de Educación\, en el patio del CEIP Fer
+ nán González.\nExpediente: ABR_SMPL/SERV/2026000019\nPublicada: 2026-06-
+ 19\nFin del plazo de ofertas: 2026-07-06 23:59\nAdjudicada el 2026-08-14 a
+  LAST DAY OCIO ALTERNATIVO SL\nFin previsto del contrato: 2028-08-14 (esti
+ mado: adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc
+ ?uri=deeplink:detalle_licitacion&idEvl=KQnTsYMAi2wIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=KQnTsYMAi2wIYE3ZiZ%2BxmQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato para la gestión\, organización y ejecuci
+ ón de un programa de actividades de ocio y tiempo libre para menores de 7
+ -12 años\, a desarrollar para la Concejalía de Educación\, en el patio 
+ del CEIP Fernán González.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-19938552-fin@contratacion-estado
 DTSTAMP:20260820T121054Z
 LAST-MODIFIED:20260820T121054Z
@@ -1056,6 +1214,62 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-19910735-fin@contratacion-estado
+DTSTAMP:20260907T070000Z
+LAST-MODIFIED:20260907T070000Z
+SEQUENCE:1788764400
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:AVISO FIN: Contrato de servicios para la gestión de las Escuelas I
+ nfantiles Municipales\, "Allendeduero" y "Aranda de Duero"\, a tramitar po
+ r procedimiento abierto sujeto a regulación armonizada con dos lotes
+DESCRIPTION:Contrato de servicios para la gestión de las Escuelas Infantil
+ es Municipales\, "Allendeduero" y "Aranda de Duero"\, a tramitar por proce
+ dimiento abierto sujeto a regulación armonizada con dos lotes\nExpediente
+ : ABR/CON_SERV/2026000021\nPublicada: 2026-06-22\nFin del plazo de ofertas
+ : 2026-07-20 23:59\nAdjudicada el 2026-08-10 a ENEQUIP SERVEIS INTEGRALS S
+ .L.U.\, ENEQUIP SERVEIS INTEGRALS S.L.U.\nFin previsto del contrato: 2027-
+ 09-01 (estimado: adjudicación + duración)\nhttps://contrataciondelestado
+ .es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Dj%2Fki8xDhoeOUi78BmzhOQ
+ %3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=Dj%2Fki8xDhoeOUi78BmzhOQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de servicios para la gestión de las Escuel
+ as Infantiles Municipales\, "Allendeduero" y "Aranda de Duero"\, a tramita
+ r por procedimiento abierto sujeto a regulación armonizada con dos lotes
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19965175-fin@contratacion-estado
+DTSTAMP:20260814T115707Z
+LAST-MODIFIED:20260814T115707Z
+SEQUENCE:1786708627
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:AVISO FIN: Contratación de infraestructura y gestión de circuito 
+ para la celebración del cross de la Constitución 2026 y 3 posibles prorr
+ ogas
+DESCRIPTION:Contratación de infraestructura y gestión de circuito para la
+  celebración del cross de la Constitución 2026 y 3 posibles prorrogas\nE
+ xpediente: ABR_SMPL/SERV/2026000020\nPublicada: 2026-07-01\nFin del plazo 
+ de ofertas: 2026-07-16 23:59\nAdjudicada el 2026-08-07 a FOREVENT SERVICIO
+ S ORGANIZATIVOS SLU\nFin previsto del contrato: 2027-08-07 (estimado: adju
+ dicación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deepl
+ ink:detalle_licitacion&idEvl=3AwZHRzA%2F7xPpzdqOdhuWg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=3AwZHRzA%2F7xPpzdqOdhuWg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de infraestructura y gestión de circu
+ ito para la celebración del cross de la Constitución 2026 y 3 posibles p
+ rorrogas
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20266589-fin@contratacion-estado
 DTSTAMP:20260806T082653Z
 LAST-MODIFIED:20260806T082653Z
@@ -1076,6 +1290,37 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Dirección de obra para la reparación de los camino
  s del lote 1: parque del Barriles y de la Isla
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19698187-fin@contratacion-estado
+DTSTAMP:20260825T075353Z
+LAST-MODIFIED:20260825T075353Z
+SEQUENCE:1787644433
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:AVISO FIN: Contratación del servicio de atención y gestión de vi
+ sitantes del Museo de Pintura-Casa de las Bolas (Colección de Arte Félix
+  Cañada)\, Museo de Arte Sacro-Iglesia de San Juan Bautista y Museo del T
+ ren (Antigua estación Chelva)\, en Aranda de Duero.
+DESCRIPTION:Contratación del servicio de atención y gestión de visitante
+ s del Museo de Pintura-Casa de las Bolas (Colección de Arte Félix Cañad
+ a)\, Museo de Arte Sacro-Iglesia de San Juan Bautista y Museo del Tren (An
+ tigua estación Chelva)\, en Aranda de Duero.\nExpediente: ABR/SERV/202600
+ 0017\nPublicada: 2026-05-18\nFin del plazo de ofertas: 2026-06-02 23:59\nA
+ djudicada el 2026-07-31 a KREA GESTIÓN DE LA CULTURA Y EL OCIO\nFin previ
+ sto del contrato: 2027-07-31 (estimado: adjudicación + duración)\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=O
+ ytSW3g%2B6CI%2B1TMyIiZmzw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=OytSW3g%2B6CI%2B1TMyIiZmzw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del servicio de atención y gestión d
+ e visitantes del Museo de Pintura-Casa de las Bolas (Colección de Arte F
+ élix Cañada)\, Museo de Arte Sacro-Iglesia de San Juan Bautista y Museo 
+ del Tren (Antigua estación Chelva)\, en Aranda de Duero.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -1196,6 +1441,62 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-20060894-fin@contratacion-estado
+DTSTAMP:20260715T060407Z
+LAST-MODIFIED:20260715T060407Z
+SEQUENCE:1784095447
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:AVISO FIN: Contrato Basado en el Acuerdo Marco de la FEMP para sumi
+ nistro de Gas Natural
+DESCRIPTION:Contrato Basado en el Acuerdo Marco de la FEMP para suministro 
+ de Gas Natural\nExpediente: 2026/00014324X\nPublicada: 2026-07-15\nAdjudic
+ ada el 2026-07-10 a GAS NATURAL COMERCIALIZADORA S.A.\nFin previsto del co
+ ntrato: 2027-07-10 (estimado: adjudicación + duración)\nhttps://contrata
+ ciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Ue%2BFUkzsK
+ xiqb7rCcv76BA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=Ue%2BFUkzsKxiqb7rCcv76BA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato Basado en el Acuerdo Marco de la FEMP para 
+ suministro de Gas Natural
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19993852-fin@contratacion-estado
+DTSTAMP:20260707T121415Z
+LAST-MODIFIED:20260707T121415Z
+SEQUENCE:1783426455
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestación 
+ del servicio de mediación de riegos y seguros por la Central de Contratac
+ ión de la FEMP. LOTE 3 Seguro colectivo de accidentes y vida para Entidad
+ es Locales dependientes y otros riesgos vinculados a daños sobre las pers
+ onas
+DESCRIPTION:Contrato basado en el Acuerdo Marco para la prestación del ser
+ vicio de mediación de riegos y seguros por la Central de Contratación de
+  la FEMP. LOTE 3 Seguro colectivo de accidentes y vida para Entidades Loca
+ les dependientes y otros riesgos vinculados a daños sobre las personas\nE
+ xpediente: 2026/00019559R\nPublicada: 2026-07-07\nAdjudicada el 2026-07-07
+  a UTE MARSH ASTERRA\nFin previsto del contrato: 2027-07-07 (estimado: adj
+ udicación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deep
+ link:detalle_licitacion&idEvl=bjhyNG%2FSfEX%2B3JAijKO%2Bkg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=bjhyNG%2FSfEX%2B3JAijKO%2Bkg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestaci
+ ón del servicio de mediación de riegos y seguros por la Central de Contr
+ atación de la FEMP. LOTE 3 Seguro colectivo de accidentes y vida para Ent
+ idades Locales dependientes y otros riesgos vinculados a daños sobre las 
+ personas
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20005947-fin@contratacion-estado
 DTSTAMP:20260708T065218Z
 LAST-MODIFIED:20260708T065218Z
@@ -1238,6 +1539,38 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Prestación del servicio de limpieza de los baños p
  ortátiles adquiridos
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19994131-fin@contratacion-estado
+DTSTAMP:20260707T093623Z
+LAST-MODIFIED:20260707T093623Z
+SEQUENCE:1783416983
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestación 
+ del servicio de mediación de riegos y seguros por la Central de Contratac
+ ión de la FEMP. LOTE 4 Seguro de flota de vehículos para Entidades Local
+ es y Entes dependientes y otros riesgos vinculados a medios de transporte
+DESCRIPTION:Contrato basado en el Acuerdo Marco para la prestación del ser
+ vicio de mediación de riegos y seguros por la Central de Contratación de
+  la FEMP. LOTE 4 Seguro de flota de vehículos para Entidades Locales y En
+ tes dependientes y otros riesgos vinculados a medios de transporte\nExpedi
+ ente: 2026/00018562Q\nPublicada: 2026-07-07\nAdjudicada el 2026-06-30 a AO
+ N IBERIA CORREDURIA DE SEGUROS Y REASEGUROS SAU\nFin previsto del contrato
+ : 2027-06-30 (estimado: adjudicación + duración)\nhttps://contratacionde
+ lestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FgvIukKVRVgadbH
+ 3CysQuQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=%2FgvIukKVRVgadbH3CysQuQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestaci
+ ón del servicio de mediación de riegos y seguros por la Central de Contr
+ atación de la FEMP. LOTE 4 Seguro de flota de vehículos para Entidades L
+ ocales y Entes dependientes y otros riesgos vinculados a medios de transpo
+ rte
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -1295,6 +1628,33 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:m-19883418-fin@contratacion-estado
+DTSTAMP:20260616T103732Z
+LAST-MODIFIED:20260616T103732Z
+SEQUENCE:1781606252
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:AVISO FIN: Contrato de Asistencia Técnica jurídica en relación a
+ l abordar el tema plaza de toros ante otras jurisdicciones aparte la Conte
+ ncioso Administrativa
+DESCRIPTION:Contrato de Asistencia Técnica jurídica en relación al abord
+ ar el tema plaza de toros ante otras jurisdicciones aparte la Contencioso 
+ Administrativa\nExpediente: MEN/SERV/2026000056\nPublicada: 2026-06-16\nAd
+ judicada el 2026-06-15 a LITIA LEGAL & ARCOIURE\, S.L.P.\nFin previsto del
+  contrato: 2027-06-01 (estimado: adjudicación + duración)\nhttps://contr
+ ataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9n4yiExz
+ 6pzXOjazN1Dw9Q%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=9n4yiExz6pzXOjazN1Dw9Q%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de Asistencia Técnica jurídica en relaci
+ ón al abordar el tema plaza de toros ante otras jurisdicciones aparte la 
+ Contencioso Administrativa
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-19846619-fin@contratacion-estado
 DTSTAMP:20260609T104532Z
 LAST-MODIFIED:20260609T104532Z
@@ -1323,6 +1683,61 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-19404080-fin@contratacion-estado
+DTSTAMP:20260603T102727Z
+LAST-MODIFIED:20260603T102727Z
+SEQUENCE:1780482447
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:AVISO FIN: Enajenación de bien patrimonial integrante del patrimon
+ io público del suelo. Finca especial de atribución privativa "FE.2". Apa
+ rcamiento Quinta Julia.
+DESCRIPTION:Enajenación de bien patrimonial integrante del patrimonio púb
+ lico del suelo. Finca especial de atribución privativa "FE.2". Aparcamien
+ to Quinta Julia.\nExpediente: 2025-00025374R\nPublicada: 2026-04-08\nFin d
+ el plazo de ofertas: 2026-04-22 23:59\nAdjudicada el 2026-06-02 a KAMPINAS
+ \, S.L.U\nFin previsto del contrato: 2027-06-02 (estimado: adjudicación +
+  duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle
+ _licitacion&idEvl=FdpxhahLsrJ%2FP7lJ7Fu0SA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=FdpxhahLsrJ%2FP7lJ7Fu0SA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Enajenación de bien patrimonial integrante del patr
+ imonio público del suelo. Finca especial de atribución privativa "FE.2".
+  Aparcamiento Quinta Julia.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19076745-fin@contratacion-estado
+DTSTAMP:20260601T061449Z
+LAST-MODIFIED:20260601T061449Z
+SEQUENCE:1780294489
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:AVISO FIN: Contratación de los servicios para la grabación y edic
+ ión de vídeo y su emisión por streaming de la VUELTA CICLISTA INTERNACI
+ ONAL JUNIOR A LA RIBERA DEL DUERO 2026 con tres posibles prórrogas
+DESCRIPTION:Contratación de los servicios para la grabación y edición de
+  vídeo y su emisión por streaming de la VUELTA CICLISTA INTERNACIONAL JU
+ NIOR A LA RIBERA DEL DUERO 2026 con tres posibles prórrogas\nExpediente: 
+ ABR_SMPL/SERV/2026000010\nPublicada: 2026-02-19\nFin del plazo de ofertas:
+  2026-03-06 23:59\nAdjudicada el 2026-05-27 a TRECE GRADOS S.L.\nFin previ
+ sto del contrato: 2027-08-20 (estimado: adjudicación + duración)\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Q
+ b5ayXifDrWFlFRHfEzEaw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=Qb5ayXifDrWFlFRHfEzEaw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de los servicios para la grabación y 
+ edición de vídeo y su emisión por streaming de la VUELTA CICLISTA INTER
+ NACIONAL JUNIOR A LA RIBERA DEL DUERO 2026 con tres posibles prórrogas
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-19720974-fin@contratacion-estado
 DTSTAMP:20260520T061004Z
 LAST-MODIFIED:20260520T061004Z
@@ -1340,6 +1755,34 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Procedimiento de cita previa
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19715225-fin@contratacion-estado
+DTSTAMP:20260520T080711Z
+LAST-MODIFIED:20260520T080711Z
+SEQUENCE:1779264431
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:AVISO FIN: Contrato basado en Acuerdo Marco para la Contratación d
+ e Seguro de Responsabilidad Civil DE aeronaves civiles pilotadas por contr
+ ol remoto (drones) para las Entidades Locales (Lote 14) por la FEMP
+DESCRIPTION:Contrato basado en Acuerdo Marco para la Contratación de Segur
+ o de Responsabilidad Civil DE aeronaves civiles pilotadas por control remo
+ to (drones) para las Entidades Locales (Lote 14) por la FEMP\nExpediente: 
+ 2026/00007617V\nPublicada: 2026-05-20\nAdjudicada el 2026-04-28 a ALLIANZ\
+ , COMPAÑÍA DE SEGUROS Y REASEGUROS S.A\nFin previsto del contrato: 2027-
+ 04-28 (estimado: adjudicación + duración)\nhttps://contrataciondelestado
+ .es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KHEjsRE%2BVLScTfjQf3USOg
+ %3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=KHEjsRE%2BVLScTfjQf3USOg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato basado en Acuerdo Marco para la Contrataci
+ ón de Seguro de Responsabilidad Civil DE aeronaves civiles pilotadas por 
+ control remoto (drones) para las Entidades Locales (Lote 14) por la FEMP
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -1370,6 +1813,34 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-19048888-fin@contratacion-estado
+DTSTAMP:20260422T065453Z
+LAST-MODIFIED:20260422T065453Z
+SEQUENCE:1776840893
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:AVISO FIN: Contrato de suministro de material fungible de oficina y
+  consumibles de impresión para las dependencias del Ayuntamiento de Arand
+ a de Duero. 3 Lotes
+DESCRIPTION:Contrato de suministro de material fungible de oficina y consum
+ ibles de impresión para las dependencias del Ayuntamiento de Aranda de Du
+ ero. 3 Lotes\nExpediente: ABR_SMPL/SUMIN/2026000004\nPublicada: 2026-02-16
+ \nFin del plazo de ofertas: 2026-03-03 23:59\nAdjudicada el 2026-04-17 a L
+ UCAS ROJAS SL\, Distribuidora de Material de Oficina\, S.A.\, Comercial de
+  Suministros para la Informatica\nFin previsto del contrato: 2027-04-17 (e
+ stimado: adjudicación + duración)\nhttps://contrataciondelestado.es/wps/
+ poc?uri=deeplink:detalle_licitacion&idEvl=By%2Fqe8SDx5ceIBJRHQiPkQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=By%2Fqe8SDx5ceIBJRHQiPkQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de suministro de material fungible de ofici
+ na y consumibles de impresión para las dependencias del Ayuntamiento de A
+ randa de Duero. 3 Lotes
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-19508050-fin@contratacion-estado
 DTSTAMP:20260416T122707Z
 LAST-MODIFIED:20260416T122707Z
@@ -1393,6 +1864,78 @@ ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Alquiler de 1 vehículo para el programa Experiencia
   de empleo y formación ¿Conservación de espacios públicos y edificios 
  municipales Aranda II\, organizado por el Ayuntamiento de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19067335-fin@contratacion-estado
+DTSTAMP:20260513T065728Z
+LAST-MODIFIED:20260513T065728Z
+SEQUENCE:1778655448
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:AVISO FIN: Contratación de los servicios para la organización té
+ cnica\, el alquiler de infraestructuras\, suministros de materiales y el a
+ lojamiento y manutención para jueces de ciclismo y personal de seguridad 
+ de la X VUELTA CICLISTA INTERNACIONAL JUNIOR RIBERA DEL DUERO para el EJER
+ CICIO 2026 Y TRES POSIBLES PRÓRROGAS PARA LOS EJERCICIOS 2027\, 2028 Y 20
+ 29.
+DESCRIPTION:Contratación de los servicios para la organización técnica\,
+  el alquiler de infraestructuras\, suministros de materiales y el alojamie
+ nto y manutención para jueces de ciclismo y personal de seguridad de la X
+  VUELTA CICLISTA INTERNACIONAL JUNIOR RIBERA DEL DUERO para el EJERCICIO 2
+ 026 Y TRES POSIBLES PRÓRROGAS PARA LOS EJERCICIOS 2027\, 2028 Y 2029.\nEx
+ pediente: ABR/SERV/2026000006\nPublicada: 2026-02-18\nFin del plazo de ofe
+ rtas: 2026-03-05 23:59\nAdjudicada el 2026-04-15 a DEPORAMA EVENTOS\nFin p
+ revisto del contrato: 2027-05-13 (estimado: adjudicación + duración)\nht
+ tps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idE
+ vl=TkA873WoGNWAAM7L03kM8A%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=TkA873WoGNWAAM7L03kM8A%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de los servicios para la organización
+  técnica\, el alquiler de infraestructuras\, suministros de materiales y 
+ el alojamiento y manutención para jueces de ciclismo y personal de seguri
+ dad de la X VUELTA CICLISTA INTERNACIONAL JUNIOR RIBERA DEL DUERO para el 
+ EJERCICIO 2026 Y TRES POSIBLES PRÓRROGAS PARA LOS EJERCICIOS 2027\, 2028 
+ Y 2029.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-19058438-fin@contratacion-estado
+DTSTAMP:20260401T073013Z
+LAST-MODIFIED:20260401T073013Z
+SEQUENCE:1775028613
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:AVISO FIN: Contratación del servicio de atención protocolaria y a
+ l espectador (servicio de azafatas/os) para los conciertos y la entrega de
+  premios del Certamen Internacional de Bandas de Música Villa de Aranda y
+  el Concierto de Navidad de la Banda Municipal de Música Villa de Aranda 
+ para los años 2026 y 2027\, con posible prórroga anual durante el año 2
+ 028
+DESCRIPTION:Contratación del servicio de atención protocolaria y al espec
+ tador (servicio de azafatas/os) para los conciertos y la entrega de premio
+ s del Certamen Internacional de Bandas de Música Villa de Aranda y el Con
+ cierto de Navidad de la Banda Municipal de Música Villa de Aranda para lo
+ s años 2026 y 2027\, con posible prórroga anual durante el año 2028\nEx
+ pediente: ABR_SP_SMPL/SERV/2026000005\nPublicada: 2026-02-17\nFin del plaz
+ o de ofertas: 2026-03-03 23:59\nAdjudicada el 2026-03-20 a NARGY\, S.L.\nF
+ in previsto del contrato: 2028-03-20 (estimado: adjudicación + duración)
+ \nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion
+ &idEvl=1tZXbUo0fXE4NavIWzMcHA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=1tZXbUo0fXE4NavIWzMcHA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del servicio de atención protocolaria
+  y al espectador (servicio de azafatas/os) para los conciertos y la entreg
+ a de premios del Certamen Internacional de Bandas de Música Villa de Aran
+ da y el Concierto de Navidad de la Banda Municipal de Música Villa de Ara
+ nda para los años 2026 y 2027\, con posible prórroga anual durante el a
+ ño 2028
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -1535,6 +2078,207 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-18690471-fin@contratacion-estado
+DTSTAMP:20260225T121416Z
+LAST-MODIFIED:20260225T121416Z
+SEQUENCE:1772021656
+DTSTART;VALUE=DATE:20310224
+DTEND;VALUE=DATE:20310225
+SUMMARY:AVISO FIN: Concesión administrativa de uso privativo del Bar Virge
+ n Viñas
+DESCRIPTION:Concesión administrativa de uso privativo del Bar Virgen Viña
+ s\nExpediente: 2025/00018661G\nPublicada: 2025-12-19\nFin del plazo de ofe
+ rtas: 2026-01-19 23:59\nAdjudicada el 2026-02-24 a ZAHORSKAYA LYSKOVETS\, 
+ VOLHA\nFin previsto del contrato: 2031-02-24 (estimado: adjudicación + du
+ ración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_li
+ citacion&idEvl=som9P9vuF5GFQ%2FlhRK79lA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=som9P9vuF5GFQ%2FlhRK79lA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Concesión administrativa de uso privativo del Bar V
+ irgen Viñas
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-18956198-fin@contratacion-estado
+DTSTAMP:20260202T101150Z
+LAST-MODIFIED:20260202T101150Z
+SEQUENCE:1770027110
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestación 
+ del servicio de mediación de riesgos y seguros por la Central de Contrata
+ ción de la FEMP - Seguro de responsabilidad civil  - Lote 1
+DESCRIPTION:Contrato basado en el Acuerdo Marco para la prestación del ser
+ vicio de mediación de riesgos y seguros por la Central de Contratación d
+ e la FEMP - Seguro de responsabilidad civil  - Lote 1\nExpediente: 2026/00
+ 001387C\nPublicada: 2026-02-02\nAdjudicada el 2026-01-23 a WILLIS IBERIA C
+ ORREDURIA DE SEGUROS Y REASEGUROS SA\nFin previsto del contrato: 2027-01-2
+ 3 (estimado: adjudicación + duración)\nhttps://contrataciondelestado.es/
+ wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2BIhSHJOKBKuOUi78BmzhOQ%3D%
+ 3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=%2BIhSHJOKBKuOUi78BmzhOQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestaci
+ ón del servicio de mediación de riesgos y seguros por la Central de Cont
+ ratación de la FEMP - Seguro de responsabilidad civil  - Lote 1
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-18449168-fin@contratacion-estado
+DTSTAMP:20260216T092511Z
+LAST-MODIFIED:20260216T092511Z
+SEQUENCE:1771233911
+DTSTART;VALUE=DATE:20280214
+DTEND;VALUE=DATE:20280215
+SUMMARY:AVISO FIN: Suministro licencias Office 365 y soporte para el Ayunta
+ miento de Aranda de Duero
+DESCRIPTION:Suministro licencias Office 365 y soporte para el Ayuntamiento 
+ de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2025000064\nPublicada: 2025
+ -11-24\nFin del plazo de ofertas: 2025-12-09 23:59\nAdjudicada el 2026-01-
+ 19 a ORANGE ESPAGNE\, S.A.U.\nFin previsto del contrato: 2028-02-14 (estim
+ ado: adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc?
+ uri=deeplink:detalle_licitacion&idEvl=ehWKkDkhmSXN3k3tjedSGw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=ehWKkDkhmSXN3k3tjedSGw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Suministro licencias Office 365 y soporte para el Ay
+ untamiento de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-18476906-fin@contratacion-estado
+DTSTAMP:20260224T070135Z
+LAST-MODIFIED:20260224T070135Z
+SEQUENCE:1771916495
+DTSTART;VALUE=DATE:20280119
+DTEND;VALUE=DATE:20280120
+SUMMARY:AVISO FIN: Suministro de contadores de agua para el Servicio Munici
+ pal de Aguas del Ayuntamiento de Aranda de Duero
+DESCRIPTION:Suministro de contadores de agua para el Servicio Municipal de 
+ Aguas del Ayuntamiento de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2025
+ 000067\nPublicada: 2025-11-27\nFin del plazo de ofertas: 2025-12-12 23:59\
+ nAdjudicada el 2026-01-19 a Elster Medición SAU\nFin previsto del contrat
+ o: 2028-01-19 (estimado: adjudicación + duración)\nhttps://contrataciond
+ elestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bqHMlTxSNZVSYrkJ
+ kLlFdw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=bqHMlTxSNZVSYrkJkLlFdw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Suministro de contadores de agua para el Servicio Mu
+ nicipal de Aguas del Ayuntamiento de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-18561104-fin@contratacion-estado
+DTSTAMP:20260113T080344Z
+LAST-MODIFIED:20260113T080344Z
+SEQUENCE:1768291424
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:AVISO FIN: Contratación de la Dirección de Obra\, Dirección de e
+ jecución de Obra y Coordinación de seguridad y salud de las obras de rem
+ odelación y equipamiento del escenario y cabina técnica del Auditorio de
+  la Casa de Cultura de Aranda de Duero.
+DESCRIPTION:Contratación de la Dirección de Obra\, Dirección de ejecuci
+ ón de Obra y Coordinación de seguridad y salud de las obras de remodelac
+ ión y equipamiento del escenario y cabina técnica del Auditorio de la Ca
+ sa de Cultura de Aranda de Duero.\nExpediente: ABR_SP_SMPL/SERV/2025000068
+ \nPublicada: 2025-12-09\nFin del plazo de ofertas: 2025-12-23 23:59\nAdjud
+ icada el 2026-01-12 a ANDRÉS Y CRESPO ARQUITECTOS S.L.P.\nFin previsto de
+ l contrato: 2028-01-12 (estimado: adjudicación + duración)\nhttps://cont
+ rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=f6c4gcu
+ zaPLyoM4us5k4vw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=f6c4gcuzaPLyoM4us5k4vw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de la Dirección de Obra\, Dirección 
+ de ejecución de Obra y Coordinación de seguridad y salud de las obras de
+  remodelación y equipamiento del escenario y cabina técnica del Auditori
+ o de la Casa de Cultura de Aranda de Duero.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-18074070-fin@contratacion-estado
+DTSTAMP:20260130T132910Z
+LAST-MODIFIED:20260130T132910Z
+SEQUENCE:1769779750
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:AVISO FIN: PRTR - Contrato de servicios para la Dirección de Obra\
+ , la Dirección de Ejecución de Obra y la Coordinación de Seguridad y Sa
+ lud de las obras de rehabilitación de 180 viviendas ubicadas en los porta
+ les C/Santiago 30\, C/Belorado 1-3-5\, C/Briviesca 1-3\, C/Castrojeriz 3\,
+  C/Lerma 1-3-5\, C/Miranda de Ebro 1-3-5\, C/Roa de Duero 1-3-5 y C/Sedano
+  3-5
+DESCRIPTION:PRTR - Contrato de servicios para la Dirección de Obra\, la Di
+ rección de Ejecución de Obra y la Coordinación de Seguridad y Salud de 
+ las obras de rehabilitación de 180 viviendas ubicadas en los portales C/S
+ antiago 30\, C/Belorado 1-3-5\, C/Briviesca 1-3\, C/Castrojeriz 3\, C/Lerm
+ a 1-3-5\, C/Miranda de Ebro 1-3-5\, C/Roa de Duero 1-3-5 y C/Sedano 3-5\nE
+ xpediente: ABR/SERV/2025000047\nPublicada: 2025-09-30\nFin del plazo de of
+ ertas: 2025-10-15 23:59\nAdjudicada el 2026-01-07 a APAREJO OFICINA TÉCNI
+ CA\, S.L.\nFin previsto del contrato: 2027-01-07 (estimado: adjudicación 
+ + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detall
+ e_licitacion&idEvl=m6dX3t%2F9imzua%2Fi14w%2FPLA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=m6dX3t%2F9imzua%2Fi14w%2FPLA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: PRTR - Contrato de servicios para la Dirección de O
+ bra\, la Dirección de Ejecución de Obra y la Coordinación de Seguridad 
+ y Salud de las obras de rehabilitación de 180 viviendas ubicadas en los p
+ ortales C/Santiago 30\, C/Belorado 1-3-5\, C/Briviesca 1-3\, C/Castrojeriz
+  3\, C/Lerma 1-3-5\, C/Miranda de Ebro 1-3-5\, C/Roa de Duero 1-3-5 y C/Se
+ dano 3-5
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-18330052-fin@contratacion-estado
+DTSTAMP:20260107T070704Z
+LAST-MODIFIED:20260107T070704Z
+SEQUENCE:1767769624
+DTSTART;VALUE=DATE:20291230
+DTEND;VALUE=DATE:20291231
+SUMMARY:AVISO FIN: Contrato de suministro y servicio para la implantación 
+ y puesta en marcha de una aplicación para la gestión integral del Servic
+ io de prevención\, extinción de incendios y salvamento (Bomberos) del Ay
+ untamiento de Aranda de Duero\, el suminisro de tablets\, y el servicio de
+  mantenimiento.
+DESCRIPTION:Contrato de suministro y servicio para la implantación y puest
+ a en marcha de una aplicación para la gestión integral del Servicio de p
+ revención\, extinción de incendios y salvamento (Bomberos) del Ayuntamie
+ nto de Aranda de Duero\, el suminisro de tablets\, y el servicio de manten
+ imiento.\nExpediente: ABR_SP_SMPL/SERV/2025000058\nPublicada: 2025-11-06\n
+ Fin del plazo de ofertas: 2025-11-20 23:59\nAdjudicada el 2025-12-30 a Nav
+ egaGPS SL.\nFin previsto del contrato: 2029-12-30 (estimado: adjudicación
+  + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detal
+ le_licitacion&idEvl=x9G0Dugu4oCFlFRHfEzEaw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=x9G0Dugu4oCFlFRHfEzEaw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de suministro y servicio para la implantaci
+ ón y puesta en marcha de una aplicación para la gestión integral del Se
+ rvicio de prevención\, extinción de incendios y salvamento (Bomberos) de
+ l Ayuntamiento de Aranda de Duero\, el suminisro de tablets\, y el servici
+ o de mantenimiento.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-18359144-fin@contratacion-estado
 DTSTAMP:20260108T090750Z
 LAST-MODIFIED:20260108T090750Z
@@ -1595,6 +2339,53 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-18773080-fin@contratacion-estado
+DTSTAMP:20260113T093814Z
+LAST-MODIFIED:20260113T093814Z
+SEQUENCE:1768297094
+DTSTART;VALUE=DATE:20281223
+DTEND;VALUE=DATE:20281224
+SUMMARY:AVISO FIN: Contrato de Asistencia Técnica y actualización Recite
+DESCRIPTION:Contrato de Asistencia Técnica y actualización Recite\nExpedi
+ ente: NEG_SINP/SERV/2025000066\nPublicada: 2026-01-02\nFin del plazo de of
+ ertas: 2025-12-05 23:59\nAdjudicada el 2025-12-23 a INSTITUTO DE LA CONSTR
+ UCCION DE CASTILLA Y LEON\nFin previsto del contrato: 2028-12-23 (estimado
+ : adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri
+ =deeplink:detalle_licitacion&idEvl=srsQwMiwcc%2Bqb7rCcv76BA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=srsQwMiwcc%2Bqb7rCcv76BA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de Asistencia Técnica y actualización Rec
+ ite
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-18421489-fin@contratacion-estado
+DTSTAMP:20251124T090309Z
+LAST-MODIFIED:20251124T090309Z
+SEQUENCE:1763974989
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:AVISO FIN: Servicio de mantenimiento programa de Nóminas del Ayunt
+ amiento de Aranda de Duero
+DESCRIPTION:Servicio de mantenimiento programa de Nóminas del Ayuntamiento
+  de Aranda de Duero\nExpediente: NEG_SINP/SERV/2025000049\nPublicada: 2025
+ -11-19\nFin del plazo de ofertas: 2025-11-07 23:59\nAdjudicada el 2025-11-
+ 19 a CEGID SPAIN SAU\nFin previsto del contrato: 2026-11-19 (estimado: adj
+ udicación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deep
+ link:detalle_licitacion&idEvl=1OItVcPU8wisNfRW6APEDw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=1OItVcPU8wisNfRW6APEDw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de mantenimiento programa de Nóminas del A
+ yuntamiento de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-18263808-fin@contratacion-estado
 DTSTAMP:20251030T120338Z
 LAST-MODIFIED:20251030T120338Z
@@ -1650,6 +2441,57 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-17802361-fin@contratacion-estado
+DTSTAMP:20251202T082801Z
+LAST-MODIFIED:20251202T082801Z
+SEQUENCE:1764664081
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:AVISO FIN: Contrato de servicios para la gestión del Servicio de A
+ tención Preventiva a Personas mayores del Ayuntamiento de Aranda de Duero
+DESCRIPTION:Contrato de servicios para la gestión del Servicio de Atenció
+ n Preventiva a Personas mayores del Ayuntamiento de Aranda de Duero\nExped
+ iente: ABR/SERV/2025000036\nPublicada: 2025-08-06\nFin del plazo de oferta
+ s: 2025-09-04 23:59\nAdjudicada el 2025-10-17 a FEPAS\nFin previsto del co
+ ntrato: 2026-10-17 (estimado: adjudicación + duración)\nhttps://contrata
+ ciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QpPehdV%2B4
+ AXXOjazN1Dw9Q%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=QpPehdV%2B4AXXOjazN1Dw9Q%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de servicios para la gestión del Servicio 
+ de Atención Preventiva a Personas mayores del Ayuntamiento de Aranda de D
+ uero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-17802273-fin@contratacion-estado
+DTSTAMP:20251121T090057Z
+LAST-MODIFIED:20251121T090057Z
+SEQUENCE:1763715657
+DTSTART;VALUE=DATE:20291015
+DTEND;VALUE=DATE:20291016
+SUMMARY:AVISO FIN: Contrato de arrendamiento de tres vehículos patrulla pa
+ ra la Policía Local en la modalidad de renting
+DESCRIPTION:Contrato de arrendamiento de tres vehículos patrulla para la P
+ olicía Local en la modalidad de renting\nExpediente: ABR/SUMIN/2025000037
+ \nPublicada: 2025-08-06\nFin del plazo de ofertas: 2025-09-09 23:59\nAdjud
+ icada el 2025-10-15 a AT CAPITAL\, S.L.\nFin previsto del contrato: 2029-1
+ 0-15 (estimado: adjudicación + duración)\nhttps://contrataciondelestado.
+ es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=K0XRq8jpCb6FQ%2FlhRK79lA%
+ 3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=K0XRq8jpCb6FQ%2FlhRK79lA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de arrendamiento de tres vehículos patrull
+ a para la Policía Local en la modalidad de renting
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-17695704-fin@contratacion-estado
 DTSTAMP:20250917T083406Z
 LAST-MODIFIED:20250917T083406Z
@@ -1699,6 +2541,394 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-17466124-fin@contratacion-estado
+DTSTAMP:20250910T083408Z
+LAST-MODIFIED:20250910T083408Z
+SEQUENCE:1757493248
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:AVISO FIN: Contratación del alumbrado ornamental de las Fiestas Pa
+ tronales\, Navidad y Carnaval 2025 y 2026
+DESCRIPTION:Contratación del alumbrado ornamental de las Fiestas Patronale
+ s\, Navidad y Carnaval 2025 y 2026\nExpediente: ABR/SUMIN/2025000020\nPubl
+ icada: 2025-06-12\nFin del plazo de ofertas: 2025-07-11 23:59\nAdjudicada 
+ el 2025-08-19 a TECMODECO S.L.\, TECMODECO S.L.\nFin previsto del contrato
+ : 2027-08-23 (estimado: adjudicación + duración)\nhttps://contratacionde
+ lestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2F8d8WaRzJO7I8aL
+ 3PRS10Q%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=%2F8d8WaRzJO7I8aL3PRS10Q%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del alumbrado ornamental de las Fiesta
+ s Patronales\, Navidad y Carnaval 2025 y 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-17587818-fin@contratacion-estado
+DTSTAMP:20250819T091906Z
+LAST-MODIFIED:20250819T091906Z
+SEQUENCE:1755595146
+DTSTART;VALUE=DATE:20290807
+DTEND;VALUE=DATE:20290808
+SUMMARY:AVISO FIN: Contrato de suministro en la modalidad de renting de un 
+ vehículo oficial
+DESCRIPTION:Contrato de suministro en la modalidad de renting de un vehícu
+ lo oficial\nExpediente: ABR_SP_SMPL/SUMIN/2025000021\nPublicada: 2025-07-0
+ 2\nFin del plazo de ofertas: 2025-07-16 23:59\nAdjudicada el 2025-08-07 a 
+ URAL MOTOR S.L.\nFin previsto del contrato: 2029-08-07 (estimado: adjudica
+ ción + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:
+ detalle_licitacion&idEvl=3DrCyr%2BmZ78Xhk1FZxEyvw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=3DrCyr%2BmZ78Xhk1FZxEyvw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de suministro en la modalidad de renting de
+  un vehículo oficial
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16328298-fin@contratacion-estado
+DTSTAMP:20250926T073058Z
+LAST-MODIFIED:20250926T073058Z
+SEQUENCE:1758871858
+DTSTART;VALUE=DATE:20340731
+DTEND;VALUE=DATE:20340801
+SUMMARY:AVISO FIN: Contratación de Los Servicios de Limpieza Viaria y Reco
+ gida de Residuos Sólidos Urbanos del Ayuntamiento De Aranda De Duero
+DESCRIPTION:Contratación de Los Servicios de Limpieza Viaria y Recogida de
+  Residuos Sólidos Urbanos del Ayuntamiento De Aranda De Duero\nExpediente
+ : ABR/SERV/2024000053\nPublicada: 2024-12-19\nFin del plazo de ofertas: 20
+ 25-01-22 23:59\nAdjudicada el 2025-07-31 a VALORIZA SERVICIOS MEDIOAMBIENT
+ ALES\, S.A.\nFin previsto del contrato: 2034-07-31 (estimado: adjudicació
+ n + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:deta
+ lle_licitacion&idEvl=ez34mpTeFEDLIx6q1oPaMg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=ez34mpTeFEDLIx6q1oPaMg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de Los Servicios de Limpieza Viaria y 
+ Recogida de Residuos Sólidos Urbanos del Ayuntamiento De Aranda De Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-17354615-fin@contratacion-estado
+DTSTAMP:20250821T111922Z
+LAST-MODIFIED:20250821T111922Z
+SEQUENCE:1755775162
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:AVISO FIN: Contratación de servicios de iluminación y sonorizaci
+ ón de eventos para las concejalías de Juventud y Festejos
+DESCRIPTION:Contratación de servicios de iluminación y sonorización de e
+ ventos para las concejalías de Juventud y Festejos\nExpediente: ABR_SMPL/
+ SERV/2025000018\nPublicada: 2025-05-27\nFin del plazo de ofertas: 2025-06-
+ 12 11:30\nAdjudicada el 2025-07-11 a MACK PRODUCCIONES S.C.\, MACK PRODUCC
+ IONES S.C.\, MACK PRODUCCIONES S.C.\, MACK PRODUCCIONES S.C.\nFin previsto
+  del contrato: 2027-07-11 (estimado: adjudicación + duración)\nhttps://c
+ ontrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=WbIM
+ %2BpWdzfUQyBAnWzHfCg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=WbIM%2BpWdzfUQyBAnWzHfCg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de servicios de iluminación y sonoriz
+ ación de eventos para las concejalías de Juventud y Festejos
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-17411033-fin@contratacion-estado
+DTSTAMP:20250606T103130Z
+LAST-MODIFIED:20250606T103130Z
+SEQUENCE:1749205890
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:AVISO FIN: NEGOCIADO SIN PUBLICIDAD concesión Servicio de Explotac
+ ión de las Piscinas Municipales descubiertas de verano de Acapulco y la C
+ alabaza de Aranda de Duero (Burgos)
+DESCRIPTION:NEGOCIADO SIN PUBLICIDAD concesión Servicio de Explotación de
+  las Piscinas Municipales descubiertas de verano de Acapulco y la Calabaza
+  de Aranda de Duero (Burgos)\nExpediente: NEG_SINP/CON_SERV/2025000017\nPu
+ blicada: 2025-06-04\nFin del plazo de ofertas: 2025-05-19 23:59\nAdjudicad
+ a el 2025-06-04 a SIMA DEPORTE Y OCIO\, S.L.\nFin previsto del contrato: 2
+ 027-06-04 (estimado: adjudicación + duración)\nhttps://contrataciondeles
+ tado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=B5HTODlaEMkwYTJJ03sH
+ og%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=B5HTODlaEMkwYTJJ03sHog%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: NEGOCIADO SIN PUBLICIDAD concesión Servicio de Expl
+ otación de las Piscinas Municipales descubiertas de verano de Acapulco y 
+ la Calabaza de Aranda de Duero (Burgos)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16743111-fin@contratacion-estado
+DTSTAMP:20250520T063516Z
+LAST-MODIFIED:20250520T063516Z
+SEQUENCE:1747722916
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:AVISO FIN: Contrato de alquiler\, instalación y asistencia técnic
+ a para la Iluminación y Sonido en las actividades organizadas por la Conc
+ ejalía de Educación\, la Escuela Municipal de Música y Danza "Antonio B
+ aciero" y la Banda Municipal de Música "Villa de Aranda"
+DESCRIPTION:Contrato de alquiler\, instalación y asistencia técnica para 
+ la Iluminación y Sonido en las actividades organizadas por la Concejalía
+  de Educación\, la Escuela Municipal de Música y Danza "Antonio Baciero"
+  y la Banda Municipal de Música "Villa de Aranda"\nExpediente: ABR_SMPL/S
+ ERV/2025000006\nPublicada: 2025-02-21\nFin del plazo de ofertas: 2025-03-1
+ 0 23:59\nAdjudicada el 2025-05-15 a CARSONAUDIO S.L.U.\nFin previsto del c
+ ontrato: 2027-05-15 (estimado: adjudicación + duración)\nhttps://contrat
+ aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=nfIaEShrMA
+ 4%2FbjW6njtWLw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=nfIaEShrMA4%2FbjW6njtWLw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de alquiler\, instalación y asistencia té
+ cnica para la Iluminación y Sonido en las actividades organizadas por la 
+ Concejalía de Educación\, la Escuela Municipal de Música y Danza "Anton
+ io Baciero" y la Banda Municipal de Música "Villa de Aranda"
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16577751-fin@contratacion-estado
+DTSTAMP:20250430T055551Z
+LAST-MODIFIED:20250430T055551Z
+SEQUENCE:1745992551
+DTSTART;VALUE=DATE:20280411
+DTEND;VALUE=DATE:20280412
+SUMMARY:AVISO FIN: Suministro de vestuario para Policía Local
+DESCRIPTION:Suministro de vestuario para Policía Local\nExpediente: ABR_SM
+ PL/SUMIN/2024000048\nPublicada: 2025-01-30\nFin del plazo de ofertas: 2025
+ -02-14 23:59\nAdjudicada el 2025-04-11 a Technicaluniforms sl\nFin previst
+ o del contrato: 2028-04-11 (estimado: adjudicación + duración)\nhttps://
+ contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=yrI
+ WpVBVH6y8ebB%2FXTwy0A%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=yrIWpVBVH6y8ebB%2FXTwy0A%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Suministro de vestuario para Policía Local
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16687662-fin@contratacion-estado
+DTSTAMP:20250331T120337Z
+LAST-MODIFIED:20250331T120337Z
+SEQUENCE:1743422617
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:AVISO FIN: Contrato de transporte en Autobús de escolares a la pis
+ cina municipal Plan de natación escolar 2024-25\, 2025-2026 Y 2026-2027
+DESCRIPTION:Contrato de transporte en Autobús de escolares a la piscina mu
+ nicipal Plan de natación escolar 2024-25\, 2025-2026 Y 2026-2027\nExpedie
+ nte: ABR_SP_SMPL/SERV/2025000004\nPublicada: 2025-02-14\nFin del plazo de 
+ ofertas: 2025-03-03 23:59\nAdjudicada el 2025-03-27 a AUTOCARES VICTOR BAY
+ O\, SL\nFin previsto del contrato: 2027-04-01 (estimado: adjudicación + d
+ uración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_l
+ icitacion&idEvl=7bnbs4PdKG4eIBJRHQiPkQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=7bnbs4PdKG4eIBJRHQiPkQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de transporte en Autobús de escolares a la
+  piscina municipal Plan de natación escolar 2024-25\, 2025-2026 Y 2026-20
+ 27
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16982142-fin@contratacion-estado
+DTSTAMP:20250324T133410Z
+LAST-MODIFIED:20250324T133410Z
+SEQUENCE:1742823250
+DTSTART;VALUE=DATE:20280318
+DTEND;VALUE=DATE:20280319
+SUMMARY:AVISO FIN: Contrato de Arrendamiento de local para Ludoteca. Segund
+ a licitación
+DESCRIPTION:Contrato de Arrendamiento de local para Ludoteca. Segunda licit
+ ación\nExpediente: NEG_SINP/CON_PATR/2025000007\nPublicada: 2025-03-24\nF
+ in del plazo de ofertas: 2025-03-06 10:59\nAdjudicada el 2025-03-18 a IBER
+ CAJA BANCO S.A.\nFin previsto del contrato: 2028-03-18 (estimado: adjudica
+ ción + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:
+ detalle_licitacion&idEvl=6kOTYh%2Ficqj10HRJw8TEnQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=6kOTYh%2Ficqj10HRJw8TEnQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de Arrendamiento de local para Ludoteca. Se
+ gunda licitación
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16070878-fin@contratacion-estado
+DTSTAMP:20250304T083749Z
+LAST-MODIFIED:20250304T083749Z
+SEQUENCE:1741077469
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:AVISO FIN: Contratación del servicio de visitas teatralizadas al C
+ entro Histórico y a la Bodega de "Las Caballerizas"
+DESCRIPTION:Contratación del servicio de visitas teatralizadas al Centro H
+ istórico y a la Bodega de "Las Caballerizas"\nExpediente: ABR_SMPL/SERV/2
+ 024000043\nPublicada: 2024-11-14\nFin del plazo de ofertas: 2024-11-29 23:
+ 59\nAdjudicada el 2025-01-30 a EscénaTe S.L\nFin previsto del contrato: 2
+ 027-01-30 (estimado: adjudicación + duración)\nhttps://contrataciondeles
+ tado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MFGyl99WqAMUqXM96WSt
+ VA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=MFGyl99WqAMUqXM96WStVA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del servicio de visitas teatralizadas 
+ al Centro Histórico y a la Bodega de "Las Caballerizas"
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16015963-fin@contratacion-estado
+DTSTAMP:20250304T070936Z
+LAST-MODIFIED:20250304T070936Z
+SEQUENCE:1741072176
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:AVISO FIN: Contrato de servicios para la gestión\, organización y
+  dinamización de las Ludotecas públicas municipales
+DESCRIPTION:Contrato de servicios para la gestión\, organización y dinami
+ zación de las Ludotecas públicas municipales\nExpediente: ABR/SERV/20240
+ 00044\nPublicada: 2024-11-07\nFin del plazo de ofertas: 2024-11-22 23:59\n
+ Adjudicada el 2025-01-27 a LIDIA MARTINEZ DELGADO\, LIDIA MARTINEZ DELGADO
+ \nFin previsto del contrato: 2027-01-27 (estimado: adjudicación + duraci
+ ón)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licita
+ cion&idEvl=657HIS3Jjaj9pbnDwlaUlg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=657HIS3Jjaj9pbnDwlaUlg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de servicios para la gestión\, organizaci
+ ón y dinamización de las Ludotecas públicas municipales
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16447558-fin@contratacion-estado
+DTSTAMP:20250113T104402Z
+LAST-MODIFIED:20250113T104402Z
+SEQUENCE:1736765042
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:AVISO FIN: Contratación del servicio de redacción y ejecución de
+  un proyecto lúdico para un Parque Infantil de Navidad
+DESCRIPTION:Contratación del servicio de redacción y ejecución de un pro
+ yecto lúdico para un Parque Infantil de Navidad\nExpediente: NEG_SINP/SER
+ V/2024000052\nPublicada: 2025-01-13\nFin del plazo de ofertas: 2024-12-10 
+ 23:59\nAdjudicada el 2024-12-23 a VEINTYTRESS DYO S.L.\nFin previsto del c
+ ontrato: 2026-12-23 (estimado: adjudicación + duración)\nhttps://contrat
+ aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ytyNwZSAuO
+ wkJPJS%2BPS9vg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=ytyNwZSAuOwkJPJS%2BPS9vg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del servicio de redacción y ejecució
+ n de un proyecto lúdico para un Parque Infantil de Navidad
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-15838068-fin@contratacion-estado
+DTSTAMP:20250211T124958Z
+LAST-MODIFIED:20250211T124958Z
+SEQUENCE:1739278198
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:AVISO FIN: Selección de entidades de crédito para la prestación 
+ de servicios bancarios-financieros al Ayuntamiento de Aranda de Duero (Bur
+ gos).
+DESCRIPTION:Selección de entidades de crédito para la prestación de serv
+ icios bancarios-financieros al Ayuntamiento de Aranda de Duero (Burgos).\n
+ Expediente: ABR/CON_PR/2024000042\nPublicada: 2024-10-14\nFin del plazo de
+  ofertas: 2024-10-29 23:59\nAdjudicada el 2024-12-19 a Caixabank S.A\, BAN
+ CO SANTANDER S.A.\, BANCO DE SABADELL\, Caja Rural de Burgos\, Fuentepelay
+ o\, Segovia y Castelldans SC\, BANCO BILBAO VIZCAYA ARGENTARIA S.A.\, BANC
+ O DE SABADELL\, Caixabank S.A\, Caja Rural de Burgos\, Fuentepelayo\, Sego
+ via y Castelldans SC\, BANCO SANTANDER S.A.\, Caixabank S.A\nFin previsto 
+ del contrato: 2027-01-15 (estimado: adjudicación + duración)\nhttps://co
+ ntrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=7N8ti
+ BcoUUAtm4eBPtV6eQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=7N8tiBcoUUAtm4eBPtV6eQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Selección de entidades de crédito para la prestaci
+ ón de servicios bancarios-financieros al Ayuntamiento de Aranda de Duero 
+ (Burgos).
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-16416155-fin@contratacion-estado
+DTSTAMP:20250103T112323Z
+LAST-MODIFIED:20250103T112323Z
+SEQUENCE:1735903403
+DTSTART;VALUE=DATE:20281219
+DTEND;VALUE=DATE:20281220
+SUMMARY:AVISO FIN: Contratación del servicio de mantenimiento preventivo d
+ e los equipos de excarcelación y rescate HOLMATRO del SPEIS - Bomberos.
+DESCRIPTION:Contratación del servicio de mantenimiento preventivo de los e
+ quipos de excarcelación y rescate HOLMATRO del SPEIS - Bomberos.\nExpedie
+ nte: NEG_SINP/SERV/2024000049\nPublicada: 2025-01-03\nFin del plazo de ofe
+ rtas: 2024-11-19 23:59\nAdjudicada el 2024-12-19 a INCIPRESA\, S.A.\nFin p
+ revisto del contrato: 2028-12-19 (estimado: adjudicación + duración)\nht
+ tps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idE
+ vl=xuSEz%2B0ifKZt5r0ngvMetA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=xuSEz%2B0ifKZt5r0ngvMetA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del servicio de mantenimiento preventi
+ vo de los equipos de excarcelación y rescate HOLMATRO del SPEIS - Bombero
+ s.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-15916154-fin@contratacion-estado
+DTSTAMP:20241216T064553Z
+LAST-MODIFIED:20241216T064553Z
+SEQUENCE:1734331553
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:AVISO FIN: Contratación del servicio de instalación y gestión de
+  una pista de hielo\, para patinaje\, en Navidad
+DESCRIPTION:Contratación del servicio de instalación y gestión de una pi
+ sta de hielo\, para patinaje\, en Navidad\nExpediente: RES/CON_SERV/202400
+ 0037\nPublicada: 2024-10-24\nFin del plazo de ofertas: 2024-11-19 23:59\nA
+ djudicada el 2024-12-12 a EL PLANETA SONORO S.L\nFin previsto del contrato
+ : 2026-12-12 (estimado: adjudicación + duración)\nhttps://contratacionde
+ lestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iNz63UEh%2Bm5eKgd
+ 8LfVV9g%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=iNz63UEh%2Bm5eKgd8LfVV9g%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del servicio de instalación y gestió
+ n de una pista de hielo\, para patinaje\, en Navidad
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-15850246-fin@contratacion-estado
 DTSTAMP:20241216T083444Z
 LAST-MODIFIED:20241216T083444Z
@@ -1717,6 +2947,249 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contrato patrimonial de comodato con Ibercaja
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-15423534-fin@contratacion-estado
+DTSTAMP:20241202T120653Z
+LAST-MODIFIED:20241202T120653Z
+SEQUENCE:1733141213
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:AVISO FIN: Contratación del alquiler de un local como sede de la A
+ grupación de Voluntarios de Protección Civil
+DESCRIPTION:Contratación del alquiler de un local como sede de la Agrupaci
+ ón de Voluntarios de Protección Civil\nExpediente: ABR_SMPL/CON_PATR/202
+ 4000030\nPublicada: 2024-07-31\nFin del plazo de ofertas: 2024-08-13 23:59
+ \nAdjudicada el 2024-11-07 a JOSE MARIANO ABEJON PEÑA\nFin previsto del c
+ ontrato: 2027-11-07 (estimado: adjudicación + duración)\nhttps://contrat
+ aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=OYNHATinug
+ OKeVWTb9Scog%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=OYNHATinugOKeVWTb9Scog%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del alquiler de un local como sede de 
+ la Agrupación de Voluntarios de Protección Civil
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-15319419-fin@contratacion-estado
+DTSTAMP:20241022T060834Z
+LAST-MODIFIED:20241022T060834Z
+SEQUENCE:1729577314
+DTSTART;VALUE=DATE:20291016
+DTEND;VALUE=DATE:20291017
+SUMMARY:AVISO FIN: Concesión  administrativa Bar "La Huerta".
+DESCRIPTION:Concesión  administrativa Bar "La Huerta".\nExpediente: 2024/0
+ 0010261A\nPublicada: 2024-07-15\nFin del plazo de ofertas: 2024-08-14 23:5
+ 9\nAdjudicada el 2024-10-16 a ANA MARIA BRAVO GIL\nFin previsto del contra
+ to: 2029-10-16 (estimado: adjudicación + duración)\nhttps://contratacion
+ delestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mF8H0VHifutVq4S
+ 9zvaQpQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=mF8H0VHifutVq4S9zvaQpQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Concesión  administrativa Bar "La Huerta".
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-15381066-fin@contratacion-estado
+DTSTAMP:20241023T092730Z
+LAST-MODIFIED:20241023T092730Z
+SEQUENCE:1729675650
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:AVISO FIN: Acuerdo Marco para la compra de material bibliográfico 
+ y audiovisual para la biblioteca.
+DESCRIPTION:Acuerdo Marco para la compra de material bibliográfico y audio
+ visual para la biblioteca.\nExpediente: ABR/SUMIN/2024000029\nPublicada: 2
+ 024-07-24\nFin del plazo de ofertas: 2024-08-13 23:59\nAdjudicada el 2024-
+ 10-14 a DISTRIASVY\, S.L.\, Tatarana\, S.L.\, EDUCA 2002 MULTIMEDIA S.L\, 
+ BIZKAIKO ELKAR\, S.L.\, INFOBIBLIOTECAS S.L.\, ESPASA CALPE\, S.A.\, Marco
+  Ballesteros Checa\, Tatarana\, S.L.\, S.A. DE DISTRIBUCIÓN\, EDICIÓN Y 
+ LIBRERÍAS (DELSA)\nFin previsto del contrato: 2026-10-14 (estimado: adjud
+ icación + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deepli
+ nk:detalle_licitacion&idEvl=KrcRvCYvUe4kJPJS%2BPS9vg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=KrcRvCYvUe4kJPJS%2BPS9vg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Acuerdo Marco para la compra de material bibliográf
+ ico y audiovisual para la biblioteca.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-15233290-fin@contratacion-estado
+DTSTAMP:20241017T080241Z
+LAST-MODIFIED:20241017T080241Z
+SEQUENCE:1729152161
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:AVISO FIN: Contratación del servicio de gestión de la piscina mun
+ icipal cubierta "las francesas"
+DESCRIPTION:Contratación del servicio de gestión de la piscina municipal 
+ cubierta "las francesas"\nExpediente: ABR/SERV/2024000024\nPublicada: 2024
+ -07-02\nFin del plazo de ofertas: 2024-07-31 23:59\nAdjudicada el 2024-09-
+ 13 a SIMA DEPORTE Y OCIO SL\nFin previsto del contrato: 2026-09-13 (estima
+ do: adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc?u
+ ri=deeplink:detalle_licitacion&idEvl=ccj3pvGIJ679pbnDwlaUlg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=ccj3pvGIJ679pbnDwlaUlg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del servicio de gestión de la piscina
+  municipal cubierta "las francesas"
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-15254585-fin@contratacion-estado
+DTSTAMP:20241016T112446Z
+LAST-MODIFIED:20241016T112446Z
+SEQUENCE:1729077886
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:AVISO FIN: Adquisición pantalla y leds publicitarios "U" televisiv
+ a para pabellón Santiago Manguan 2024. Requisito ASOBAL.
+DESCRIPTION:Adquisición pantalla y leds publicitarios "U" televisiva para 
+ pabellón Santiago Manguan 2024. Requisito ASOBAL.\nExpediente: ABR_SMPL/S
+ UMIN/2024000027\nPublicada: 2024-07-05\nFin del plazo de ofertas: 2024-07-
+ 22 23:59\nAdjudicada el 2024-09-13 a Intelligent Screen Services SL\nFin p
+ revisto del contrato: 2026-09-13 (estimado: adjudicación + duración)\nht
+ tps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idE
+ vl=SMHe4hUw%2FXNt5r0ngvMetA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=SMHe4hUw%2FXNt5r0ngvMetA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Adquisición pantalla y leds publicitarios "U" telev
+ isiva para pabellón Santiago Manguan 2024. Requisito ASOBAL.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-14774844-fin@contratacion-estado
+DTSTAMP:20240709T085307Z
+LAST-MODIFIED:20240709T085307Z
+SEQUENCE:1720515187
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:AVISO FIN: Suministro de vestuario para el personal municipal
+DESCRIPTION:Suministro de vestuario para el personal municipal\nExpediente:
+  ABR_SMPL/SUMIN/2024000016\nPublicada: 2024-04-18\nFin del plazo de oferta
+ s: 2024-05-03 23:59\nAdjudicada el 2024-07-02 a Confecciones J Zorrilla SL
+ U\, Confecciones J Zorrilla SLU\, Confecciones J Zorrilla SLU\, Confeccion
+ es J Zorrilla SLU\, Confecciones J Zorrilla SLU\, Confecciones J Zorrilla 
+ SLU\nFin previsto del contrato: 2027-07-02 (estimado: adjudicación + dura
+ ción)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_lici
+ tacion&idEvl=Pokegtn2EPtVkTabT%2FRM8A%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=Pokegtn2EPtVkTabT%2FRM8A%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Suministro de vestuario para el personal municipal
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-14456469-fin@contratacion-estado
+DTSTAMP:20240424T110305Z
+LAST-MODIFIED:20240424T110305Z
+SEQUENCE:1713956585
+DTSTART;VALUE=DATE:20280418
+DTEND;VALUE=DATE:20280419
+SUMMARY:AVISO FIN: Servicio de control remoto para el acceso a los equipos 
+ desde la sección de Informática.
+DESCRIPTION:Servicio de control remoto para el acceso a los equipos desde l
+ a sección de Informática.\nExpediente: ABR_SP_SMPL/SERV/2024000012\nPubl
+ icada: 2024-02-29\nFin del plazo de ofertas: 2024-03-14 23:59\nAdjudicada 
+ el 2024-04-18 a Poligabi Internacional\, S.L.\nFin previsto del contrato: 
+ 2028-04-18 (estimado: adjudicación + duración)\nhttps://contrataciondele
+ stado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3pi7RDezZ5B9Zh%2FyR
+ JgM8w%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=3pi7RDezZ5B9Zh%2FyRJgM8w%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de control remoto para el acceso a los equi
+ pos desde la sección de Informática.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-14448672-fin@contratacion-estado
+DTSTAMP:20240415T091233Z
+LAST-MODIFIED:20240415T091233Z
+SEQUENCE:1713172353
+DTSTART;VALUE=DATE:20280405
+DTEND;VALUE=DATE:20280406
+SUMMARY:AVISO FIN: Servicio de mantenimiento y soporte de las licencias de 
+ la Base de Datos Oracle
+DESCRIPTION:Servicio de mantenimiento y soporte de las licencias de la Base
+  de Datos Oracle\nExpediente: ABR_SP_SMPL/SERV/2024000011\nPublicada: 2024
+ -02-28\nFin del plazo de ofertas: 2024-03-13 23:59\nAdjudicada el 2024-04-
+ 04 a ASAC COMUNICACIONES\, SL\nFin previsto del contrato: 2028-04-05 (esti
+ mado: adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc
+ ?uri=deeplink:detalle_licitacion&idEvl=5nY9dr%2B4mYa7JOCXkOhcDg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=5nY9dr%2B4mYa7JOCXkOhcDg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de mantenimiento y soporte de las licencias
+  de la Base de Datos Oracle
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-14243101-fin@contratacion-estado
+DTSTAMP:20260519T063142Z
+LAST-MODIFIED:20260519T063142Z
+SEQUENCE:1779172302
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:AVISO FIN: Servicio de mantenimiento del programa de Gestión Tribu
+ taria\, Recaudación\, Intervención\, Secretaría.
+DESCRIPTION:Servicio de mantenimiento del programa de Gestión Tributaria\,
+  Recaudación\, Intervención\, Secretaría.\nExpediente: NEG_SINP/SERV/20
+ 23000091\nPublicada: 2024-01-29\nFin del plazo de ofertas: 2024-01-08 23:5
+ 9\nAdjudicada el 2024-01-26 a T SYSTEMS ITC IBERIA SAU\nFin previsto del c
+ ontrato: 2028-01-26 (estimado: adjudicación + duración)\nhttps://contrat
+ aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ERn6Z9FA0F
+ sUqXM96WStVA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=ERn6Z9FA0FsUqXM96WStVA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de mantenimiento del programa de Gestión T
+ ributaria\, Recaudación\, Intervención\, Secretaría.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-13956912-fin@contratacion-estado
+DTSTAMP:20240115T094551Z
+LAST-MODIFIED:20240115T094551Z
+SEQUENCE:1705311951
+DTSTART;VALUE=DATE:20280111
+DTEND;VALUE=DATE:20280112
+SUMMARY:AVISO FIN: Contrato de mantenimiento de analizador de drogas
+DESCRIPTION:Contrato de mantenimiento de analizador de drogas\nExpediente: 
+ NEG_SINP/SERV/2023000090\nPublicada: 2024-01-12\nFin del plazo de ofertas:
+  2023-12-28 23:59\nAdjudicada el 2024-01-11 a TRADESEGUR\, S.A.\nFin previ
+ sto del contrato: 2028-01-11 (estimado: adjudicación + duración)\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3
+ uAiJbtpgxUIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=3uAiJbtpgxUIYE3ZiZ%2BxmQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de mantenimiento de analizador de drogas
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -1765,6 +3238,168 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contrato grúa municipal
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-12513597-fin@contratacion-estado
+DTSTAMP:20230703T121530Z
+LAST-MODIFIED:20230703T121530Z
+SEQUENCE:1688386530
+DTSTART;VALUE=DATE:20280612
+DTEND;VALUE=DATE:20280613
+SUMMARY:AVISO FIN: Concesión administrativa de uso privativo Bar "La Huert
+ a"
+DESCRIPTION:Concesión administrativa de uso privativo Bar "La Huerta"\nExp
+ ediente: 2023/00002427V\nPublicada: 2023-04-10\nFin del plazo de ofertas: 
+ 2023-05-10 14:00\nAdjudicada el 2023-06-12 a FRANCISCO JAVIER JIMENO PARDO
+ \nFin previsto del contrato: 2028-06-12 (estimado: adjudicación + duraci
+ ón)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licita
+ cion&idEvl=%2BoSi%2BJEp6T2mq21uxhbaVQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=%2BoSi%2BJEp6T2mq21uxhbaVQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Concesión administrativa de uso privativo Bar "La H
+ uerta"
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-12451958-fin@contratacion-estado
+DTSTAMP:20230828T082558Z
+LAST-MODIFIED:20230828T082558Z
+SEQUENCE:1693211158
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:AVISO FIN: Servicio de representación letrada del Ayuntamiento de 
+ Aranda de Duero para la defensa de los intereses municipales en todos los 
+ ordenes jurisdiccionales.
+DESCRIPTION:Servicio de representación letrada del Ayuntamiento de Aranda 
+ de Duero para la defensa de los intereses municipales en todos los ordenes
+  jurisdiccionales.\nExpediente: ABR/SERV/2023000022\nPublicada: 2023-03-29
+ \nFin del plazo de ofertas: 2023-04-18 14:00\nAdjudicada el 2023-06-02 a A
+ rco Isilla Abogados\, S.L.\nFin previsto del contrato: 2027-06-02 (estimad
+ o: adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc?ur
+ i=deeplink:detalle_licitacion&idEvl=BzfUBx5L%2BIt7h85%2Fpmmsfw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=BzfUBx5L%2BIt7h85%2Fpmmsfw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de representación letrada del Ayuntamiento
+  de Aranda de Duero para la defensa de los intereses municipales en todos 
+ los ordenes jurisdiccionales.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-11693102-fin@contratacion-estado
+DTSTAMP:20230127T094454Z
+LAST-MODIFIED:20230127T094454Z
+SEQUENCE:1674812694
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:AVISO FIN: Contrato mixto de suministro y servicio de instalación 
+ y mantenimiento integral de desfibriladores externos semiautomáticos (DES
+ A) en régimen de renting\, a ubicar en dependencias del Ayuntamiento de A
+ randa de Duero
+DESCRIPTION:Contrato mixto de suministro y servicio de instalación y mante
+ nimiento integral de desfibriladores externos semiautomáticos (DESA) en r
+ égimen de renting\, a ubicar en dependencias del Ayuntamiento de Aranda d
+ e Duero\nExpediente: ABR/SUMIN/2022000043\nPublicada: 2022-12-05\nFin del 
+ plazo de ofertas: 2022-12-21 14:00\nAdjudicada el 2023-01-19 a EYRSAL EMER
+ GENCIAS S.L.U.\nFin previsto del contrato: 2027-01-19 (estimado: adjudicac
+ ión + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:d
+ etalle_licitacion&idEvl=8pvbyDjR5HAuf4aBO%2BvQlQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=8pvbyDjR5HAuf4aBO%2BvQlQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato mixto de suministro y servicio de instalaci
+ ón y mantenimiento integral de desfibriladores externos semiautomáticos 
+ (DESA) en régimen de renting\, a ubicar en dependencias del Ayuntamiento 
+ de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-11477059-fin@contratacion-estado
+DTSTAMP:20230119T121222Z
+LAST-MODIFIED:20230119T121222Z
+SEQUENCE:1674130342
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:AVISO FIN: Servicio de utilización de una plataforma digital para 
+ la obtención de certificados electrónicos del personal y servidores del 
+ Ayuntamiento de Aranda de Duero
+DESCRIPTION:Servicio de utilización de una plataforma digital para la obte
+ nción de certificados electrónicos del personal y servidores del Ayuntam
+ iento de Aranda de Duero\nExpediente: ABR/SERV/2022000028\nPublicada: 2022
+ -11-03\nFin del plazo de ofertas: 2022-11-18 14:00\nAdjudicada el 2022-12-
+ 30 a FIRMAPROFESIONAL\, S.A.\nFin previsto del contrato: 2026-12-30 (estim
+ ado: adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc?
+ uri=deeplink:detalle_licitacion&idEvl=y0iErLsk9VWXQV0WE7lYPw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=y0iErLsk9VWXQV0WE7lYPw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de utilización de una plataforma digital p
+ ara la obtención de certificados electrónicos del personal y servidores 
+ del Ayuntamiento de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-11765717-fin@contratacion-estado
+DTSTAMP:20221216T101404Z
+LAST-MODIFIED:20221216T101404Z
+SEQUENCE:1671185644
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:AVISO FIN: Contrato de suministro de energía a varias dependencias
+  municipales a través de la red de calor de Aranda de Duero
+DESCRIPTION:Contrato de suministro de energía a varias dependencias munici
+ pales a través de la red de calor de Aranda de Duero\nExpediente: NEG_SIN
+ P/SUMIN/2022000018\nPublicada: 2022-12-16\nFin del plazo de ofertas: 2022-
+ 11-02 14:00\nAdjudicada el 2022-11-29 a RECURSOS DE LA BIOMASA\, S.L.U\nFi
+ n previsto del contrato: 2026-11-29 (estimado: adjudicación + duración)\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=raDZMaSWV4ASugstABGr5A%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=raDZMaSWV4ASugstABGr5A%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de suministro de energía a varias dependen
+ cias municipales a través de la red de calor de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-11238873-fin@contratacion-estado
+DTSTAMP:20221202T082717Z
+LAST-MODIFIED:20221202T082717Z
+SEQUENCE:1669969637
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:AVISO FIN: Contratación del servicio de mantenimiento e inspecció
+ n periódica de las botellas de aire comprimido\, el centro de carga de bo
+ tellas y los equipos de respiración autónoma del SPEIS (Bomberos)
+DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
+ ódica de las botellas de aire comprimido\, el centro de carga de botellas
+  y los equipos de respiración autónoma del SPEIS (Bomberos)\nExpediente:
+  ABR/SERV/2022000012\nPublicada: 2022-09-26\nFin del plazo de ofertas: 202
+ 2-10-10 14:00\nAdjudicada el 2022-11-14 a PIZARRO RAMOS COMERCIAL DE SEGUR
+ IDAD S.L.\, MATPRELAB SL\, MATPRELAB SL\nFin previsto del contrato: 2026-1
+ 1-13 (estimado: adjudicación + duración)\nhttps://contrataciondelestado.
+ es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2Fn1G5rayYE4uf4aBO%2BvQl
+ Q%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=%2Fn1G5rayYE4uf4aBO%2BvQlQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del servicio de mantenimiento e inspec
+ ción periódica de las botellas de aire comprimido\, el centro de carga d
+ e botellas y los equipos de respiración autónoma del SPEIS (Bomberos)
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

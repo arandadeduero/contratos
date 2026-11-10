@@ -259,6 +259,21 @@ export const awardOf = (results) => {
   };
 };
 
+// Fin previsto del contrato: el del anuncio si lo trae; si no, inicio previsto (o adjudicación) + duración, que la
+// Plataforma da en meses (MON), años (ANN) o días (DAY). Lo usan vencimientos.ics y la vista de vencimientos.
+const MONTHS_PER_UNIT = { MON: 1, ANN: 12 };
+export const contractEnd = (plannedEnd, from, duration) => {
+  if (plannedEnd) return { endDate: plannedEnd, endEstimated: false };
+  const n = Number(text(duration));
+  const unit = duration?.['@_unitCode'];
+  const months = MONTHS_PER_UNIT[unit];
+  const d = new Date(`${from}T00:00:00Z`);
+  if (!(n > 0) || Number.isNaN(d.getTime()) || (!months && unit !== 'DAY')) return { endDate: null, endEstimated: false };
+  if (months) d.setUTCMonth(d.getUTCMonth() + n * months);
+  else d.setUTCDate(d.getUTCDate() + n);
+  return { endDate: d.toISOString().slice(0, 10), endEstimated: true };
+};
+
 // Un anuncio del feed -> un registro plano. `dir` es la carpeta de origen ('menores' marca los contratos menores).
 export const recordFromEntry = (entry, dir) => {
   const cf = entry['cac-place-ext:ContractFolderStatus'];
@@ -309,7 +324,8 @@ export const recordFromEntry = (entry, dir) => {
     updated: entry.updated,
     plannedStart: pp['cac:PlannedPeriod']?.['cbc:StartDate'] ?? null,
     plannedEnd: pp['cac:PlannedPeriod']?.['cbc:EndDate'] ?? null,
-    durationMonths: duration && duration['@_unitCode'] === 'MON' ? Number(text(duration)) : null,
+    durationMonths: MONTHS_PER_UNIT[duration?.['@_unitCode']] ? Number(text(duration)) * MONTHS_PER_UNIT[duration['@_unitCode']] : null,
+    ...contractEnd(pp['cac:PlannedPeriod']?.['cbc:EndDate'], pp['cac:PlannedPeriod']?.['cbc:StartDate'] || awardDate, duration),
     url: entry.link?.['@_href'] || null,
   };
 };

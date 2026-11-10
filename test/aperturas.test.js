@@ -354,8 +354,8 @@ test('buildIcs añade PUB y ULT. DÍA de las licitaciones como eventos de día c
 
 test('buildIcs añade ADJ, ADJ. MENOR y AVISO FIN, con alarma el día antes en plazos y fines', (t) => {
   const tenders = [
-    { id: 'l-1', kind: 'licitacion', title: 'Obra A', outcome: 'adjudicado', awardDate: '2026-10-10', durationMonths: 3, winners: [{ name: 'ACME' }] },
-    { id: 'm-2', kind: 'menor', title: 'Servicio B', outcome: 'adjudicado', awardDate: '2026-10-12', plannedEnd: '2026-12-31', published: '2026-10-13' },
+    { id: 'l-1', kind: 'licitacion', title: 'Obra A', outcome: 'adjudicado', awardDate: '2026-10-10', endDate: '2027-01-10', endEstimated: true, winners: [{ name: 'ACME' }] },
+    { id: 'm-2', kind: 'menor', title: 'Servicio B', outcome: 'adjudicado', awardDate: '2026-10-12', endDate: '2026-12-31', endEstimated: false, published: '2026-10-13' },
     { id: 'l-3', kind: 'licitacion', title: 'Sin adjudicar', outcome: null, awardDate: '2026-10-10' },
   ];
   const ics = buildIcs({}, { now: NOW, tenders }).replace(/\r\n /g, '');
@@ -420,8 +420,8 @@ test('upcomingMesas filtra por fecha, ordena y lleva el .ics de cada mesa', (t) 
 
 test('los calendarios temáticos llevan solo sus tipos; el completo, la unión, con los mismos UID y nombres propios', (t) => {
   const tenders = [
-    { id: 'l-1', kind: 'licitacion', title: 'Obra A', published: '2026-10-01', deadline: '2026-10-20', outcome: 'adjudicado', awardDate: '2026-10-10', durationMonths: 3 },
-    { id: 'm-2', kind: 'menor', title: 'Servicio B', outcome: 'adjudicado', awardDate: '2026-10-12', plannedEnd: '2026-12-31' },
+    { id: 'l-1', kind: 'licitacion', title: 'Obra A', published: '2026-10-01', deadline: '2026-10-20', outcome: 'adjudicado', awardDate: '2026-10-10', endDate: '2027-01-10', endEstimated: true },
+    { id: 'm-2', kind: 'menor', title: 'Servicio B', outcome: 'adjudicado', awardDate: '2026-10-12', endDate: '2026-12-31', endEstimated: false },
   ];
   const build = (calendar) => {
     const { prodId, name, kinds } = calendar;

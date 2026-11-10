@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
 import {
-  DOC_PREFIX, SOURCES, buildRecords, detailFromEntry, nextGenProgram, nextGenSource, outcomeOf, recordFromEntry,
+  DOC_PREFIX, SOURCES, buildRecords, contractEnd, detailFromEntry, nextGenProgram, nextGenSource, outcomeOf, recordFromEntry,
 } from '../transparencia/extract.js';
 import {
   FIXTURES_DUMP, entryFor, loadFixture, tmpDir,
@@ -339,4 +339,18 @@ test('buildRecords devuelve fichas de todos los contratos y los órganos compart
 test('SOURCES incluye las carpetas que genera la descarga', (t) => {
   t.true(SOURCES.includes('licitaciones'));
   t.true(SOURCES.includes('menores'));
+});
+
+test('contractEnd: fin del anuncio, o inicio + duración en meses, años o días; sin datos no hay fin', (t) => {
+  const dur = (n, unit) => ({ '#text': n, '@_unitCode': unit });
+  const none = { endDate: null, endEstimated: false };
+  t.deepEqual(contractEnd('2026-12-31', '2026-01-01', dur(3, 'MON')), { endDate: '2026-12-31', endEstimated: false });
+  t.deepEqual(contractEnd(null, '2026-10-10', dur(3, 'MON')), { endDate: '2027-01-10', endEstimated: true });
+  t.deepEqual(contractEnd(null, '2026-10-10', dur(2, 'ANN')), { endDate: '2028-10-10', endEstimated: true });
+  t.deepEqual(contractEnd(null, '2026-10-10', dur(30, 'DAY')), { endDate: '2026-11-09', endEstimated: true });
+  t.deepEqual(contractEnd(null, '2026-10-10', dur(0, 'MON')), none);
+  t.deepEqual(contractEnd(null, '2026-10-10', dur(3, 'XXX')), none);
+  t.deepEqual(contractEnd(null, null, dur(3, 'MON')), none);
+  t.deepEqual(contractEnd(null, 'no es fecha', dur(3, 'MON')), none);
+  t.deepEqual(contractEnd(null, '2026-10-10', undefined), none);
 });

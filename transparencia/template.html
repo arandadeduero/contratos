@@ -1794,14 +1794,10 @@ function renderOpen() {
   $("open-note").textContent = `Se consideran abiertas las licitaciones publicadas o en evaluación con fecha límite igual o posterior a hoy (${fmtDate(TODAY)}). Los datos son del ${fmtDate(REF)}: confirma siempre el estado en el anuncio original.`;
 }
 
-// Fin previsto: el de la ficha si lo trae; si no, inicio de ejecución (o adjudicación) + duración (mismo criterio que vencimientos.ics)
+// Fin previsto: el de la ficha si lo trae; si no, inicio de ejecución (o adjudicación) + duración (el mismo dato que
+// vencimientos.ics). Lo calcula contractEnd (transparencia/extract.js) al construir los datos.
 function endOf(r) {
-  if (r.plannedEnd) return { date: r.plannedEnd, estimated: false };
-  const from = r.plannedStart || r.awardDate;
-  if (!from || !r.durationMonths) return null;
-  const d = new Date(`${from}T00:00:00Z`);
-  d.setUTCMonth(d.getUTCMonth() + r.durationMonths);
-  return { date: d.toISOString().slice(0, 10), estimated: true };
+  return r.endDate ? { date: r.endDate, estimated: r.endEstimated } : null;
 }
 const CAD_H = [["next12", "Próximos 12 meses"], ["next3", "Próximos 3 meses"], ["next6", "Próximos 6 meses"], ["next24", "Próximos 24 meses"], ["past", "Ya vencidos"], ["all", "Todos"]];
 const cadState = { h: "next12", k: "", t: "", q: "" };
