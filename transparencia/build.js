@@ -1,5 +1,5 @@
 // Construye la página de transparencia: lee dump/ y genera data.json, details.json, index.html (autocontenido),
-// artifact.html, los calendarios .ics, los feeds feed.xml y rss.xml y los datos abiertos con su página (datos/).
+// los calendarios .ics, los feeds feed.xml y rss.xml y los datos abiertos con su página (datos/).
 //   node transparencia/build.js [--dump <carpeta>] [--out <carpeta>]
 import {
   mkdirSync, readFileSync, statSync, writeFileSync,
@@ -66,15 +66,6 @@ export const renderPage = (template, data, fonts, assets = {}, details = {}) => 
   return html;
 };
 
-// Versión para publicar como artefacto: el visor añade su propio doctype/html/head/body,
-// así que solo van title + style + contenido.
-export const toArtifact = (html) => {
-  const title = html.match(/<title>[\s\S]*?<\/title>/)[0];
-  const style = html.match(/<style>[\s\S]*?<\/style>/)[0];
-  const body = html.match(/<body>([\s\S]*)<\/body>/)[1];
-  return `${title}\n${style}\n${body}\n`;
-};
-
 const arg = (name, fallback) => {
   const i = process.argv.indexOf(`--${name}`);
   return i > -1 && process.argv[i + 1] ? resolve(process.argv[i + 1]) : fallback;
@@ -99,7 +90,6 @@ const main = () => {
   writeFileSync(join(outDir, 'details.json'), JSON.stringify(details));
   const html = renderPage(readFileSync(join(HERE, 'template.html'), 'utf8'), data, fontCss(), assetUris(), details);
   writeFileSync(join(outDir, 'index.html'), html);
-  writeFileSync(join(outDir, 'artifact.html'), toArtifact(html));
 
   // Calendarios: el completo (aperturas.ics) y los temáticos (mesas, plazos, adjudicaciones, vencimientos)
   const now = Date.now();
@@ -134,7 +124,7 @@ const main = () => {
   console.log({
     files, contracts: records.length, withWinner: records.filter((r) => r.winners.length).length, generated,
   });
-  console.log(`data.json, details.json, index.html, artifact.html, ${CALENDARS.map((c) => c.file).join(', ')}, ${FEED_FILE}, ${RSS_FILE} y ${DATA_DIR}/ (${Object.values(DATA_FILES).join(', ')}, ${PAGE_FILE}) escritos en ${outDir}`);
+  console.log(`data.json, details.json, index.html, ${CALENDARS.map((c) => c.file).join(', ')}, ${FEED_FILE}, ${RSS_FILE} y ${DATA_DIR}/ (${Object.values(DATA_FILES).join(', ')}, ${PAGE_FILE}) escritos en ${outDir}`);
 };
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

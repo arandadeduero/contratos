@@ -4,7 +4,7 @@ import { existsSync, readFileSync, statSync } from 'fs';
 import { join } from 'path';
 
 import {
-  assetUris, fontCss, renderPage, toArtifact,
+  assetUris, fontCss, renderPage,
 } from '../transparencia/build.js';
 import { AYTO_URL, REPO_URL, SITE_URL } from '../transparencia/site.js';
 import { FIXTURES_DUMP, ROOT, tmpDir } from './helpers.js';
@@ -60,13 +60,6 @@ test('renderPage no interpreta patrones especiales de reemplazo en los datos', (
   t.deepEqual(embeddedData(renderPage(TEMPLATE, data, '')), data);
 });
 
-test('toArtifact deja solo title, style y contenido (sin html/head/body)', (t) => {
-  const artifact = toArtifact(renderPage(TEMPLATE, { generated: 'x', records: [] }, ''));
-  t.regex(artifact, /^<title>[^<]+<\/title>\n<style>/);
-  t.notRegex(artifact, /<!doctype|<html|<head>|<body>|<\/body>/i);
-  t.true(artifact.includes('id="data"'));
-});
-
 test('la página no carga recursos externos (fuente autoalojada)', (t) => {
   const html = renderPage(TEMPLATE, { generated: 'x', records: [] }, fontCss());
   t.notRegex(html, /<script[^>]+src=/);
@@ -74,18 +67,17 @@ test('la página no carga recursos externos (fuente autoalojada)', (t) => {
   t.notRegex(html, /fonts\.googleapis|fonts\.gstatic/);
 });
 
-test('el build desde la línea de comandos genera data.json, index.html y artifact.html', (t) => {
+test('el build desde la línea de comandos genera data.json, details.json e index.html', (t) => {
   const out = tmpDir('build-');
   const result = buildInto(out);
   t.is(result.status, 0, result.stderr);
-  for (const file of ['data.json', 'details.json', 'index.html', 'artifact.html']) {
+  for (const file of ['data.json', 'details.json', 'index.html']) {
     t.true(existsSync(join(out, file)), file);
   }
 
   const data = JSON.parse(readFileSync(join(out, 'data.json'), 'utf8'));
   t.is(data.records.length, 13);
   t.deepEqual(embeddedData(readFileSync(join(out, 'index.html'), 'utf8')), data);
-  t.deepEqual(embeddedData(readFileSync(join(out, 'artifact.html'), 'utf8')), data);
 
   // las fichas van aparte y la página las lleva incrustadas
   const details = JSON.parse(readFileSync(join(out, 'details.json'), 'utf8'));
