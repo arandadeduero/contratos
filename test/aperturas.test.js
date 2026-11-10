@@ -164,6 +164,22 @@ test('syncAperturas no se detiene si una ficha falla y la reintenta después', a
   t.true(logs.some((m) => /Aperturas 10: no se pudo consultar/.test(m)));
 });
 
+test('syncAperturas no borra las aperturas conocidas si la Plataforma rechaza la petición con un 200', async (t) => {
+  const dump = dumpWith([{ id: '10', ts: 3000, status: 'PUB' }]);
+  const known = { version: 1000, events: [{ kind: 4, date: '2026-10-21', time: '11:45' }] };
+  const store = { 10: structuredClone(known) };
+  const logs = [];
+  const { changes } = await syncAperturas({
+    dumpDir: dump,
+    store,
+    fetchText: async () => '<html><head><title>Request Rejected</title></head><body>The requested URL was rejected.</body></html>',
+    log: (m) => logs.push(m),
+  });
+  t.deepEqual(store['10'], known); // ni se vacía ni se marca como procesada: se reintenta en la siguiente ejecución
+  t.is(changes.size, 0);
+  t.true(logs.some((m) => /Aperturas 10: no se pudo consultar/.test(m)));
+});
+
 test('readAperturas y writeAperturas: fichero ausente = vacío, y claves ordenadas', async (t) => {
   const dump = tmpDir();
   t.deepEqual(await readAperturas(dump), {});
