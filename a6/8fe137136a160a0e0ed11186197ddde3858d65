@@ -1,0 +1,21 @@
+test/notify.test.js
+  s_8993de4c699574::t_6ee2fa6a969185 293-297
+lib/notify.js
+  s_8993de4c699574::t_2c67cde1333313 119-124,172,191-192,194-203,205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a68fe137136a160a0e0ed11186197ddde3858d65",
+  "prompts": {},
+  "sessions": {
+    "s_8993de4c699574": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7019f3b7-a98c-49db-a800-27eeb27d3d2d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
