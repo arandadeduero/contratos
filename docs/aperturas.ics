@@ -6,42 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Ayuntamiento Aranda de Duero
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:20287240-1-sobre-a-documentacio-n-administrativa@contratacion-estado
-DTSTAMP:20260813T054524Z
-LAST-MODIFIED:20260813T054524Z
-SEQUENCE:1786599924
-DTSTART:20260911T093000Z
-DTEND:20260911T100000Z
-SUMMARY:PRIV · Administrativo: Adquisición de Luminarias de alumbrado pú
- blico 2026 para el Ayuntamiento de Aranda de Duero
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Adquisición de Luminarias de alumbrado público 2026 para el A
- yuntamiento de Aranda de Duero\nExpediente: ABR/SUMIN/2026000029\nSobre: S
- obre A - Documentación administrativa\nActo no público\nhttps://contrata
- ciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XTP3RxHidWB
- 9PLkba5eRog%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:20287240-4-sobre-c-documentacio-n-relativa-a-criter@contratacion-estado
-DTSTAMP:20260813T054524Z
-LAST-MODIFIED:20260813T054524Z
-SEQUENCE:1786599924
-DTSTART:20260911T094500Z
-DTEND:20260911T101500Z
-SUMMARY:Oferta económica: Adquisición de Luminarias de alumbrado público
-  2026 para el Ayuntamiento de Aranda de Duero
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Adquisición de Luminarias de alumbrado público 2026 para el A
- yuntamiento de Aranda de Duero\nExpediente: ABR/SUMIN/2026000029\nSobre: S
- obre C - Documentación relativa a criterios de adjudicación automáticos
- \nActo público\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:20329134-4-sobre-c-documentacio-n-relativa-a-criter@contratacion-estado
 DTSTAMP:20260821T055640Z
 LAST-MODIFIED:20260821T055640Z
@@ -368,25 +332,6 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20417756-pub@contratacion-estado
-DTSTAMP:20261109T140519Z
-LAST-MODIFIED:20261109T140519Z
-SEQUENCE:1794233119
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:PUB: Servicio de actualización permanente del sistema de protecci
- ón de datos de carácter personal y del registro de actividades de tratam
- iento del Ayuntamiento de Aranda de Duero
-DESCRIPTION:Servicio de actualización permanente del sistema de protecció
- n de datos de carácter personal y del registro de actividades de tratamie
- nto del Ayuntamiento de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000
- 037\nPublicada: 2026-09-10\nFin del plazo de ofertas: 2026-09-25 23:59\nht
- tps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idE
- vl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20417756-ult@contratacion-estado
 DTSTAMP:20261109T140519Z
 LAST-MODIFIED:20261109T140519Z
@@ -533,6 +478,48 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Instalación de marquesina para estacionamientos en 
  Comisaría de Policía Local
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20873894-adj@contratacion-estado
+DTSTAMP:20261109T083658Z
+LAST-MODIFIED:20261109T083658Z
+SEQUENCE:1794213418
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ADJ. MENOR: Elaboración de un proyecto de ampliación y rehabilita
+ ción del Centro de Bienestar Animal.
+DESCRIPTION:Elaboración de un proyecto de ampliación y rehabilitación de
+ l Centro de Bienestar Animal.\nExpediente: MEN/SERV/2026000125\nPublicada:
+  2026-11-09\nAdjudicada el 2026-11-06 a AYLLON*RODRIGUEZ\,MARIA DEL MAR\nF
+ in previsto del contrato: 2026-12-06 (estimado: adjudicación + duración)
+ \nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion
+ &idEvl=I5gpxpW9zS1%2FP7lJ7Fu0SA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=I5gpxpW9zS1%2FP7lJ7Fu0SA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20873894-fin@contratacion-estado
+DTSTAMP:20261109T083658Z
+LAST-MODIFIED:20261109T083658Z
+SEQUENCE:1794213418
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:AVISO FIN: Elaboración de un proyecto de ampliación y rehabilitac
+ ión del Centro de Bienestar Animal.
+DESCRIPTION:Elaboración de un proyecto de ampliación y rehabilitación de
+ l Centro de Bienestar Animal.\nExpediente: MEN/SERV/2026000125\nPublicada:
+  2026-11-09\nAdjudicada el 2026-11-06 a AYLLON*RODRIGUEZ\,MARIA DEL MAR\nF
+ in previsto del contrato: 2026-12-06 (estimado: adjudicación + duración)
+ \nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion
+ &idEvl=I5gpxpW9zS1%2FP7lJ7Fu0SA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=I5gpxpW9zS1%2FP7lJ7Fu0SA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Elaboración de un proyecto de ampliación y rehabil
+ itación del Centro de Bienestar Animal.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -875,30 +862,6 @@ DESCRIPTION:ULT. DÍA: Contrato de servicios para la Dirección de Obra\, l
  a Dirección de Ejecución de Obra y la Coordinación de Seguridad y Salud
   de las obras de reurbanización de las calles del entorno de "Los Bloques
  "\, situados en la UR-5 del ERRP de Santa Catalina.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20287240-ult@contratacion-estado
-DTSTAMP:20261028T124654Z
-LAST-MODIFIED:20261028T124654Z
-SEQUENCE:1793191614
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:ULT. DÍA: Adquisición de Luminarias de alumbrado público 2026 pa
- ra el Ayuntamiento de Aranda de Duero
-DESCRIPTION:Adquisición de Luminarias de alumbrado público 2026 para el A
- yuntamiento de Aranda de Duero\nExpediente: ABR/SUMIN/2026000029\nPublicad
- a: 2026-08-12\nFin del plazo de ofertas: 2026-09-10 23:59\nAdjudicada el 2
- 026-10-28 a NOVELEC TECHNICS S.L.\nFin previsto del contrato: 2027-02-28 (
- estimado: adjudicación + duración)\nhttps://contrataciondelestado.es/wps
- /poc?uri=deeplink:detalle_licitacion&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Adquisición de Luminarias de alumbrado público 202
- 6 para el Ayuntamiento de Aranda de Duero
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -2090,25 +2053,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20402180-adj@contratacion-estado
-DTSTAMP:20260911T101636Z
-LAST-MODIFIED:20260911T101636Z
-SEQUENCE:1789121796
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:ADJ. MENOR: Contratación servicio de emisión\, producción y real
- ización de streaming y retransmisión televisiva cross de la constitució
- n 24 octubre 2026
-DESCRIPTION:Contratación servicio de emisión\, producción y realización
-  de streaming y retransmisión televisiva cross de la constitución 24 oct
- ubre 2026\nExpediente: MEN/SERV/2026000106\nPublicada: 2026-09-11\nAdjudic
- ada el 2026-09-10 a TRECE GRADOS SL\nFin previsto del contrato: 2026-12-01
- \nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion
- &idEvl=UBNIZio%2BpQ970UvEyYJSGw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=UBNIZio%2BpQ970UvEyYJSGw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:m-20402180-fin@contratacion-estado
 DTSTAMP:20260911T101636Z
 LAST-MODIFIED:20260911T101636Z
@@ -2133,25 +2077,6 @@ DESCRIPTION:AVISO FIN: Contratación servicio de emisión\, producción y r
  ión 24 octubre 2026
 TRIGGER:-PT15H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20417018-pub@contratacion-estado
-DTSTAMP:20260911T072503Z
-LAST-MODIFIED:20260911T072503Z
-SEQUENCE:1789111503
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:PUB: Servicio de jornadas de soporte para los programas de T-System
- s del Ayuntamiento de Aranda de Duero.
-DESCRIPTION:Servicio de jornadas de soporte para los programas de T-Systems
-  del Ayuntamiento de Aranda de Duero.\nExpediente: NEG_SINP/CON_SERV/20260
- 00027\nPublicada: 2026-09-10\nFin del plazo de ofertas: 2026-08-17 23:59\n
- Adjudicada el 2026-09-09 a T-Systems ITC IBERIA S.A.U.\nFin previsto del c
- ontrato: 2028-02-09 (estimado: adjudicación + duración)\nhttps://contrat
- aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=l9SrtHQprt
- 16nTs9LZ9RhQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=l9SrtHQprt16nTs9LZ9RhQ%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20417018-fin@contratacion-estado
@@ -3167,27 +3092,6 @@ DESCRIPTION:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestaci
  ratación de la FEMP. Lote nº 2 Seguro de daños materiales para Entidade
  s Locales y Entes dependientes y otros riesgos vinculados a daños materia
  les.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m-18017164-fin@contratacion-estado
-DTSTAMP:20250919T093624Z
-LAST-MODIFIED:20250919T093624Z
-SEQUENCE:1758274584
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:AVISO FIN: Contrato seguro obra Centro Cívico Virgen Viñas
-DESCRIPTION:Contrato seguro obra Centro Cívico Virgen Viñas\nExpediente: 
- MEN/SERV/2025000096\nPublicada: 2025-09-19\nAdjudicada el 2025-09-12 a ASE
- FA\nFin previsto del contrato: 2026-09-10 (estimado: adjudicación + durac
- ión)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licit
- acion&idEvl=KxRNk4q%2FANmzz8fXU2i3eQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=KxRNk4q%2FANmzz8fXU2i3eQ%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contrato seguro obra Centro Cívico Virgen Viñas
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

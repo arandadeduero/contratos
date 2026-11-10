@@ -54,6 +54,30 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:m-20873894-fin@contratacion-estado
+DTSTAMP:20261109T083658Z
+LAST-MODIFIED:20261109T083658Z
+SEQUENCE:1794213418
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:AVISO FIN: Elaboración de un proyecto de ampliación y rehabilitac
+ ión del Centro de Bienestar Animal.
+DESCRIPTION:Elaboración de un proyecto de ampliación y rehabilitación de
+ l Centro de Bienestar Animal.\nExpediente: MEN/SERV/2026000125\nPublicada:
+  2026-11-09\nAdjudicada el 2026-11-06 a AYLLON*RODRIGUEZ\,MARIA DEL MAR\nF
+ in previsto del contrato: 2026-12-06 (estimado: adjudicación + duración)
+ \nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion
+ &idEvl=I5gpxpW9zS1%2FP7lJ7Fu0SA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=I5gpxpW9zS1%2FP7lJ7Fu0SA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Elaboración de un proyecto de ampliación y rehabil
+ itación del Centro de Bienestar Animal.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20820608-fin@contratacion-estado
 DTSTAMP:20261030T122124Z
 LAST-MODIFIED:20261030T122124Z
@@ -1622,27 +1646,6 @@ DESCRIPTION:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestaci
  ratación de la FEMP. Lote nº 2 Seguro de daños materiales para Entidade
  s Locales y Entes dependientes y otros riesgos vinculados a daños materia
  les.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m-18017164-fin@contratacion-estado
-DTSTAMP:20250919T093624Z
-LAST-MODIFIED:20250919T093624Z
-SEQUENCE:1758274584
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:AVISO FIN: Contrato seguro obra Centro Cívico Virgen Viñas
-DESCRIPTION:Contrato seguro obra Centro Cívico Virgen Viñas\nExpediente: 
- MEN/SERV/2025000096\nPublicada: 2025-09-19\nAdjudicada el 2025-09-12 a ASE
- FA\nFin previsto del contrato: 2026-09-10 (estimado: adjudicación + durac
- ión)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licit
- acion&idEvl=KxRNk4q%2FANmzz8fXU2i3eQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=KxRNk4q%2FANmzz8fXU2i3eQ%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contrato seguro obra Centro Cívico Virgen Viñas
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

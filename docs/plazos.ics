@@ -6,25 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Plazos de licitaciones
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:l-20417756-pub@contratacion-estado
-DTSTAMP:20261109T140519Z
-LAST-MODIFIED:20261109T140519Z
-SEQUENCE:1794233119
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:PUB: Servicio de actualización permanente del sistema de protecci
- ón de datos de carácter personal y del registro de actividades de tratam
- iento del Ayuntamiento de Aranda de Duero
-DESCRIPTION:Servicio de actualización permanente del sistema de protecció
- n de datos de carácter personal y del registro de actividades de tratamie
- nto del Ayuntamiento de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000
- 037\nPublicada: 2026-09-10\nFin del plazo de ofertas: 2026-09-25 23:59\nht
- tps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idE
- vl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20417756-ult@contratacion-estado
 DTSTAMP:20261109T140519Z
 LAST-MODIFIED:20261109T140519Z
@@ -366,30 +347,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20287240-ult@contratacion-estado
-DTSTAMP:20261028T124654Z
-LAST-MODIFIED:20261028T124654Z
-SEQUENCE:1793191614
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:ULT. DÍA: Adquisición de Luminarias de alumbrado público 2026 pa
- ra el Ayuntamiento de Aranda de Duero
-DESCRIPTION:Adquisición de Luminarias de alumbrado público 2026 para el A
- yuntamiento de Aranda de Duero\nExpediente: ABR/SUMIN/2026000029\nPublicad
- a: 2026-08-12\nFin del plazo de ofertas: 2026-09-10 23:59\nAdjudicada el 2
- 026-10-28 a NOVELEC TECHNICS S.L.\nFin previsto del contrato: 2027-02-28 (
- estimado: adjudicación + duración)\nhttps://contrataciondelestado.es/wps
- /poc?uri=deeplink:detalle_licitacion&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Adquisición de Luminarias de alumbrado público 202
- 6 para el Ayuntamiento de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20658180-pub@contratacion-estado
 DTSTAMP:20261027T121532Z
 LAST-MODIFIED:20261027T121532Z
@@ -644,24 +601,5 @@ DESCRIPTION:Contrato basado en Acuerdo Marco de la Central de Compras de la
  2B0LxGpN9Zh%2FyRJgM8w%3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=jyHv%2B0LxGpN9Zh%2FyRJgM8w%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20417018-pub@contratacion-estado
-DTSTAMP:20260911T072503Z
-LAST-MODIFIED:20260911T072503Z
-SEQUENCE:1789111503
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:PUB: Servicio de jornadas de soporte para los programas de T-System
- s del Ayuntamiento de Aranda de Duero.
-DESCRIPTION:Servicio de jornadas de soporte para los programas de T-Systems
-  del Ayuntamiento de Aranda de Duero.\nExpediente: NEG_SINP/CON_SERV/20260
- 00027\nPublicada: 2026-09-10\nFin del plazo de ofertas: 2026-08-17 23:59\n
- Adjudicada el 2026-09-09 a T-Systems ITC IBERIA S.A.U.\nFin previsto del c
- ontrato: 2028-02-09 (estimado: adjudicación + duración)\nhttps://contrat
- aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=l9SrtHQprt
- 16nTs9LZ9RhQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=l9SrtHQprt16nTs9LZ9RhQ%3D%3D
 END:VEVENT
 END:VCALENDAR

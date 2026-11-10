@@ -6,42 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Mesas de contratación
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:20287240-1-sobre-a-documentacio-n-administrativa@contratacion-estado
-DTSTAMP:20260813T054524Z
-LAST-MODIFIED:20260813T054524Z
-SEQUENCE:1786599924
-DTSTART:20260911T093000Z
-DTEND:20260911T100000Z
-SUMMARY:PRIV · Administrativo: Adquisición de Luminarias de alumbrado pú
- blico 2026 para el Ayuntamiento de Aranda de Duero
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Adquisición de Luminarias de alumbrado público 2026 para el A
- yuntamiento de Aranda de Duero\nExpediente: ABR/SUMIN/2026000029\nSobre: S
- obre A - Documentación administrativa\nActo no público\nhttps://contrata
- ciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XTP3RxHidWB
- 9PLkba5eRog%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:20287240-4-sobre-c-documentacio-n-relativa-a-criter@contratacion-estado
-DTSTAMP:20260813T054524Z
-LAST-MODIFIED:20260813T054524Z
-SEQUENCE:1786599924
-DTSTART:20260911T094500Z
-DTEND:20260911T101500Z
-SUMMARY:Oferta económica: Adquisición de Luminarias de alumbrado público
-  2026 para el Ayuntamiento de Aranda de Duero
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Adquisición de Luminarias de alumbrado público 2026 para el A
- yuntamiento de Aranda de Duero\nExpediente: ABR/SUMIN/2026000029\nSobre: S
- obre C - Documentación relativa a criterios de adjudicación automáticos
- \nActo público\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:20329134-4-sobre-c-documentacio-n-relativa-a-criter@contratacion-estado
 DTSTAMP:20260821T055640Z
 LAST-MODIFIED:20260821T055640Z

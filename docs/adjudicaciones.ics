@@ -42,6 +42,24 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=aR8%2BjeI7FRP10HRJw8TEnQ%3D%3D
 END:VEVENT
 BEGIN:VEVENT
+UID:m-20873894-adj@contratacion-estado
+DTSTAMP:20261109T083658Z
+LAST-MODIFIED:20261109T083658Z
+SEQUENCE:1794213418
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ADJ. MENOR: Elaboración de un proyecto de ampliación y rehabilita
+ ción del Centro de Bienestar Animal.
+DESCRIPTION:Elaboración de un proyecto de ampliación y rehabilitación de
+ l Centro de Bienestar Animal.\nExpediente: MEN/SERV/2026000125\nPublicada:
+  2026-11-09\nAdjudicada el 2026-11-06 a AYLLON*RODRIGUEZ\,MARIA DEL MAR\nF
+ in previsto del contrato: 2026-12-06 (estimado: adjudicación + duración)
+ \nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion
+ &idEvl=I5gpxpW9zS1%2FP7lJ7Fu0SA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=I5gpxpW9zS1%2FP7lJ7Fu0SA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20682106-adj@contratacion-estado
 DTSTAMP:20261030T073031Z
 LAST-MODIFIED:20261030T073031Z
@@ -509,24 +527,5 @@ DESCRIPTION:Redacción Proyecto Planta Sótano Comisaría de Policía Local
  3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=F0CvS4ar9YbLIx6q1oPaMg%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:m-20402180-adj@contratacion-estado
-DTSTAMP:20260911T101636Z
-LAST-MODIFIED:20260911T101636Z
-SEQUENCE:1789121796
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:ADJ. MENOR: Contratación servicio de emisión\, producción y real
- ización de streaming y retransmisión televisiva cross de la constitució
- n 24 octubre 2026
-DESCRIPTION:Contratación servicio de emisión\, producción y realización
-  de streaming y retransmisión televisiva cross de la constitución 24 oct
- ubre 2026\nExpediente: MEN/SERV/2026000106\nPublicada: 2026-09-11\nAdjudic
- ada el 2026-09-10 a TRECE GRADOS SL\nFin previsto del contrato: 2026-12-01
- \nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion
- &idEvl=UBNIZio%2BpQ970UvEyYJSGw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=UBNIZio%2BpQ970UvEyYJSGw%3D%3D
 END:VEVENT
 END:VCALENDAR
