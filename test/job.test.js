@@ -235,6 +235,21 @@ test('runJob: un fallo al consultar las aperturas no impide el aviso', async (t)
   t.regex(warnings[0], /No se pudieron actualizar las aperturas/);
 });
 
+test('runJob recorre todo el margen: un anuncio que llega tarde al feed, detrás de uno ya descargado, no se pierde', async (t) => {
+  const dump = tmpDir();
+  mkdirSync(join(dump, 'licitaciones'));
+  // el anuncio 999 de las 10:00 ya está descargado; el 998, de las 09:00, aparece después en la página siguiente
+  writeFileSync(join(dump, 'licitaciones', `999-${Date.parse('2026-10-14T10:00:00.000+02:00')}.json`), '{}');
+  const page1 = feedWithEntry.replace('<entry>', '<link rel="next" href="https://feed.test/licitaciones?p=2"/><entry>');
+  const page2 = feedWithEntry.replace('/999</id>', '/998</id>').replace('T10:00:00', 'T09:00:00');
+  const web = fakeWeb({ licitaciones: page1 });
+  const result = await runJob({
+    env: {}, dumpDir: dump, feeds, fetchText: (url) => (url.endsWith('?p=2') ? page2 : web(url)), log: () => {},
+  });
+  t.is(result.created, 1);
+  t.true(existsSync(join(dump, 'licitaciones', `998-${Date.parse('2026-10-14T09:00:00.000+02:00')}.json`)));
+});
+
 test('runJob falla antes de descargar si la configuración del correo es incorrecta', async (t) => {
   let requests = 0;
   const error = await t.throwsAsync(runJob({
