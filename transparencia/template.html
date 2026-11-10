@@ -985,7 +985,7 @@ const amountCell = (r) => r.hasAward ? eur2.format(r.amount)
   : `<span class="est" title="Sin importe adjudicado: se muestra el presupuesto">${eur2.format(r.amount)}</span><div class="sub">${
     VOID_OUTCOMES.includes(r.outcome) ? `${OUTCOME[r.outcome].toLowerCase()} · presupuesto` : "presupuesto"}</div>`;
 const titleCell = (r) => `${esc(r.title)}<div class="sub">${kindTag(r.kind)}${r.nextgen ? " " + ngTag() : ""}</div>`;
-const linkCell = (r) => `<button type="button" class="linkbtn" data-d="${esc(r.id)}">Ficha</button>${r.url ? ` · <a href="${esc(r.url)}" target="_blank" rel="noopener">Ver</a>` : ""}`;
+const linkCell = (r) => `<button type="button" class="linkbtn" data-d="${esc(r.id)}">Ficha</button>${safeUrl(r.url) ? ` · <a href="${esc(r.url)}" target="_blank" rel="noopener">Ver</a>` : ""}`;
 
 // ---------- ficha del contrato (ventana de detalle) ----------
 const RECORD_BY_ID = new Map(R.map((r) => [r.id, r]));
