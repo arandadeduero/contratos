@@ -59,6 +59,11 @@ test('toCsv entrecomilla comas, comillas y saltos de línea dentro de los campos
   t.true(text.includes('"Obras, mejora ""vial"""'));
 });
 
+test('toCsv neutraliza los textos que una hoja de cálculo leería como fórmula, sin tocar los números negativos', (t) => {
+  const rows = [{ a: '=HYPERLINK("http://x")', b: '+34', c: '-Obras', d: '@x', e: -12.5 }];
+  t.deepEqual(parseCsv(toCsv(['a', 'b', 'c', 'd', 'e'], rows))[1], ["'=HYPERLINK(\"http://x\")", "'+34", "'-Obras", "'@x", '-12.5']);
+});
+
 test('el CSV conserva los títulos con comas y los valores vacíos como campo vacío', (t) => {
   const [r] = [rec({ title: 'Suministro, montaje y puesta en marcha', buyer: 'Alcaldía', budgetNet: 100.5, offers: 3 })];
   const [head, row] = parseCsv(buildContratosCsv([r]));
