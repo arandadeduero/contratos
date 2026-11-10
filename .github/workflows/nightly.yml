@@ -81,7 +81,11 @@ jobs:
           AWS_REGION: ${{ vars.AWS_REGION }}
           MAIL_FROM: ${{ vars.MAIL_FROM }}
 
+      # Si el build falla, el job sigue hasta subir dump/ y falla al final: si no, los anuncios ya avisados quedarían
+      # sin commitear y cada ejecución siguiente los volvería a ver como nuevos y repetiría el correo.
       - name: Construir la página
+        id: build
+        continue-on-error: true
         run: |
           npm run build:site
           mkdir -p docs
@@ -125,6 +129,12 @@ jobs:
             done
           fi
           echo "pages_changed=${pages_changed}" >> "$GITHUB_OUTPUT"
+
+      - name: Fallar si la página no se pudo construir
+        if: steps.build.outcome == 'failure'
+        run: |
+          echo "La página no se pudo construir; los datos descargados sí se han subido."
+          exit 1
 
   # Los push hechos con el GITHUB_TOKEN no disparan otros workflows, así que el despliegue se invoca desde aquí.
   deploy:
