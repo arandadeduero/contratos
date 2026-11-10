@@ -1,0 +1,21 @@
+lib/datos.js
+  s_8993de4c699574::t_353641d6b72a37 119-121
+test/datos.test.js
+  s_8993de4c699574::t_8651b72117d187 62-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "70aff7a07c26ec835cd9f7522231744ed91491b8",
+  "prompts": {},
+  "sessions": {
+    "s_8993de4c699574": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7019f3b7-a98c-49db-a800-27eeb27d3d2d",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
