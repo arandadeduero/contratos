@@ -276,6 +276,22 @@ test('HTML: adjudicataria con importes, documentos nuevos y retirados, mesas y p
   t.regex(body, /Presentación de ofertas hasta: 30\/10\/2026 14:00/);
 });
 
+test('desierto, desistimiento y renuncia se marcan aparte (el estado RES no los distingue); adjudicado no', (t) => {
+  const withResult = (n, code) => {
+    const e = mk(n, { status: 'RES', menor: true });
+    e[FOLDER]['cac:TenderResult'] = { 'cbc:ResultCode': code };
+    return e;
+  };
+  const awarded = mk(4, { status: 'RES', winners: ['Obras Ejemplo, S.L.'], net: 1000, gross: 1210 });
+  const { html, body } = digestOf([withResult(1, 3), withResult(2, 4), withResult(3, 5), awarded]);
+  for (const word of ['DESIERTO', 'DESISTIMIENTO', 'RENUNCIA']) {
+    t.regex(html, new RegExp(`class="tag t-bad"[^>]*>⚠️ ${word}</span>`));
+    t.regex(body, new RegExp(`^  ⚠️ ${word}$`, 'm'));
+  }
+  t.is(count(html, /⚠️/g), 3);
+  t.is(count(body, /⚠️/g), 3);
+});
+
 test('HTML: importe en formato es-ES, expediente, cabecera, pie con los enlaces de site.js y sin direcciones', (t) => {
   const { html } = digestOf([mk(1, { status: 'PUB', budget: 31364.16 })]);
   t.regex(html, /31\.364,16\s€/);
