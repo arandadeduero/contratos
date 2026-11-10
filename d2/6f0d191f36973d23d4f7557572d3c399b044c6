@@ -1,0 +1,19 @@
+lib/datos.js
+  s_8993de4c699574::t_0de02b26fc0639 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d26f0d191f36973d23d4f7557572d3c399b044c6",
+  "prompts": {},
+  "sessions": {
+    "s_8993de4c699574": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7019f3b7-a98c-49db-a800-27eeb27d3d2d",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
