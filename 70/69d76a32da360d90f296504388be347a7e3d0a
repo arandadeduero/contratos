@@ -1,0 +1,21 @@
+lib/job.js
+  s_8993de4c699574::t_c0e6d701c3098a 70-72
+test/job.test.js
+  s_8993de4c699574::t_c0e6d701c3098a 238-252
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7069d76a32da360d90f296504388be347a7e3d0a",
+  "prompts": {},
+  "sessions": {
+    "s_8993de4c699574": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7019f3b7-a98c-49db-a800-27eeb27d3d2d",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
