@@ -388,9 +388,9 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 END:VEVENT
 BEGIN:VEVENT
 UID:20788096-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
-DTSTAMP:20261027T113517Z
-LAST-MODIFIED:20261027T113517Z
-SEQUENCE:1793100917
+DTSTAMP:20261103T131309Z
+LAST-MODIFIED:20261103T131309Z
+SEQUENCE:1793711589
 DTSTART:20261112T103000Z
 DTEND:20261112T110000Z
 SUMMARY:Oferta económica: Contrato de suministro de adquisición de unifor
@@ -427,5 +427,28 @@ DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
  &idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:20827723-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
+DTSTAMP:20261103T135338Z
+LAST-MODIFIED:20261103T135338Z
+SEQUENCE:1793714018
+DTSTART:20261119T103000Z
+DTEND:20261119T110000Z
+SUMMARY:Oferta económica: Contratación del servicio de mantenimiento e in
+ spección periódica de las botellas de aire comprimido\, el centro de car
+ ga y la cabina de seguridad de llenado de botellas de aire comprimido y lo
+ s equipos de respiración autónoma del SPEIS (Bomberos)
+LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
+DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
+ ódica de las botellas de aire comprimido\, el centro de carga y la cabina
+  de seguridad de llenado de botellas de aire comprimido y los equipos de r
+ espiración autónoma del SPEIS (Bomberos)\nExpediente: ABR_SMPL/SERV/2026
+ 000048\nSobre: Sobre Unico - Documentación administrativa y documentació
+ n relativa a criterios de adjudicación automáticos\nActo público\nhttps
+ ://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=
+ boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
 END:VEVENT
 END:VCALENDAR
