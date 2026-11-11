@@ -452,6 +452,63 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
 END:VEVENT
 BEGIN:VEVENT
+UID:m-20883156-adj@contratacion-estado
+DTSTAMP:20261110T094112Z
+LAST-MODIFIED:20261110T094112Z
+SEQUENCE:1794303672
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:ADJ. MENOR: Realización de la Inspección Técnica de Edificios (I
+ TE) para los siguientes inmuebles de titularidad municipal destinados a us
+ o deportivo: Piscinas de Verano La Calabaza\, Piscinas de Verano Acapulco 
+ y Casa del Deporte\, Pabellón Santiago Manguán y Campo de Rugby ¿Virgen
+  de las Viñas¿
+DESCRIPTION:Realización de la Inspección Técnica de Edificios (ITE) para
+  los siguientes inmuebles de titularidad municipal destinados a uso deport
+ ivo: Piscinas de Verano La Calabaza\, Piscinas de Verano Acapulco y Casa d
+ el Deporte\, Pabellón Santiago Manguán y Campo de Rugby ¿Virgen de las 
+ Viñas¿\nExpediente: MEN/SERV/2026000114\nPublicada: 2026-11-10\nAdjudica
+ da el 2026-11-10 a GONZALEZ*RAMILA\,ALVARO\nFin previsto del contrato: 202
+ 7-01-10 (estimado: adjudicación + duración)\nhttps://contrataciondelesta
+ do.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=trY%2BiY5FbJn10HRJw8TE
+ nQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=trY%2BiY5FbJn10HRJw8TEnQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20883156-fin@contratacion-estado
+DTSTAMP:20261110T094112Z
+LAST-MODIFIED:20261110T094112Z
+SEQUENCE:1794303672
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:AVISO FIN: Realización de la Inspección Técnica de Edificios (IT
+ E) para los siguientes inmuebles de titularidad municipal destinados a uso
+  deportivo: Piscinas de Verano La Calabaza\, Piscinas de Verano Acapulco y
+  Casa del Deporte\, Pabellón Santiago Manguán y Campo de Rugby ¿Virgen 
+ de las Viñas¿
+DESCRIPTION:Realización de la Inspección Técnica de Edificios (ITE) para
+  los siguientes inmuebles de titularidad municipal destinados a uso deport
+ ivo: Piscinas de Verano La Calabaza\, Piscinas de Verano Acapulco y Casa d
+ el Deporte\, Pabellón Santiago Manguán y Campo de Rugby ¿Virgen de las 
+ Viñas¿\nExpediente: MEN/SERV/2026000114\nPublicada: 2026-11-10\nAdjudica
+ da el 2026-11-10 a GONZALEZ*RAMILA\,ALVARO\nFin previsto del contrato: 202
+ 7-01-10 (estimado: adjudicación + duración)\nhttps://contrataciondelesta
+ do.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=trY%2BiY5FbJn10HRJw8TE
+ nQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=trY%2BiY5FbJn10HRJw8TEnQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Realización de la Inspección Técnica de Edificios
+  (ITE) para los siguientes inmuebles de titularidad municipal destinados a
+  uso deportivo: Piscinas de Verano La Calabaza\, Piscinas de Verano Acapul
+ co y Casa del Deporte\, Pabellón Santiago Manguán y Campo de Rugby ¿Vir
+ gen de las Viñas¿
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20417756-ult@contratacion-estado
 DTSTAMP:20261109T140519Z
 LAST-MODIFIED:20261109T140519Z
@@ -474,6 +531,46 @@ ACTION:DISPLAY
 DESCRIPTION:ULT. DÍA: Servicio de actualización permanente del sistema de
   protección de datos de carácter personal y del registro de actividades 
  de tratamiento del Ayuntamiento de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20883227-adj@contratacion-estado
+DTSTAMP:20261110T091710Z
+LAST-MODIFIED:20261110T091710Z
+SEQUENCE:1794302230
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:ADJ. MENOR: Contratación para la reconversión de CIAVIN en museo 
+ autónomo
+DESCRIPTION:Contratación para la reconversión de CIAVIN en museo autónom
+ o\nExpediente: MEN/SERV/2026000128\nPublicada: 2026-11-10\nAdjudicada el 2
+ 026-11-09 a CENTRO DE INVESTIGACION MULTIMEDIA SOBRE EL MEDIO NATURAL\nFin
+  previsto del contrato: 2026-12-20\nhttps://contrataciondelestado.es/wps/p
+ oc?uri=deeplink:detalle_licitacion&idEvl=g7lXXulKub35Rey58Yagpg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=g7lXXulKub35Rey58Yagpg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20883227-fin@contratacion-estado
+DTSTAMP:20261110T091710Z
+LAST-MODIFIED:20261110T091710Z
+SEQUENCE:1794302230
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:AVISO FIN: Contratación para la reconversión de CIAVIN en museo a
+ utónomo
+DESCRIPTION:Contratación para la reconversión de CIAVIN en museo autónom
+ o\nExpediente: MEN/SERV/2026000128\nPublicada: 2026-11-10\nAdjudicada el 2
+ 026-11-09 a CENTRO DE INVESTIGACION MULTIMEDIA SOBRE EL MEDIO NATURAL\nFin
+  previsto del contrato: 2026-12-20\nhttps://contrataciondelestado.es/wps/p
+ oc?uri=deeplink:detalle_licitacion&idEvl=g7lXXulKub35Rey58Yagpg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=g7lXXulKub35Rey58Yagpg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación para la reconversión de CIAVIN en mus
+ eo autónomo
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -777,22 +874,6 @@ DESCRIPTION:ULT. DÍA: Suministro de energía a varias dependencias municip
  ales a través de la red de calor de Aranda de Duero
 TRIGGER:-PT15H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20416971-pub@contratacion-estado
-DTSTAMP:20261029T120143Z
-LAST-MODIFIED:20261029T120143Z
-SEQUENCE:1793275303
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:PUB: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Du
- ero
-DESCRIPTION:Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Due
- ro\nExpediente: ABR/SERV/2026000038\nPublicada: 2026-09-11\nFin del plazo 
- de ofertas: 2026-10-13 23:59\nhttps://contrataciondelestado.es/wps/poc?uri
- =deeplink:detalle_licitacion&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20416971-ult@contratacion-estado
@@ -1400,29 +1481,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20356747-ult@contratacion-estado
-DTSTAMP:20261019T071821Z
-LAST-MODIFIED:20261019T071821Z
-SEQUENCE:1792394301
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:ULT. DÍA: Dirección de Obra y Coordinación de Seguridad y Salud 
- para la Campaña asfáltica 2026\, de Aranda de Duero
-DESCRIPTION:Dirección de Obra y Coordinación de Seguridad y Salud para la
-  Campaña asfáltica 2026\, de Aranda de Duero\nExpediente: ABR_SP_SMPL/SE
- RV/2026000035\nPublicada: 2026-08-27\nFin del plazo de ofertas: 2026-09-11
-  23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_lici
- tacion&idEvl=VC5RLOloRlo3vLk2DU2Ddg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=VC5RLOloRlo3vLk2DU2Ddg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Dirección de Obra y Coordinación de Seguridad y Sa
- lud para la Campaña asfáltica 2026\, de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20497482-ult@contratacion-estado
 DTSTAMP:20261019T055115Z
 LAST-MODIFIED:20261019T055115Z
@@ -1583,25 +1641,6 @@ DESCRIPTION:AVISO FIN: Reparacion y acondicionamiento de la ribera del rio
  Bañuelos.
 TRIGGER:-PT15H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20416552-pub@contratacion-estado
-DTSTAMP:20261027T075002Z
-LAST-MODIFIED:20261027T075002Z
-SEQUENCE:1793087402
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:PUB: Contratación de trabajos de diseño\, ejecución y decoració
- n de dos carrozas para la Cabalgata de Reyes
-DESCRIPTION:Contratación de trabajos de diseño\, ejecución y decoración
-  de dos carrozas para la Cabalgata de Reyes\nExpediente: ABR_SMPL/SERV/202
- 6000039\nPublicada: 2026-09-11\nFin del plazo de ofertas: 2026-09-28 23:59
- \nAdjudicada el 2026-10-15 a ARTE EFIMERO SL\, ARTE EFIMERO SL\nFin previs
- to del contrato: 2026-12-15 (estimado: adjudicación + duración)\nhttps:/
- /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LG
- k%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20416552-ult@contratacion-estado

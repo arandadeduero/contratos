@@ -207,22 +207,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20416971-pub@contratacion-estado
-DTSTAMP:20261029T120143Z
-LAST-MODIFIED:20261029T120143Z
-SEQUENCE:1793275303
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:PUB: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Du
- ero
-DESCRIPTION:Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Due
- ro\nExpediente: ABR/SERV/2026000038\nPublicada: 2026-09-11\nFin del plazo 
- de ofertas: 2026-10-13 23:59\nhttps://contrataciondelestado.es/wps/poc?uri
- =deeplink:detalle_licitacion&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20416971-ult@contratacion-estado
 DTSTAMP:20261029T120143Z
 LAST-MODIFIED:20261029T120143Z
@@ -437,29 +421,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20356747-ult@contratacion-estado
-DTSTAMP:20261019T071821Z
-LAST-MODIFIED:20261019T071821Z
-SEQUENCE:1792394301
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:ULT. DÍA: Dirección de Obra y Coordinación de Seguridad y Salud 
- para la Campaña asfáltica 2026\, de Aranda de Duero
-DESCRIPTION:Dirección de Obra y Coordinación de Seguridad y Salud para la
-  Campaña asfáltica 2026\, de Aranda de Duero\nExpediente: ABR_SP_SMPL/SE
- RV/2026000035\nPublicada: 2026-08-27\nFin del plazo de ofertas: 2026-09-11
-  23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_lici
- tacion&idEvl=VC5RLOloRlo3vLk2DU2Ddg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=VC5RLOloRlo3vLk2DU2Ddg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Dirección de Obra y Coordinación de Seguridad y Sa
- lud para la Campaña asfáltica 2026\, de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20497482-ult@contratacion-estado
 DTSTAMP:20261019T055115Z
 LAST-MODIFIED:20261019T055115Z
@@ -499,25 +460,6 @@ ACTION:DISPLAY
 DESCRIPTION:ULT. DÍA: Campaña asfáltica 2026.
 TRIGGER:-PT15H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20416552-pub@contratacion-estado
-DTSTAMP:20261027T075002Z
-LAST-MODIFIED:20261027T075002Z
-SEQUENCE:1793087402
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:PUB: Contratación de trabajos de diseño\, ejecución y decoració
- n de dos carrozas para la Cabalgata de Reyes
-DESCRIPTION:Contratación de trabajos de diseño\, ejecución y decoración
-  de dos carrozas para la Cabalgata de Reyes\nExpediente: ABR_SMPL/SERV/202
- 6000039\nPublicada: 2026-09-11\nFin del plazo de ofertas: 2026-09-28 23:59
- \nAdjudicada el 2026-10-15 a ARTE EFIMERO SL\, ARTE EFIMERO SL\nFin previs
- to del contrato: 2026-12-15 (estimado: adjudicación + duración)\nhttps:/
- /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LG
- k%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20416552-ult@contratacion-estado

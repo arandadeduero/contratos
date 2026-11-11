@@ -6,6 +6,62 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Vencimientos de contratos
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:m-20883156-fin@contratacion-estado
+DTSTAMP:20261110T094112Z
+LAST-MODIFIED:20261110T094112Z
+SEQUENCE:1794303672
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:AVISO FIN: Realización de la Inspección Técnica de Edificios (IT
+ E) para los siguientes inmuebles de titularidad municipal destinados a uso
+  deportivo: Piscinas de Verano La Calabaza\, Piscinas de Verano Acapulco y
+  Casa del Deporte\, Pabellón Santiago Manguán y Campo de Rugby ¿Virgen 
+ de las Viñas¿
+DESCRIPTION:Realización de la Inspección Técnica de Edificios (ITE) para
+  los siguientes inmuebles de titularidad municipal destinados a uso deport
+ ivo: Piscinas de Verano La Calabaza\, Piscinas de Verano Acapulco y Casa d
+ el Deporte\, Pabellón Santiago Manguán y Campo de Rugby ¿Virgen de las 
+ Viñas¿\nExpediente: MEN/SERV/2026000114\nPublicada: 2026-11-10\nAdjudica
+ da el 2026-11-10 a GONZALEZ*RAMILA\,ALVARO\nFin previsto del contrato: 202
+ 7-01-10 (estimado: adjudicación + duración)\nhttps://contrataciondelesta
+ do.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=trY%2BiY5FbJn10HRJw8TE
+ nQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=trY%2BiY5FbJn10HRJw8TEnQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Realización de la Inspección Técnica de Edificios
+  (ITE) para los siguientes inmuebles de titularidad municipal destinados a
+  uso deportivo: Piscinas de Verano La Calabaza\, Piscinas de Verano Acapul
+ co y Casa del Deporte\, Pabellón Santiago Manguán y Campo de Rugby ¿Vir
+ gen de las Viñas¿
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20883227-fin@contratacion-estado
+DTSTAMP:20261110T091710Z
+LAST-MODIFIED:20261110T091710Z
+SEQUENCE:1794302230
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:AVISO FIN: Contratación para la reconversión de CIAVIN en museo a
+ utónomo
+DESCRIPTION:Contratación para la reconversión de CIAVIN en museo autónom
+ o\nExpediente: MEN/SERV/2026000128\nPublicada: 2026-11-10\nAdjudicada el 2
+ 026-11-09 a CENTRO DE INVESTIGACION MULTIMEDIA SOBRE EL MEDIO NATURAL\nFin
+  previsto del contrato: 2026-12-20\nhttps://contrataciondelestado.es/wps/p
+ oc?uri=deeplink:detalle_licitacion&idEvl=g7lXXulKub35Rey58Yagpg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=g7lXXulKub35Rey58Yagpg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación para la reconversión de CIAVIN en mus
+ eo autónomo
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20859108-fin@contratacion-estado
 DTSTAMP:20261106T131336Z
 LAST-MODIFIED:20261106T131336Z
