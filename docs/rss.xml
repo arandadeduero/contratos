@@ -5,9 +5,20 @@
     <link>https://contratos.arandadeduero.es/</link>
     <description>Nuevas licitaciones, adjudicaciones y contratos menores adjudicados del Ayuntamiento de Aranda de Duero, según la Plataforma de Contratación del Sector Público.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>contratacion-estado (lib/feed.js)</generator>
     <atom:link href="https://contratos.arandadeduero.es/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nueva licitación: Servicio de vigilancia de seguridad para las Concejalías de Festejos, Juventud y Administración General</title>
+      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D</link>
+      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:l-20896827-licitacion</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>licitacion</category>
+      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 146.934,64 €.
+Plazo de presentación de ofertas: hasta el 27/11/2026 a las 23:59.
+Expediente: ABR/SERV/2026000050.</description>
+    </item>
     <item>
       <title>Contrato menor adjudicado: Realización de la Inspección Técnica de Edificios (ITE) para los siguientes inmuebles de titularidad municipal destinados a uso deportivo: Piscinas de Verano La Calabaza, Piscinas de Verano Acapulco y Casa del Deporte, Pabellón Santiago Manguán y Campo de Rugby ¿Virgen de las Viñas¿ — GONZALEZ*RAMILA,ALVARO</title>
       <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=trY%2BiY5FbJn10HRJw8TEnQ%3D%3D</link>
@@ -860,17 +871,6 @@ Expediente: ABR_SMPL/SERV/2026000019.</description>
 Presupuesto base de licitación sin IVA: 252.287,83 €.
 Plazo de presentación de ofertas: hasta el 03/09/2026 a las 23:59.
 Expediente: ABR_SMPL/OBR/2026000028.</description>
-    </item>
-    <item>
-      <title>Nueva licitación: Adquisición de Luminarias de alumbrado público 2026 para el Ayuntamiento de Aranda de Duero</title>
-      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=XTP3RxHidWB9PLkba5eRog%3D%3D</link>
-      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:l-20287240-licitacion</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <category>licitacion</category>
-      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 412.622,07 €.
-Plazo de presentación de ofertas: hasta el 10/09/2026 a las 23:59.
-Expediente: ABR/SUMIN/2026000029.</description>
     </item>
   </channel>
 </rss>

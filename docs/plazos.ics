@@ -6,6 +6,146 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Plazos de licitaciones
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:l-20670799-pub@contratacion-estado
+DTSTAMP:20261112T131925Z
+LAST-MODIFIED:20261112T131925Z
+SEQUENCE:1794489565
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:PUB: Contrato de servicios para la Dirección de Obra\, la Direcci
+ ón de Ejecución de Obra y la Coordinación de Seguridad y Salud de las o
+ bras de reurbanización de las calles del entorno de "Los Bloques"\, situa
+ dos en la UR-5 del ERRP de Santa Catalina.
+DESCRIPTION:Contrato de servicios para la Dirección de Obra\, la Direcció
+ n de Ejecución de Obra y la Coordinación de Seguridad y Salud de las obr
+ as de reurbanización de las calles del entorno de "Los Bloques"\, situado
+ s en la UR-5 del ERRP de Santa Catalina.\nExpediente: ABR/SERV/2026000044\
+ nPublicada: 2026-10-09\nFin del plazo de ofertas: 2026-10-26 23:59\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=g
+ wvjtJozm7peKgd8LfVV9g%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=gwvjtJozm7peKgd8LfVV9g%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20670799-ult@contratacion-estado
+DTSTAMP:20261112T131925Z
+LAST-MODIFIED:20261112T131925Z
+SEQUENCE:1794489565
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:ULT. DÍA: Contrato de servicios para la Dirección de Obra\, la Di
+ rección de Ejecución de Obra y la Coordinación de Seguridad y Salud de 
+ las obras de reurbanización de las calles del entorno de "Los Bloques"\, 
+ situados en la UR-5 del ERRP de Santa Catalina.
+DESCRIPTION:Contrato de servicios para la Dirección de Obra\, la Direcció
+ n de Ejecución de Obra y la Coordinación de Seguridad y Salud de las obr
+ as de reurbanización de las calles del entorno de "Los Bloques"\, situado
+ s en la UR-5 del ERRP de Santa Catalina.\nExpediente: ABR/SERV/2026000044\
+ nPublicada: 2026-10-09\nFin del plazo de ofertas: 2026-10-26 23:59\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=g
+ wvjtJozm7peKgd8LfVV9g%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=gwvjtJozm7peKgd8LfVV9g%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Contrato de servicios para la Dirección de Obra\, l
+ a Dirección de Ejecución de Obra y la Coordinación de Seguridad y Salud
+  de las obras de reurbanización de las calles del entorno de "Los Bloques
+ "\, situados en la UR-5 del ERRP de Santa Catalina.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20896827-pub@contratacion-estado
+DTSTAMP:20261112T123833Z
+LAST-MODIFIED:20261112T123833Z
+SEQUENCE:1794487113
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:PUB: Servicio de vigilancia de seguridad para las Concejalías de F
+ estejos\, Juventud y Administración General
+DESCRIPTION:Servicio de vigilancia de seguridad para las Concejalías de Fe
+ stejos\, Juventud y Administración General\nExpediente: ABR/SERV/20260000
+ 50\nPublicada: 2026-11-12\nFin del plazo de ofertas: 2026-11-27 23:59\nhtt
+ ps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEv
+ l=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20896827-ult@contratacion-estado
+DTSTAMP:20261112T123833Z
+LAST-MODIFIED:20261112T123833Z
+SEQUENCE:1794487113
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:ULT. DÍA: Servicio de vigilancia de seguridad para las Concejalía
+ s de Festejos\, Juventud y Administración General
+DESCRIPTION:Servicio de vigilancia de seguridad para las Concejalías de Fe
+ stejos\, Juventud y Administración General\nExpediente: ABR/SERV/20260000
+ 50\nPublicada: 2026-11-12\nFin del plazo de ofertas: 2026-11-27 23:59\nhtt
+ ps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEv
+ l=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Servicio de vigilancia de seguridad para las Conceja
+ lías de Festejos\, Juventud y Administración General
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20827723-pub@contratacion-estado
+DTSTAMP:20261112T081350Z
+LAST-MODIFIED:20261112T081350Z
+SEQUENCE:1794471230
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:PUB: Contratación del servicio de mantenimiento e inspección peri
+ ódica de las botellas de aire comprimido\, el centro de carga y la cabina
+  de seguridad de llenado de botellas de aire comprimido y los equipos de r
+ espiración autónoma del SPEIS (Bomberos)
+DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
+ ódica de las botellas de aire comprimido\, el centro de carga y la cabina
+  de seguridad de llenado de botellas de aire comprimido y los equipos de r
+ espiración autónoma del SPEIS (Bomberos)\nExpediente: ABR_SMPL/SERV/2026
+ 000048\nPublicada: 2026-11-03\nFin del plazo de ofertas: 2026-11-18 23:59\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20827723-ult@contratacion-estado
+DTSTAMP:20261112T081350Z
+LAST-MODIFIED:20261112T081350Z
+SEQUENCE:1794471230
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ULT. DÍA: Contratación del servicio de mantenimiento e inspecció
+ n periódica de las botellas de aire comprimido\, el centro de carga y la 
+ cabina de seguridad de llenado de botellas de aire comprimido y los equipo
+ s de respiración autónoma del SPEIS (Bomberos)
+DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
+ ódica de las botellas de aire comprimido\, el centro de carga y la cabina
+  de seguridad de llenado de botellas de aire comprimido y los equipos de r
+ espiración autónoma del SPEIS (Bomberos)\nExpediente: ABR_SMPL/SERV/2026
+ 000048\nPublicada: 2026-11-03\nFin del plazo de ofertas: 2026-11-18 23:59\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Contratación del servicio de mantenimiento e inspec
+ ción periódica de las botellas de aire comprimido\, el centro de carga y
+  la cabina de seguridad de llenado de botellas de aire comprimido y los eq
+ uipos de respiración autónoma del SPEIS (Bomberos)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20417756-ult@contratacion-estado
 DTSTAMP:20261109T140519Z
 LAST-MODIFIED:20261109T140519Z
@@ -68,56 +208,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ULT. DÍA: Suministro de furgón de atestados para la Policía 
  Local de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20827723-pub@contratacion-estado
-DTSTAMP:20261103T135338Z
-LAST-MODIFIED:20261103T135338Z
-SEQUENCE:1793714018
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:PUB: Contratación del servicio de mantenimiento e inspección peri
- ódica de las botellas de aire comprimido\, el centro de carga y la cabina
-  de seguridad de llenado de botellas de aire comprimido y los equipos de r
- espiración autónoma del SPEIS (Bomberos)
-DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
- ódica de las botellas de aire comprimido\, el centro de carga y la cabina
-  de seguridad de llenado de botellas de aire comprimido y los equipos de r
- espiración autónoma del SPEIS (Bomberos)\nExpediente: ABR_SMPL/SERV/2026
- 000048\nPublicada: 2026-11-03\nFin del plazo de ofertas: 2026-11-18 23:59\
- nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
- idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20827723-ult@contratacion-estado
-DTSTAMP:20261103T135338Z
-LAST-MODIFIED:20261103T135338Z
-SEQUENCE:1793714018
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:ULT. DÍA: Contratación del servicio de mantenimiento e inspecció
- n periódica de las botellas de aire comprimido\, el centro de carga y la 
- cabina de seguridad de llenado de botellas de aire comprimido y los equipo
- s de respiración autónoma del SPEIS (Bomberos)
-DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
- ódica de las botellas de aire comprimido\, el centro de carga y la cabina
-  de seguridad de llenado de botellas de aire comprimido y los equipos de r
- espiración autónoma del SPEIS (Bomberos)\nExpediente: ABR_SMPL/SERV/2026
- 000048\nPublicada: 2026-11-03\nFin del plazo de ofertas: 2026-11-18 23:59\
- nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
- idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contratación del servicio de mantenimiento e inspec
- ción periódica de las botellas de aire comprimido\, el centro de carga y
-  la cabina de seguridad de llenado de botellas de aire comprimido y los eq
- uipos de respiración autónoma del SPEIS (Bomberos)
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -279,56 +369,6 @@ DESCRIPTION:ULT. DÍA: Servicio de transporte-desplazamiento en autobús\,
  alojamiento y manutención para el intercambio escolar con la ciudad herma
  nada de Romorantin-Lanthenay (Francia) de los alumnos de los Institutos de
   Educación Secundaria de Aranda de Duero. Año 2026.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20670799-pub@contratacion-estado
-DTSTAMP:20261028T125937Z
-LAST-MODIFIED:20261028T125937Z
-SEQUENCE:1793192377
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:PUB: Contrato de servicios para la Dirección de Obra\, la Direcci
- ón de Ejecución de Obra y la Coordinación de Seguridad y Salud de las o
- bras de reurbanización de las calles del entorno de "Los Bloques"\, situa
- dos en la UR-5 del ERRP de Santa Catalina.
-DESCRIPTION:Contrato de servicios para la Dirección de Obra\, la Direcció
- n de Ejecución de Obra y la Coordinación de Seguridad y Salud de las obr
- as de reurbanización de las calles del entorno de "Los Bloques"\, situado
- s en la UR-5 del ERRP de Santa Catalina.\nExpediente: ABR/SERV/2026000044\
- nPublicada: 2026-10-09\nFin del plazo de ofertas: 2026-10-26 23:59\nhttps:
- //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=g
- wvjtJozm7peKgd8LfVV9g%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=gwvjtJozm7peKgd8LfVV9g%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20670799-ult@contratacion-estado
-DTSTAMP:20261028T125937Z
-LAST-MODIFIED:20261028T125937Z
-SEQUENCE:1793192377
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:ULT. DÍA: Contrato de servicios para la Dirección de Obra\, la Di
- rección de Ejecución de Obra y la Coordinación de Seguridad y Salud de 
- las obras de reurbanización de las calles del entorno de "Los Bloques"\, 
- situados en la UR-5 del ERRP de Santa Catalina.
-DESCRIPTION:Contrato de servicios para la Dirección de Obra\, la Direcció
- n de Ejecución de Obra y la Coordinación de Seguridad y Salud de las obr
- as de reurbanización de las calles del entorno de "Los Bloques"\, situado
- s en la UR-5 del ERRP de Santa Catalina.\nExpediente: ABR/SERV/2026000044\
- nPublicada: 2026-10-09\nFin del plazo de ofertas: 2026-10-26 23:59\nhttps:
- //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=g
- wvjtJozm7peKgd8LfVV9g%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=gwvjtJozm7peKgd8LfVV9g%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contrato de servicios para la Dirección de Obra\, l
- a Dirección de Ejecución de Obra y la Coordinación de Seguridad y Salud
-  de las obras de reurbanización de las calles del entorno de "Los Bloques
- "\, situados en la UR-5 del ERRP de Santa Catalina.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
