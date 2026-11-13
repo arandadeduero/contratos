@@ -5,9 +5,21 @@
     <link>https://contratos.arandadeduero.es/</link>
     <description>Nuevas licitaciones, adjudicaciones y contratos menores adjudicados del Ayuntamiento de Aranda de Duero, según la Plataforma de Contratación del Sector Público.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>contratacion-estado (lib/feed.js)</generator>
     <atom:link href="https://contratos.arandadeduero.es/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Adjudicación: PRTR - Contratación de las Obras de Reurbanización de las calles del entorno de Los Bloques, situados en la UR-5 del ERRP de Santa Catalina. — HERRERO TEMIÑO S.A.</title>
+      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D</link>
+      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:l-20658180-adjudicacion</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>adjudicacion</category>
+      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 621.666,51 €.
+Adjudicatario: HERRERO TEMIÑO S.A..
+Importe de adjudicación sin IVA: 551.853,36 €.
+Expediente: ABR/OBR/2026000043.</description>
+    </item>
     <item>
       <title>Nueva licitación: Servicio de vigilancia de seguridad para las Concejalías de Festejos, Juventud y Administración General</title>
       <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D</link>
@@ -848,29 +860,6 @@ Presupuesto base de licitación sin IVA: 14.999,00 €.
 Adjudicatario: LOPEZ*GONZALEZ,MIGUEL ANGEL.
 Importe de adjudicación sin IVA: 14.995,00 €.
 Expediente: MEN/SERV/2026000099.</description>
-    </item>
-    <item>
-      <title>Adjudicación: Contrato para la gestión, organización y ejecución de un programa de actividades de ocio y tiempo libre para menores de 7-12 años, a desarrollar para la Concejalía de Educación, en el patio del CEIP Fernán González. — LAST DAY OCIO ALTERNATIVO SL</title>
-      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=KQnTsYMAi2wIYE3ZiZ%2BxmQ%3D%3D</link>
-      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:l-19900401-adjudicacion</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>adjudicacion</category>
-      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 31.112,10 €.
-Adjudicatario: LAST DAY OCIO ALTERNATIVO SL.
-Importe de adjudicación sin IVA: 25.070,00 €.
-Expediente: ABR_SMPL/SERV/2026000019.</description>
-    </item>
-    <item>
-      <title>Nueva licitación: Contrato de obras para el rediseño estancial y mejora del equipamiento de uso público del parque de la Huerta en Aranda de Duero (Burgos)</title>
-      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D</link>
-      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:l-20297452-licitacion</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>licitacion</category>
-      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 252.287,83 €.
-Plazo de presentación de ofertas: hasta el 03/09/2026 a las 23:59.
-Expediente: ABR_SMPL/OBR/2026000028.</description>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,27 @@
   <subtitle>Nuevas licitaciones, adjudicaciones y contratos menores adjudicados del Ayuntamiento de Aranda de Duero, según la Plataforma de Contratación del Sector Público.</subtitle>
   <link rel="self" type="application/atom+xml" href="https://contratos.arandadeduero.es/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://contratos.arandadeduero.es/"/>
-  <updated>2026-11-12T00:00:00Z</updated>
+  <updated>2026-11-13T00:00:00Z</updated>
   <author><name>Ayuntamiento de Aranda de Duero</name></author>
   <generator>contratacion-estado (lib/feed.js)</generator>
+  <entry>
+    <id>tag:contratos.arandadeduero.es,2026:l-20658180-adjudicacion</id>
+    <title>Adjudicación: PRTR - Contratación de las Obras de Reurbanización de las calles del entorno de Los Bloques, situados en la UR-5 del ERRP de Santa Catalina. — HERRERO TEMIÑO S.A.</title>
+    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D"/>
+    <published>2026-11-13T00:00:00Z</published>
+    <updated>2026-11-13T00:00:00Z</updated>
+    <category term="adjudicacion" label="Adjudicación"/>
+    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 621.666,51 €.
+Adjudicatario: HERRERO TEMIÑO S.A..
+Importe de adjudicación sin IVA: 551.853,36 €.
+Expediente: ABR/OBR/2026000043.</summary>
+    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 621.666,51 €.
+Adjudicatario: HERRERO TEMIÑO S.A..
+Importe de adjudicación sin IVA: 551.853,36 €.
+Expediente: ABR/OBR/2026000043.</content>
+  </entry>
   <entry>
     <id>tag:contratos.arandadeduero.es,2026:l-20896827-licitacion</id>
     <title>Nueva licitación: Servicio de vigilancia de seguridad para las Concejalías de Festejos, Juventud y Administración General</title>
@@ -1257,39 +1275,5 @@ Presupuesto base de licitación sin IVA: 14.999,00 €.
 Adjudicatario: LOPEZ*GONZALEZ,MIGUEL ANGEL.
 Importe de adjudicación sin IVA: 14.995,00 €.
 Expediente: MEN/SERV/2026000099.</content>
-  </entry>
-  <entry>
-    <id>tag:contratos.arandadeduero.es,2026:l-19900401-adjudicacion</id>
-    <title>Adjudicación: Contrato para la gestión, organización y ejecución de un programa de actividades de ocio y tiempo libre para menores de 7-12 años, a desarrollar para la Concejalía de Educación, en el patio del CEIP Fernán González. — LAST DAY OCIO ALTERNATIVO SL</title>
-    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=KQnTsYMAi2wIYE3ZiZ%2BxmQ%3D%3D"/>
-    <published>2026-08-14T00:00:00Z</published>
-    <updated>2026-08-14T00:00:00Z</updated>
-    <category term="adjudicacion" label="Adjudicación"/>
-    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 31.112,10 €.
-Adjudicatario: LAST DAY OCIO ALTERNATIVO SL.
-Importe de adjudicación sin IVA: 25.070,00 €.
-Expediente: ABR_SMPL/SERV/2026000019.</summary>
-    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 31.112,10 €.
-Adjudicatario: LAST DAY OCIO ALTERNATIVO SL.
-Importe de adjudicación sin IVA: 25.070,00 €.
-Expediente: ABR_SMPL/SERV/2026000019.</content>
-  </entry>
-  <entry>
-    <id>tag:contratos.arandadeduero.es,2026:l-20297452-licitacion</id>
-    <title>Nueva licitación: Contrato de obras para el rediseño estancial y mejora del equipamiento de uso público del parque de la Huerta en Aranda de Duero (Burgos)</title>
-    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3V2iHCIQ%2BAjua%2Fi14w%2FPLA%3D%3D"/>
-    <published>2026-08-14T00:00:00Z</published>
-    <updated>2026-08-14T00:00:00Z</updated>
-    <category term="licitacion" label="Nueva licitación"/>
-    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 252.287,83 €.
-Plazo de presentación de ofertas: hasta el 03/09/2026 a las 23:59.
-Expediente: ABR_SMPL/OBR/2026000028.</summary>
-    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 252.287,83 €.
-Plazo de presentación de ofertas: hasta el 03/09/2026 a las 23:59.
-Expediente: ABR_SMPL/OBR/2026000028.</content>
   </entry>
 </feed>

@@ -7,9 +7,9 @@ X-WR-CALNAME:Contratación Aranda de Duero · Plazos de licitaciones
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
 UID:l-20670799-pub@contratacion-estado
-DTSTAMP:20261112T131925Z
-LAST-MODIFIED:20261112T131925Z
-SEQUENCE:1794489565
+DTSTAMP:20261113T134738Z
+LAST-MODIFIED:20261113T134738Z
+SEQUENCE:1794577658
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:PUB: Contrato de servicios para la Dirección de Obra\, la Direcci
@@ -28,9 +28,9 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20670799-ult@contratacion-estado
-DTSTAMP:20261112T131925Z
-LAST-MODIFIED:20261112T131925Z
-SEQUENCE:1794489565
+DTSTAMP:20261113T134738Z
+LAST-MODIFIED:20261113T134738Z
+SEQUENCE:1794577658
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:ULT. DÍA: Contrato de servicios para la Dirección de Obra\, la Di
@@ -52,6 +52,143 @@ DESCRIPTION:ULT. DÍA: Contrato de servicios para la Dirección de Obra\, l
  a Dirección de Ejecución de Obra y la Coordinación de Seguridad y Salud
   de las obras de reurbanización de las calles del entorno de "Los Bloques
  "\, situados en la UR-5 del ERRP de Santa Catalina.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788245-pub@contratacion-estado
+DTSTAMP:20261113T120651Z
+LAST-MODIFIED:20261113T120651Z
+SEQUENCE:1794571611
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:PUB: Suministro y Servicio de licencias de uso de una aplicación i
+ nformática para la gestión académica de la Escuela Municipal de Música
+  y Danza 'Antonio Baciero' de Aranda de Duero
+DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
+ formática para la gestión académica de la Escuela Municipal de Música 
+ y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
+ 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
+ 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
+ on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788245-ult@contratacion-estado
+DTSTAMP:20261113T120651Z
+LAST-MODIFIED:20261113T120651Z
+SEQUENCE:1794571611
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ULT. DÍA: Suministro y Servicio de licencias de uso de una aplicac
+ ión informática para la gestión académica de la Escuela Municipal de M
+ úsica y Danza 'Antonio Baciero' de Aranda de Duero
+DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
+ formática para la gestión académica de la Escuela Municipal de Música 
+ y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
+ 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
+ 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
+ on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Suministro y Servicio de licencias de uso de una apl
+ icación informática para la gestión académica de la Escuela Municipal 
+ de Música y Danza 'Antonio Baciero' de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788096-pub@contratacion-estado
+DTSTAMP:20261113T120542Z
+LAST-MODIFIED:20261113T120542Z
+SEQUENCE:1794571542
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:PUB: Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
+ _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
+ 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
+ alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788096-ult@contratacion-estado
+DTSTAMP:20261113T120542Z
+LAST-MODIFIED:20261113T120542Z
+SEQUENCE:1794571542
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ULT. DÍA: Contrato de suministro de adquisición de uniformidad y 
+ dotación de los efectivos del Servicio de Prevención\, Extinción de inc
+ endios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
+ _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
+ 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
+ alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Contrato de suministro de adquisición de uniformida
+ d y dotación de los efectivos del Servicio de Prevención\, Extinción de
+  incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20658180-pub@contratacion-estado
+DTSTAMP:20261113T101740Z
+LAST-MODIFIED:20261113T101740Z
+SEQUENCE:1794565060
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:PUB: PRTR - Contratación de las Obras de Reurbanización de las ca
+ lles del entorno de Los Bloques\, situados en la UR-5 del ERRP de Santa Ca
+ talina.
+DESCRIPTION:PRTR - Contratación de las Obras de Reurbanización de las cal
+ les del entorno de Los Bloques\, situados en la UR-5 del ERRP de Santa Cat
+ alina.\nExpediente: ABR/OBR/2026000043\nPublicada: 2026-10-06\nFin del pla
+ zo de ofertas: 2026-10-21 23:59\nAdjudicada el 2026-11-13 a HERRERO TEMIÑ
+ O S.A.\nFin previsto del contrato: 2027-05-13 (estimado: adjudicación + d
+ uración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_l
+ icitacion&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20658180-ult@contratacion-estado
+DTSTAMP:20261113T101740Z
+LAST-MODIFIED:20261113T101740Z
+SEQUENCE:1794565060
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:ULT. DÍA: PRTR - Contratación de las Obras de Reurbanización de 
+ las calles del entorno de Los Bloques\, situados en la UR-5 del ERRP de Sa
+ nta Catalina.
+DESCRIPTION:PRTR - Contratación de las Obras de Reurbanización de las cal
+ les del entorno de Los Bloques\, situados en la UR-5 del ERRP de Santa Cat
+ alina.\nExpediente: ABR/OBR/2026000043\nPublicada: 2026-10-06\nFin del pla
+ zo de ofertas: 2026-10-21 23:59\nAdjudicada el 2026-11-13 a HERRERO TEMIÑ
+ O S.A.\nFin previsto del contrato: 2027-05-13 (estimado: adjudicación + d
+ uración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_l
+ icitacion&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: PRTR - Contratación de las Obras de Reurbanización
+  de las calles del entorno de Los Bloques\, situados en la UR-5 del ERRP d
+ e Santa Catalina.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -212,51 +349,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20788096-pub@contratacion-estado
-DTSTAMP:20261103T131309Z
-LAST-MODIFIED:20261103T131309Z
-SEQUENCE:1793711589
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:PUB: Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
-DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
- _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
- 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788096-ult@contratacion-estado
-DTSTAMP:20261103T131309Z
-LAST-MODIFIED:20261103T131309Z
-SEQUENCE:1793711589
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:ULT. DÍA: Contrato de suministro de adquisición de uniformidad y 
- dotación de los efectivos del Servicio de Prevención\, Extinción de inc
- endios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
-DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
- _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
- 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contrato de suministro de adquisición de uniformida
- d y dotación de los efectivos del Servicio de Prevención\, Extinción de
-  incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20586273-pub@contratacion-estado
 DTSTAMP:20261103T075528Z
 LAST-MODIFIED:20261103T075528Z
@@ -369,94 +461,6 @@ DESCRIPTION:ULT. DÍA: Servicio de transporte-desplazamiento en autobús\,
  alojamiento y manutención para el intercambio escolar con la ciudad herma
  nada de Romorantin-Lanthenay (Francia) de los alumnos de los Institutos de
   Educación Secundaria de Aranda de Duero. Año 2026.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20658180-pub@contratacion-estado
-DTSTAMP:20261027T121532Z
-LAST-MODIFIED:20261027T121532Z
-SEQUENCE:1793103332
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:PUB: PRTR - Contratación de las Obras de Reurbanización de las ca
- lles del entorno de Los Bloques\, situados en la UR-5 del ERRP de Santa Ca
- talina.
-DESCRIPTION:PRTR - Contratación de las Obras de Reurbanización de las cal
- les del entorno de Los Bloques\, situados en la UR-5 del ERRP de Santa Cat
- alina.\nExpediente: ABR/OBR/2026000043\nPublicada: 2026-10-06\nFin del pla
- zo de ofertas: 2026-10-21 23:59\nhttps://contrataciondelestado.es/wps/poc?
- uri=deeplink:detalle_licitacion&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20658180-ult@contratacion-estado
-DTSTAMP:20261027T121532Z
-LAST-MODIFIED:20261027T121532Z
-SEQUENCE:1793103332
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:ULT. DÍA: PRTR - Contratación de las Obras de Reurbanización de 
- las calles del entorno de Los Bloques\, situados en la UR-5 del ERRP de Sa
- nta Catalina.
-DESCRIPTION:PRTR - Contratación de las Obras de Reurbanización de las cal
- les del entorno de Los Bloques\, situados en la UR-5 del ERRP de Santa Cat
- alina.\nExpediente: ABR/OBR/2026000043\nPublicada: 2026-10-06\nFin del pla
- zo de ofertas: 2026-10-21 23:59\nhttps://contrataciondelestado.es/wps/poc?
- uri=deeplink:detalle_licitacion&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: PRTR - Contratación de las Obras de Reurbanización
-  de las calles del entorno de Los Bloques\, situados en la UR-5 del ERRP d
- e Santa Catalina.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788245-pub@contratacion-estado
-DTSTAMP:20261027T094244Z
-LAST-MODIFIED:20261027T094244Z
-SEQUENCE:1793094164
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:PUB: Suministro y Servicio de licencias de uso de una aplicación i
- nformática para la gestión académica de la Escuela Municipal de Música
-  y Danza 'Antonio Baciero' de Aranda de Duero
-DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
- formática para la gestión académica de la Escuela Municipal de Música 
- y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
- 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
- 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
- on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788245-ult@contratacion-estado
-DTSTAMP:20261027T094244Z
-LAST-MODIFIED:20261027T094244Z
-SEQUENCE:1793094164
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:ULT. DÍA: Suministro y Servicio de licencias de uso de una aplicac
- ión informática para la gestión académica de la Escuela Municipal de M
- úsica y Danza 'Antonio Baciero' de Aranda de Duero
-DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
- formática para la gestión académica de la Escuela Municipal de Música 
- y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
- 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
- 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
- on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Suministro y Servicio de licencias de uso de una apl
- icación informática para la gestión académica de la Escuela Municipal 
- de Música y Danza 'Antonio Baciero' de Aranda de Duero
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

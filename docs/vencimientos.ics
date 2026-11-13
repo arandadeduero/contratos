@@ -6,6 +6,33 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Vencimientos de contratos
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:l-20658180-fin@contratacion-estado
+DTSTAMP:20261113T101740Z
+LAST-MODIFIED:20261113T101740Z
+SEQUENCE:1794565060
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:AVISO FIN: PRTR - Contratación de las Obras de Reurbanización de 
+ las calles del entorno de Los Bloques\, situados en la UR-5 del ERRP de Sa
+ nta Catalina.
+DESCRIPTION:PRTR - Contratación de las Obras de Reurbanización de las cal
+ les del entorno de Los Bloques\, situados en la UR-5 del ERRP de Santa Cat
+ alina.\nExpediente: ABR/OBR/2026000043\nPublicada: 2026-10-06\nFin del pla
+ zo de ofertas: 2026-10-21 23:59\nAdjudicada el 2026-11-13 a HERRERO TEMIÑ
+ O S.A.\nFin previsto del contrato: 2027-05-13 (estimado: adjudicación + d
+ uración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_l
+ icitacion&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: PRTR - Contratación de las Obras de Reurbanización
+  de las calles del entorno de Los Bloques\, situados en la UR-5 del ERRP d
+ e Santa Catalina.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20883156-fin@contratacion-estado
 DTSTAMP:20261110T094112Z
 LAST-MODIFIED:20261110T094112Z
