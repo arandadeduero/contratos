@@ -2111,29 +2111,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-19137086-fin@contratacion-estado
-DTSTAMP:20260226T114217Z
-LAST-MODIFIED:20260226T114217Z
-SEQUENCE:1772106137
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:AVISO FIN: Verbena con la Orquesta The Rollers Band el sábado 12 d
- e septiembre de 2026.
-DESCRIPTION:Verbena con la Orquesta The Rollers Band el sábado 12 de septi
- embre de 2026.\nExpediente: MEN/SERV/2026000009\nPublicada: 2026-02-26\nAd
- judicada el 2026-02-25 a TANDEM PRODUCCIONES SL\nFin previsto del contrato
- : 2026-09-13\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detall
- e_licitacion&idEvl=7NfLF3yeYsprSd8H4b2soA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=7NfLF3yeYsprSd8H4b2soA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Verbena con la Orquesta The Rollers Band el sábado 
- 12 de septiembre de 2026.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-18690471-fin@contratacion-estado
 DTSTAMP:20260225T121416Z
 LAST-MODIFIED:20260225T121416Z
@@ -3077,55 +3054,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Acuerdo Marco para la compra de material bibliográf
  ico y audiovisual para la biblioteca.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-15233290-fin@contratacion-estado
-DTSTAMP:20241017T080241Z
-LAST-MODIFIED:20241017T080241Z
-SEQUENCE:1729152161
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:AVISO FIN: Contratación del servicio de gestión de la piscina mun
- icipal cubierta "las francesas"
-DESCRIPTION:Contratación del servicio de gestión de la piscina municipal 
- cubierta "las francesas"\nExpediente: ABR/SERV/2024000024\nPublicada: 2024
- -07-02\nFin del plazo de ofertas: 2024-07-31 23:59\nAdjudicada el 2024-09-
- 13 a SIMA DEPORTE Y OCIO SL\nFin previsto del contrato: 2026-09-13 (estima
- do: adjudicación + duración)\nhttps://contrataciondelestado.es/wps/poc?u
- ri=deeplink:detalle_licitacion&idEvl=ccj3pvGIJ679pbnDwlaUlg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=ccj3pvGIJ679pbnDwlaUlg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contratación del servicio de gestión de la piscina
-  municipal cubierta "las francesas"
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-15254585-fin@contratacion-estado
-DTSTAMP:20241016T112446Z
-LAST-MODIFIED:20241016T112446Z
-SEQUENCE:1729077886
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:AVISO FIN: Adquisición pantalla y leds publicitarios "U" televisiv
- a para pabellón Santiago Manguan 2024. Requisito ASOBAL.
-DESCRIPTION:Adquisición pantalla y leds publicitarios "U" televisiva para 
- pabellón Santiago Manguan 2024. Requisito ASOBAL.\nExpediente: ABR_SMPL/S
- UMIN/2024000027\nPublicada: 2024-07-05\nFin del plazo de ofertas: 2024-07-
- 22 23:59\nAdjudicada el 2024-09-13 a Intelligent Screen Services SL\nFin p
- revisto del contrato: 2026-09-13 (estimado: adjudicación + duración)\nht
- tps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idE
- vl=SMHe4hUw%2FXNt5r0ngvMetA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=SMHe4hUw%2FXNt5r0ngvMetA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Adquisición pantalla y leds publicitarios "U" telev
- isiva para pabellón Santiago Manguan 2024. Requisito ASOBAL.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
