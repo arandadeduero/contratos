@@ -2115,29 +2115,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-19136770-fin@contratacion-estado
-DTSTAMP:20260226T123611Z
-LAST-MODIFIED:20260226T123611Z
-SEQUENCE:1772109371
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:AVISO FIN: Verbena con la orquesta La Reina Show el domingo 13 de s
- eptiembre de 2026.
-DESCRIPTION:Verbena con la orquesta La Reina Show el domingo 13 de septiemb
- re de 2026.\nExpediente: MEN/SERV/2026000008\nPublicada: 2026-02-26\nAdjud
- icada el 2026-02-26 a LA ACADEMIA DE EVENTOS\, S.L.\nFin previsto del cont
- rato: 2026-09-14\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:de
- talle_licitacion&idEvl=TjpFljohw0mcCF8sV%2BqtYA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=TjpFljohw0mcCF8sV%2BqtYA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Verbena con la orquesta La Reina Show el domingo 13 
- de septiembre de 2026.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-18690471-fin@contratacion-estado
 DTSTAMP:20260225T121416Z
 LAST-MODIFIED:20260225T121416Z
