@@ -1479,27 +1479,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20085827-fin@contratacion-estado
-DTSTAMP:20260715T095625Z
-LAST-MODIFIED:20260715T095625Z
-SEQUENCE:1784109385
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:AVISO FIN: Obra adecuación escuela de cerámica.
-DESCRIPTION:Obra adecuación escuela de cerámica.\nExpediente: MEN/OBR/202
- 6000065\nPublicada: 2026-07-15\nAdjudicada el 2026-07-15 a GERAYCA SL\nFin
-  previsto del contrato: 2026-09-15 (estimado: adjudicación + duración)\n
- https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&i
- dEvl=pywIcuAWrxx70UvEyYJSGw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=pywIcuAWrxx70UvEyYJSGw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Obra adecuación escuela de cerámica.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:m-20087900-fin@contratacion-estado
 DTSTAMP:20260714T062300Z
 LAST-MODIFIED:20260714T062300Z
@@ -2088,29 +2067,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación Orquesta Maremagnum Show el 19 de sept
  iembre para las Fiestas Patronales 2026.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m-19136688-fin@contratacion-estado
-DTSTAMP:20260226T125027Z
-LAST-MODIFIED:20260226T125027Z
-SEQUENCE:1772110227
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:AVISO FIN: Verbena con la Orquesta Azabache el lunes 14 de septiemb
- re de 2026.
-DESCRIPTION:Verbena con la Orquesta Azabache el lunes 14 de septiembre de 2
- 026.\nExpediente: MEN/SERV/2026000010\nPublicada: 2026-02-26\nAdjudicada e
- l 2026-02-26 a REPRESENTACIONES MEDEM SL\nFin previsto del contrato: 2026-
- 09-15\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licit
- acion&idEvl=jIYhZiCsm3v10HRJw8TEnQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=jIYhZiCsm3v10HRJw8TEnQ%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Verbena con la Orquesta Azabache el lunes 14 de sept
- iembre de 2026.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
