@@ -2294,23 +2294,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20562188-adj@contratacion-estado
-DTSTAMP:20260924T084331Z
-LAST-MODIFIED:20260924T084331Z
-SEQUENCE:1790239411
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:ADJ. MENOR: Contratación del espectáculo de Somión. La ciudad de
-  los oficios olvidados
-DESCRIPTION:Contratación del espectáculo de Somión. La ciudad de los ofi
- cios olvidados\nExpediente: MEN/SERV/2026000070\nPublicada: 2026-09-24\nAd
- judicada el 2026-09-16 a EQM SERVEIS CULTURALS SCCL\nFin previsto del cont
- rato: 2026-10-16\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:de
- talle_licitacion&idEvl=FiSLRymF3ieFlFRHfEzEaw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=FiSLRymF3ieFlFRHfEzEaw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:m-20562188-fin@contratacion-estado
 DTSTAMP:20260924T084331Z
 LAST-MODIFIED:20260924T084331Z
@@ -2334,22 +2317,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20562358-adj@contratacion-estado
-DTSTAMP:20260924T080352Z
-LAST-MODIFIED:20260924T080352Z
-SEQUENCE:1790237032
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:ADJ. MENOR: Contratación de la obra de teatro ICONOS-EL BRUJO
-DESCRIPTION:Contratación de la obra de teatro ICONOS-EL BRUJO\nExpediente:
-  MEN/SERV/2026000064\nPublicada: 2026-09-24\nAdjudicada el 2026-09-16 a GE
- STION Y PRODUCCION BAKTY SL\nFin previsto del contrato: 2026-10-14\nhttps:
- //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=b
- 2Ombr8rfu5PpzdqOdhuWg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=b2Ombr8rfu5PpzdqOdhuWg%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:m-20562358-fin@contratacion-estado
 DTSTAMP:20260924T080352Z
 LAST-MODIFIED:20260924T080352Z
@@ -2369,24 +2336,6 @@ ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación de la obra de teatro ICONOS-EL BRUJO
 TRIGGER:-PT15H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m-20562474-adj@contratacion-estado
-DTSTAMP:20260924T073406Z
-LAST-MODIFIED:20260924T073406Z
-SEQUENCE:1790235246
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:ADJ. MENOR: Redacción Proyecto Planta Sótano Comisaría de Polic
- ía Local
-DESCRIPTION:Redacción Proyecto Planta Sótano Comisaría de Policía Local
- \nExpediente: MEN/SERV/2026000110\nPublicada: 2026-09-24\nAdjudicada el 20
- 26-09-16 a BARRIO Y CAMENO ARQUITECTOS SL\nFin previsto del contrato: 2026
- -11-16 (estimado: adjudicación + duración)\nhttps://contrataciondelestad
- o.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=F0CvS4ar9YbLIx6q1oPaMg%
- 3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=F0CvS4ar9YbLIx6q1oPaMg%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:m-20562474-fin@contratacion-estado
