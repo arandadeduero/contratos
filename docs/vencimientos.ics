@@ -33,6 +33,54 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:m-20929891-fin@contratacion-estado
+DTSTAMP:20261116T091002Z
+LAST-MODIFIED:20261116T091002Z
+SEQUENCE:1794820202
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:AVISO FIN: Contratación del espectáculo "No tienes nada que perde
+ r\; tributo a Mecano" el 28 de diciembre
+DESCRIPTION:Contratación del espectáculo "No tienes nada que perder\; tri
+ buto a Mecano" el 28 de diciembre\nExpediente: MEN/SERV/2026000138\nPublic
+ ada: 2026-11-16\nAdjudicada el 2026-11-13 a MUNDO TRIBUTO PRODUCCIONES MUS
+ ICALES S.L.\nFin previsto del contrato: 2026-12-29 (estimado: adjudicació
+ n + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:deta
+ lle_licitacion&idEvl=GEGgX6cfGmCFlFRHfEzEaw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=GEGgX6cfGmCFlFRHfEzEaw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del espectáculo "No tienes nada que p
+ erder\; tributo a Mecano" el 28 de diciembre
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20930032-fin@contratacion-estado
+DTSTAMP:20261116T083128Z
+LAST-MODIFIED:20261116T083128Z
+SEQUENCE:1794817888
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:AVISO FIN: Contratación del espectáculo "Drone Light Show 150 dro
+ nes" el día 27 de diciembre de 2026
+DESCRIPTION:Contratación del espectáculo "Drone Light Show 150 drones" el
+  día 27 de diciembre de 2026\nExpediente: MEN/SERV/2026000131\nPublicada:
+  2026-11-16\nAdjudicada el 2026-11-13 a UMILES ENTERTAINMENT SL\nFin previ
+ sto del contrato: 2026-12-28 (estimado: adjudicación + duración)\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=q
+ dNDmY3NvS%2FVGIpKDxgsAQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=qdNDmY3NvS%2FVGIpKDxgsAQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del espectáculo "Drone Light Show 150
+  drones" el día 27 de diciembre de 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20883156-fin@contratacion-estado
 DTSTAMP:20261110T094112Z
 LAST-MODIFIED:20261110T094112Z

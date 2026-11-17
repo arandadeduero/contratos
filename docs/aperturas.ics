@@ -686,6 +686,90 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:m-20929891-adj@contratacion-estado
+DTSTAMP:20261116T091002Z
+LAST-MODIFIED:20261116T091002Z
+SEQUENCE:1794820202
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ADJ. MENOR: Contratación del espectáculo "No tienes nada que perd
+ er\; tributo a Mecano" el 28 de diciembre
+DESCRIPTION:Contratación del espectáculo "No tienes nada que perder\; tri
+ buto a Mecano" el 28 de diciembre\nExpediente: MEN/SERV/2026000138\nPublic
+ ada: 2026-11-16\nAdjudicada el 2026-11-13 a MUNDO TRIBUTO PRODUCCIONES MUS
+ ICALES S.L.\nFin previsto del contrato: 2026-12-29 (estimado: adjudicació
+ n + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:deta
+ lle_licitacion&idEvl=GEGgX6cfGmCFlFRHfEzEaw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=GEGgX6cfGmCFlFRHfEzEaw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20929891-fin@contratacion-estado
+DTSTAMP:20261116T091002Z
+LAST-MODIFIED:20261116T091002Z
+SEQUENCE:1794820202
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:AVISO FIN: Contratación del espectáculo "No tienes nada que perde
+ r\; tributo a Mecano" el 28 de diciembre
+DESCRIPTION:Contratación del espectáculo "No tienes nada que perder\; tri
+ buto a Mecano" el 28 de diciembre\nExpediente: MEN/SERV/2026000138\nPublic
+ ada: 2026-11-16\nAdjudicada el 2026-11-13 a MUNDO TRIBUTO PRODUCCIONES MUS
+ ICALES S.L.\nFin previsto del contrato: 2026-12-29 (estimado: adjudicació
+ n + duración)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:deta
+ lle_licitacion&idEvl=GEGgX6cfGmCFlFRHfEzEaw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=GEGgX6cfGmCFlFRHfEzEaw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del espectáculo "No tienes nada que p
+ erder\; tributo a Mecano" el 28 de diciembre
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20930032-adj@contratacion-estado
+DTSTAMP:20261116T083128Z
+LAST-MODIFIED:20261116T083128Z
+SEQUENCE:1794817888
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ADJ. MENOR: Contratación del espectáculo "Drone Light Show 150 dr
+ ones" el día 27 de diciembre de 2026
+DESCRIPTION:Contratación del espectáculo "Drone Light Show 150 drones" el
+  día 27 de diciembre de 2026\nExpediente: MEN/SERV/2026000131\nPublicada:
+  2026-11-16\nAdjudicada el 2026-11-13 a UMILES ENTERTAINMENT SL\nFin previ
+ sto del contrato: 2026-12-28 (estimado: adjudicación + duración)\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=q
+ dNDmY3NvS%2FVGIpKDxgsAQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=qdNDmY3NvS%2FVGIpKDxgsAQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20930032-fin@contratacion-estado
+DTSTAMP:20261116T083128Z
+LAST-MODIFIED:20261116T083128Z
+SEQUENCE:1794817888
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:AVISO FIN: Contratación del espectáculo "Drone Light Show 150 dro
+ nes" el día 27 de diciembre de 2026
+DESCRIPTION:Contratación del espectáculo "Drone Light Show 150 drones" el
+  día 27 de diciembre de 2026\nExpediente: MEN/SERV/2026000131\nPublicada:
+  2026-11-16\nAdjudicada el 2026-11-13 a UMILES ENTERTAINMENT SL\nFin previ
+ sto del contrato: 2026-12-28 (estimado: adjudicación + duración)\nhttps:
+ //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=q
+ dNDmY3NvS%2FVGIpKDxgsAQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=qdNDmY3NvS%2FVGIpKDxgsAQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del espectáculo "Drone Light Show 150
+  drones" el día 27 de diciembre de 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20896827-pub@contratacion-estado
 DTSTAMP:20261112T123833Z
 LAST-MODIFIED:20261112T123833Z
@@ -1568,26 +1652,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación de la participación de la feria INTUR
   2026
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20497482-ult@contratacion-estado
-DTSTAMP:20261019T055115Z
-LAST-MODIFIED:20261019T055115Z
-SEQUENCE:1792389075
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:ULT. DÍA: Reparación muro contención CEIP Fuenteminaya.
-DESCRIPTION:Reparación muro contención CEIP Fuenteminaya.\nExpediente: AB
- R_SMPL/OBR/2026000036\nPublicada: 2026-08-28\nFin del plazo de ofertas: 20
- 26-09-17 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:deta
- lle_licitacion&idEvl=pV9XV%2BShuLicTfjQf3USOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=pV9XV%2BShuLicTfjQf3USOg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Reparación muro contención CEIP Fuenteminaya.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
