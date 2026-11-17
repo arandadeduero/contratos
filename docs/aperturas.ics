@@ -592,6 +592,94 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:l-20585907-pub@contratacion-estado
+DTSTAMP:20261117T080427Z
+LAST-MODIFIED:20261117T080427Z
+SEQUENCE:1794902667
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:PUB: Suministro de material de informática para la Escuela Municip
+ al de Música y Danza del Ayuntamiento de Aranda de Duero
+DESCRIPTION:Suministro de material de informática para la Escuela Municipa
+ l de Música y Danza del Ayuntamiento de Aranda de Duero\nExpediente: ABR_
+ SMPL/SUMIN/2026000040\nPublicada: 2026-09-29\nFin del plazo de ofertas: 20
+ 26-10-14 23:59\nAdjudicada el 2026-11-13 a HERBECON SYSTEMS SL\nFin previs
+ to del contrato: 2027-02-13 (estimado: adjudicación + duración)\nhttps:/
+ /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Na
+ EKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20585907-ult@contratacion-estado
+DTSTAMP:20261117T080427Z
+LAST-MODIFIED:20261117T080427Z
+SEQUENCE:1794902667
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:ULT. DÍA: Suministro de material de informática para la Escuela M
+ unicipal de Música y Danza del Ayuntamiento de Aranda de Duero
+DESCRIPTION:Suministro de material de informática para la Escuela Municipa
+ l de Música y Danza del Ayuntamiento de Aranda de Duero\nExpediente: ABR_
+ SMPL/SUMIN/2026000040\nPublicada: 2026-09-29\nFin del plazo de ofertas: 20
+ 26-10-14 23:59\nAdjudicada el 2026-11-13 a HERBECON SYSTEMS SL\nFin previs
+ to del contrato: 2027-02-13 (estimado: adjudicación + duración)\nhttps:/
+ /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Na
+ EKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Suministro de material de informática para la Escue
+ la Municipal de Música y Danza del Ayuntamiento de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20585907-adj@contratacion-estado
+DTSTAMP:20261117T080427Z
+LAST-MODIFIED:20261117T080427Z
+SEQUENCE:1794902667
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ADJ: Suministro de material de informática para la Escuela Municip
+ al de Música y Danza del Ayuntamiento de Aranda de Duero
+DESCRIPTION:Suministro de material de informática para la Escuela Municipa
+ l de Música y Danza del Ayuntamiento de Aranda de Duero\nExpediente: ABR_
+ SMPL/SUMIN/2026000040\nPublicada: 2026-09-29\nFin del plazo de ofertas: 20
+ 26-10-14 23:59\nAdjudicada el 2026-11-13 a HERBECON SYSTEMS SL\nFin previs
+ to del contrato: 2027-02-13 (estimado: adjudicación + duración)\nhttps:/
+ /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Na
+ EKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20585907-fin@contratacion-estado
+DTSTAMP:20261117T080427Z
+LAST-MODIFIED:20261117T080427Z
+SEQUENCE:1794902667
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:AVISO FIN: Suministro de material de informática para la Escuela M
+ unicipal de Música y Danza del Ayuntamiento de Aranda de Duero
+DESCRIPTION:Suministro de material de informática para la Escuela Municipa
+ l de Música y Danza del Ayuntamiento de Aranda de Duero\nExpediente: ABR_
+ SMPL/SUMIN/2026000040\nPublicada: 2026-09-29\nFin del plazo de ofertas: 20
+ 26-10-14 23:59\nAdjudicada el 2026-11-13 a HERBECON SYSTEMS SL\nFin previs
+ to del contrato: 2027-02-13 (estimado: adjudicación + duración)\nhttps:/
+ /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Na
+ EKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Suministro de material de informática para la Escue
+ la Municipal de Música y Danza del Ayuntamiento de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20658180-pub@contratacion-estado
 DTSTAMP:20261113T101740Z
 LAST-MODIFIED:20261113T101740Z
@@ -1863,46 +1951,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contratación de trabajos de diseño\, ejecución y 
  decoración de dos carrozas para la Cabalgata de Reyes
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20585907-pub@contratacion-estado
-DTSTAMP:20261014T115720Z
-LAST-MODIFIED:20261014T115720Z
-SEQUENCE:1791979040
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:PUB: Suministro de material de informática para la Escuela Municip
- al de Música y Danza del Ayuntamiento de Aranda de Duero
-DESCRIPTION:Suministro de material de informática para la Escuela Municipa
- l de Música y Danza del Ayuntamiento de Aranda de Duero\nExpediente: ABR_
- SMPL/SUMIN/2026000040\nPublicada: 2026-09-29\nFin del plazo de ofertas: 20
- 26-10-14 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:deta
- lle_licitacion&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20585907-ult@contratacion-estado
-DTSTAMP:20261014T115720Z
-LAST-MODIFIED:20261014T115720Z
-SEQUENCE:1791979040
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:ULT. DÍA: Suministro de material de informática para la Escuela M
- unicipal de Música y Danza del Ayuntamiento de Aranda de Duero
-DESCRIPTION:Suministro de material de informática para la Escuela Municipa
- l de Música y Danza del Ayuntamiento de Aranda de Duero\nExpediente: ABR_
- SMPL/SUMIN/2026000040\nPublicada: 2026-09-29\nFin del plazo de ofertas: 20
- 26-10-14 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:deta
- lle_licitacion&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=NaEKU6sc64oIYE3ZiZ%2BxmQ%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Suministro de material de informática para la Escue
- la Municipal de Música y Danza del Ayuntamiento de Aranda de Duero
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
