@@ -2855,26 +2855,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20314960-fin@contratacion-estado
-DTSTAMP:20260818T064615Z
-LAST-MODIFIED:20260818T064615Z
-SEQUENCE:1787035575
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:AVISO FIN: Urban Fest Joven
-DESCRIPTION:Urban Fest Joven\nExpediente: MEN/SERV/2026000100\nPublicada: 2
- 026-08-18\nAdjudicada el 2026-08-17 a LOPEZ*GONZALEZ\,MIGUEL ANGEL\nFin pr
- evisto del contrato: 2026-09-18\nhttps://contrataciondelestado.es/wps/poc?
- uri=deeplink:detalle_licitacion&idEvl=F14yKsshMcAmMOlAXxDEjw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=F14yKsshMcAmMOlAXxDEjw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Urban Fest Joven
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:m-20314975-fin@contratacion-estado
 DTSTAMP:20260818T064003Z
 LAST-MODIFIED:20260818T064003Z
@@ -3136,29 +3116,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20085817-fin@contratacion-estado
-DTSTAMP:20260715T095822Z
-LAST-MODIFIED:20260715T095822Z
-SEQUENCE:1784109502
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:AVISO FIN: Contratación de la actividad de Magia Social de las Fie
- stas Patronales 2026
-DESCRIPTION:Contratación de la actividad de Magia Social de las Fiestas Pa
- tronales 2026\nExpediente: MEN/SERV/2026000084\nPublicada: 2026-07-15\nAdj
- udicada el 2026-07-15 a BLANCO*VICENTE\,LUIS MARIA\nFin previsto del contr
- ato: 2026-09-18\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=boeKzkqhDMCopEMYCmrbmw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=boeKzkqhDMCopEMYCmrbmw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contratación de la actividad de Magia Social de las
-  Fiestas Patronales 2026
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:m-20087900-fin@contratacion-estado
 DTSTAMP:20260714T062300Z
 LAST-MODIFIED:20260714T062300Z
@@ -3235,29 +3192,6 @@ DESCRIPTION:AVISO FIN: Contrato basado en el Acuerdo Marco para la prestaci
  atación de la FEMP. LOTE 3 Seguro colectivo de accidentes y vida para Ent
  idades Locales dependientes y otros riesgos vinculados a daños sobre las 
  personas
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m-20005947-fin@contratacion-estado
-DTSTAMP:20260708T065218Z
-LAST-MODIFIED:20260708T065218Z
-SEQUENCE:1783493538
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:AVISO FIN: Contratación de Artistas Callejeros para las Fiestas Pa
- tronales 2026
-DESCRIPTION:Contratación de Artistas Callejeros para las Fiestas Patronale
- s 2026\nExpediente: MEN/SERV/2026000078\nPublicada: 2026-07-08\nAdjudicada
-  el 2026-07-07 a INDELEBLE COMUNIDAD ARTISTICA AC\nFin previsto del contra
- to: 2026-09-18\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:deta
- lle_licitacion&idEvl=U7GXyK1HqRW9Hd5zqvq9cg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=U7GXyK1HqRW9Hd5zqvq9cg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contratación de Artistas Callejeros para las Fiesta
- s Patronales 2026
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
