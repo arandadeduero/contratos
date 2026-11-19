@@ -452,6 +452,46 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
 END:VEVENT
 BEGIN:VEVENT
+UID:l-20958186-pub@contratacion-estado
+DTSTAMP:20261118T094359Z
+LAST-MODIFIED:20261118T094359Z
+SEQUENCE:1794995039
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:PUB: Servicio extraordinario de limpieza de pintadas en fachadas de
+ l municipio de Aranda de Duero
+DESCRIPTION:Servicio extraordinario de limpieza de pintadas en fachadas del
+  municipio de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000051\nPubli
+ cada: 2026-11-18\nFin del plazo de ofertas: 2026-12-03 23:59\nhttps://cont
+ rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II03Hp9
+ xFVM4NavIWzMcHA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20958186-ult@contratacion-estado
+DTSTAMP:20261118T094359Z
+LAST-MODIFIED:20261118T094359Z
+SEQUENCE:1794995039
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:ULT. DÍA: Servicio extraordinario de limpieza de pintadas en facha
+ das del municipio de Aranda de Duero
+DESCRIPTION:Servicio extraordinario de limpieza de pintadas en fachadas del
+  municipio de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000051\nPubli
+ cada: 2026-11-18\nFin del plazo de ofertas: 2026-12-03 23:59\nhttps://cont
+ rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II03Hp9
+ xFVM4NavIWzMcHA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Servicio extraordinario de limpieza de pintadas en f
+ achadas del municipio de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20952213-adj@contratacion-estado
 DTSTAMP:20261118T122304Z
 LAST-MODIFIED:20261118T122304Z
