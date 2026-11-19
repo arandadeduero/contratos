@@ -6,6 +6,78 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Adjudicaciones
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:m-20952213-adj@contratacion-estado
+DTSTAMP:20261118T122304Z
+LAST-MODIFIED:20261118T122304Z
+SEQUENCE:1795004584
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ADJ. MENOR: Contratación del espectáculo "Resplandor" el día 26 
+ de diciembre de 2026
+DESCRIPTION:Contratación del espectáculo "Resplandor" el día 26 de dicie
+ mbre de 2026\nExpediente: MEN/SERV/2026000134\nPublicada: 2026-11-18\nAdju
+ dicada el 2026-11-18 a PIROTECNIA VULCANO\, S.L.\nFin previsto del contrat
+ o: 2026-12-27 (estimado: adjudicación + duración)\nhttps://contrataciond
+ elestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QirFqyJNusCdkQsA
+ 7ROvsg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=QirFqyJNusCdkQsA7ROvsg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952791-adj@contratacion-estado
+DTSTAMP:20261118T100825Z
+LAST-MODIFIED:20261118T100825Z
+SEQUENCE:1794996505
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:ADJ. MENOR: Contratación de la actuación de la artista Marilia (e
+ xcomponente de Ella Baila Sola) el 29 de diciembre
+DESCRIPTION:Contratación de la actuación de la artista Marilia (excompone
+ nte de Ella Baila Sola) el 29 de diciembre\nExpediente: MEN/SERV/202600013
+ 3\nPublicada: 2026-11-18\nAdjudicada el 2026-11-16 a ANDRES*CASARES\,MARIL
+ IA\nFin previsto del contrato: 2026-12-30 (estimado: adjudicación + durac
+ ión)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licit
+ acion&idEvl=FA9c6%2F8uGpl4zIRvjBVCSw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=FA9c6%2F8uGpl4zIRvjBVCSw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952828-adj@contratacion-estado
+DTSTAMP:20261118T095731Z
+LAST-MODIFIED:20261118T095731Z
+SEQUENCE:1794995851
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:ADJ. MENOR: Contratación pasacalle Thea Diosa de la luz el 18 de d
+ iciembre
+DESCRIPTION:Contratación pasacalle Thea Diosa de la luz el 18 de diciembre
+ \nExpediente: MEN/SERV/2026000137\nPublicada: 2026-11-18\nAdjudicada el 20
+ 26-11-16 a ALBEROLA Y MONTERO PRODUCCIONES TEATRALES SOCIEDAD LIMITADA\nFi
+ n previsto del contrato: 2026-12-19 (estimado: adjudicación + duración)\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=5q3Jpcwbt2w%2B1TMyIiZmzw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=5q3Jpcwbt2w%2B1TMyIiZmzw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952856-adj@contratacion-estado
+DTSTAMP:20261118T094849Z
+LAST-MODIFIED:20261118T094849Z
+SEQUENCE:1794995329
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:ADJ. MENOR: Elaboración del proyecto conexión de la red de riego 
+ existente con el parque General Gutiérrez
+DESCRIPTION:Elaboración del proyecto conexión de la red de riego existent
+ e con el parque General Gutiérrez\nExpediente: MEN/SERV/2026000132\nPubli
+ cada: 2026-11-18\nAdjudicada el 2026-11-16 a CIVILARCH CONSULTORA SL\nFin 
+ previsto del contrato: 2026-12-16 (estimado: adjudicación + duración)\nh
+ ttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&id
+ Evl=MBrLg3SzzzYIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=MBrLg3SzzzYIYE3ZiZ%2BxmQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20585907-adj@contratacion-estado
 DTSTAMP:20261117T080427Z
 LAST-MODIFIED:20261117T080427Z

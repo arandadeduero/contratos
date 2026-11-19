@@ -452,6 +452,174 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
 END:VEVENT
 BEGIN:VEVENT
+UID:m-20952213-adj@contratacion-estado
+DTSTAMP:20261118T122304Z
+LAST-MODIFIED:20261118T122304Z
+SEQUENCE:1795004584
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:ADJ. MENOR: Contratación del espectáculo "Resplandor" el día 26 
+ de diciembre de 2026
+DESCRIPTION:Contratación del espectáculo "Resplandor" el día 26 de dicie
+ mbre de 2026\nExpediente: MEN/SERV/2026000134\nPublicada: 2026-11-18\nAdju
+ dicada el 2026-11-18 a PIROTECNIA VULCANO\, S.L.\nFin previsto del contrat
+ o: 2026-12-27 (estimado: adjudicación + duración)\nhttps://contrataciond
+ elestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QirFqyJNusCdkQsA
+ 7ROvsg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=QirFqyJNusCdkQsA7ROvsg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952213-fin@contratacion-estado
+DTSTAMP:20261118T122304Z
+LAST-MODIFIED:20261118T122304Z
+SEQUENCE:1795004584
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:AVISO FIN: Contratación del espectáculo "Resplandor" el día 26 d
+ e diciembre de 2026
+DESCRIPTION:Contratación del espectáculo "Resplandor" el día 26 de dicie
+ mbre de 2026\nExpediente: MEN/SERV/2026000134\nPublicada: 2026-11-18\nAdju
+ dicada el 2026-11-18 a PIROTECNIA VULCANO\, S.L.\nFin previsto del contrat
+ o: 2026-12-27 (estimado: adjudicación + duración)\nhttps://contrataciond
+ elestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QirFqyJNusCdkQsA
+ 7ROvsg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=QirFqyJNusCdkQsA7ROvsg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación del espectáculo "Resplandor" el día 
+ 26 de diciembre de 2026
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952791-adj@contratacion-estado
+DTSTAMP:20261118T100825Z
+LAST-MODIFIED:20261118T100825Z
+SEQUENCE:1794996505
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:ADJ. MENOR: Contratación de la actuación de la artista Marilia (e
+ xcomponente de Ella Baila Sola) el 29 de diciembre
+DESCRIPTION:Contratación de la actuación de la artista Marilia (excompone
+ nte de Ella Baila Sola) el 29 de diciembre\nExpediente: MEN/SERV/202600013
+ 3\nPublicada: 2026-11-18\nAdjudicada el 2026-11-16 a ANDRES*CASARES\,MARIL
+ IA\nFin previsto del contrato: 2026-12-30 (estimado: adjudicación + durac
+ ión)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licit
+ acion&idEvl=FA9c6%2F8uGpl4zIRvjBVCSw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=FA9c6%2F8uGpl4zIRvjBVCSw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952791-fin@contratacion-estado
+DTSTAMP:20261118T100825Z
+LAST-MODIFIED:20261118T100825Z
+SEQUENCE:1794996505
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:AVISO FIN: Contratación de la actuación de la artista Marilia (ex
+ componente de Ella Baila Sola) el 29 de diciembre
+DESCRIPTION:Contratación de la actuación de la artista Marilia (excompone
+ nte de Ella Baila Sola) el 29 de diciembre\nExpediente: MEN/SERV/202600013
+ 3\nPublicada: 2026-11-18\nAdjudicada el 2026-11-16 a ANDRES*CASARES\,MARIL
+ IA\nFin previsto del contrato: 2026-12-30 (estimado: adjudicación + durac
+ ión)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licit
+ acion&idEvl=FA9c6%2F8uGpl4zIRvjBVCSw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=FA9c6%2F8uGpl4zIRvjBVCSw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de la actuación de la artista Marilia
+  (excomponente de Ella Baila Sola) el 29 de diciembre
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952828-adj@contratacion-estado
+DTSTAMP:20261118T095731Z
+LAST-MODIFIED:20261118T095731Z
+SEQUENCE:1794995851
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:ADJ. MENOR: Contratación pasacalle Thea Diosa de la luz el 18 de d
+ iciembre
+DESCRIPTION:Contratación pasacalle Thea Diosa de la luz el 18 de diciembre
+ \nExpediente: MEN/SERV/2026000137\nPublicada: 2026-11-18\nAdjudicada el 20
+ 26-11-16 a ALBEROLA Y MONTERO PRODUCCIONES TEATRALES SOCIEDAD LIMITADA\nFi
+ n previsto del contrato: 2026-12-19 (estimado: adjudicación + duración)\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=5q3Jpcwbt2w%2B1TMyIiZmzw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=5q3Jpcwbt2w%2B1TMyIiZmzw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952828-fin@contratacion-estado
+DTSTAMP:20261118T095731Z
+LAST-MODIFIED:20261118T095731Z
+SEQUENCE:1794995851
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:AVISO FIN: Contratación pasacalle Thea Diosa de la luz el 18 de di
+ ciembre
+DESCRIPTION:Contratación pasacalle Thea Diosa de la luz el 18 de diciembre
+ \nExpediente: MEN/SERV/2026000137\nPublicada: 2026-11-18\nAdjudicada el 20
+ 26-11-16 a ALBEROLA Y MONTERO PRODUCCIONES TEATRALES SOCIEDAD LIMITADA\nFi
+ n previsto del contrato: 2026-12-19 (estimado: adjudicación + duración)\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=5q3Jpcwbt2w%2B1TMyIiZmzw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=5q3Jpcwbt2w%2B1TMyIiZmzw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación pasacalle Thea Diosa de la luz el 18 d
+ e diciembre
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952856-adj@contratacion-estado
+DTSTAMP:20261118T094849Z
+LAST-MODIFIED:20261118T094849Z
+SEQUENCE:1794995329
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:ADJ. MENOR: Elaboración del proyecto conexión de la red de riego 
+ existente con el parque General Gutiérrez
+DESCRIPTION:Elaboración del proyecto conexión de la red de riego existent
+ e con el parque General Gutiérrez\nExpediente: MEN/SERV/2026000132\nPubli
+ cada: 2026-11-18\nAdjudicada el 2026-11-16 a CIVILARCH CONSULTORA SL\nFin 
+ previsto del contrato: 2026-12-16 (estimado: adjudicación + duración)\nh
+ ttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&id
+ Evl=MBrLg3SzzzYIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=MBrLg3SzzzYIYE3ZiZ%2BxmQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20952856-fin@contratacion-estado
+DTSTAMP:20261118T094849Z
+LAST-MODIFIED:20261118T094849Z
+SEQUENCE:1794995329
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:AVISO FIN: Elaboración del proyecto conexión de la red de riego e
+ xistente con el parque General Gutiérrez
+DESCRIPTION:Elaboración del proyecto conexión de la red de riego existent
+ e con el parque General Gutiérrez\nExpediente: MEN/SERV/2026000132\nPubli
+ cada: 2026-11-18\nAdjudicada el 2026-11-16 a CIVILARCH CONSULTORA SL\nFin 
+ previsto del contrato: 2026-12-16 (estimado: adjudicación + duración)\nh
+ ttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&id
+ Evl=MBrLg3SzzzYIYE3ZiZ%2BxmQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=MBrLg3SzzzYIYE3ZiZ%2BxmQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Elaboración del proyecto conexión de la red de rie
+ go existente con el parque General Gutiérrez
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20670799-pub@contratacion-estado
 DTSTAMP:20261113T134738Z
 LAST-MODIFIED:20261113T134738Z
@@ -2855,29 +3023,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20314975-fin@contratacion-estado
-DTSTAMP:20260818T064003Z
-LAST-MODIFIED:20260818T064003Z
-SEQUENCE:1787035203
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:AVISO FIN: XIV edición Feria de la Música (Fiestas Patronales 202
- 6)
-DESCRIPTION:XIV edición Feria de la Música (Fiestas Patronales 2026)\nExp
- ediente: MEN/SERV/2026000099\nPublicada: 2026-08-18\nAdjudicada el 2026-08
- -17 a LOPEZ*GONZALEZ\,MIGUEL ANGEL\nFin previsto del contrato: 2026-09-19\
- nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
- idEvl=THf7Omc0Fljua%2Fi14w%2FPLA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=THf7Omc0Fljua%2Fi14w%2FPLA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: XIV edición Feria de la Música (Fiestas Patronales
-  2026)
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-19900401-fin@contratacion-estado
 DTSTAMP:20260821T065319Z
 LAST-MODIFIED:20260821T065319Z
@@ -3635,29 +3780,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contrato de educación ambiental "Conocer para Cuida
  r III"
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m-19136612-fin@contratacion-estado
-DTSTAMP:20260226T130644Z
-LAST-MODIFIED:20260226T130644Z
-SEQUENCE:1772111204
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:AVISO FIN: Contratación Orquesta Malassia\, viernes 18 de septiemb
- re\, Fiestas Patronales 2026.
-DESCRIPTION:Contratación Orquesta Malassia\, viernes 18 de septiembre\, Fi
- estas Patronales 2026.\nExpediente: MEN/SERV/2026000011\nPublicada: 2026-0
- 2-26\nAdjudicada el 2026-02-26 a CARLUSO PRODUCCIONES SL\nFin previsto del
-  contrato: 2026-09-19\nhttps://contrataciondelestado.es/wps/poc?uri=deepli
- nk:detalle_licitacion&idEvl=4NGNX6BIF7Ozz8fXU2i3eQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=4NGNX6BIF7Ozz8fXU2i3eQ%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contratación Orquesta Malassia\, viernes 18 de sept
- iembre\, Fiestas Patronales 2026.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
