@@ -2105,29 +2105,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-19136634-fin@contratacion-estado
-DTSTAMP:20260226T130203Z
-LAST-MODIFIED:20260226T130203Z
-SEQUENCE:1772110923
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:AVISO FIN: Contratación Orquesta Maremagnum Show el 19 de septiemb
- re para las Fiestas Patronales 2026.
-DESCRIPTION:Contratación Orquesta Maremagnum Show el 19 de septiembre para
-  las Fiestas Patronales 2026.\nExpediente: MEN/SERV/2026000013\nPublicada:
-  2026-02-26\nAdjudicada el 2026-02-26 a ARTISTAS Y ORQUESTAS SL\nFin previ
- sto del contrato: 2026-09-20\nhttps://contrataciondelestado.es/wps/poc?uri
- =deeplink:detalle_licitacion&idEvl=P1xO%2FX4srOsZDGvgaZEVxQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=P1xO%2FX4srOsZDGvgaZEVxQ%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contratación Orquesta Maremagnum Show el 19 de sept
- iembre para las Fiestas Patronales 2026.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-18690471-fin@contratacion-estado
 DTSTAMP:20260225T121416Z
 LAST-MODIFIED:20260225T121416Z
