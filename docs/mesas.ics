@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Mesas de contratación
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:20329134-4-sobre-c-documentacio-n-relativa-a-criter@contratacion-estado
-DTSTAMP:20260821T055640Z
-LAST-MODIFIED:20260821T055640Z
-SEQUENCE:1787291800
-DTSTART:20260922T093000Z
-DTEND:20260922T100000Z
-SUMMARY:Oferta económica: Contratación de un Programa de Ocio Alternativo
-  para fines de semana
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Contratación de un Programa de Ocio Alternativo para fines de 
- semana\nExpediente: ABR/SERV/2026000032\nSobre: Sobre C - Documentación r
- elativa a criterios de adjudicación automáticos\nActo público\nhttps://
- contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=5tA
- dr968iIY7u6%2B%2FR7DUoA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=5tAdr968iIY7u6%2B%2FR7DUoA%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:20416552-1-sobre-a-documentacio-n-administrativa@contratacion-estado
 DTSTAMP:20260911T120743Z
 LAST-MODIFIED:20260911T120743Z
@@ -151,23 +133,6 @@ DESCRIPTION:Servicio de actualización permanente del sistema de protecció
  XxjjTkISopEMYCmrbmw%3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:20497029-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
-DTSTAMP:20260831T120236Z
-LAST-MODIFIED:20260831T120236Z
-SEQUENCE:1788177756
-DTSTART:20260922T093000Z
-DTEND:20260922T100000Z
-SUMMARY:Oferta económica: Campaña asfáltica 2026.
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Campaña asfáltica 2026.\nExpediente: ABR_SMPL/OBR/2026000034\
- nSobre: Sobre Unico - Documentación administrativa y documentación relat
- iva a criterios de adjudicación automáticos\nActo público\nhttps://cont
- rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3romEb2
- jLkfzAq95uGTrDQ%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=3romEb2jLkfzAq95uGTrDQ%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:20585907-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
