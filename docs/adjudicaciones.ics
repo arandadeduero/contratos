@@ -648,25 +648,4 @@ DESCRIPTION:Contratación del espectáculo Rodeo\nExpediente: MEN/SERV/2026
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=FDy88yOK4T3jHF5qKI4aaw%3D%3D
 END:VEVENT
-BEGIN:VEVENT
-UID:m-20562229-adj@contratacion-estado
-DTSTAMP:20260924T083238Z
-LAST-MODIFIED:20260924T083238Z
-SEQUENCE:1790238758
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:ADJ. MENOR: Contrato de Asistencia Técnica Jurídica Especializada
-  para el estudio\, análisis y valoración de la relevancia penal de deter
- minadas actuaciones relacionadas con la Plaza de Toros de Aranda de Duero.
-DESCRIPTION:Contrato de Asistencia Técnica Jurídica Especializada para el
-  estudio\, análisis y valoración de la relevancia penal de determinadas 
- actuaciones relacionadas con la Plaza de Toros de Aranda de Duero.\nExpedi
- ente: MEN/SERV/2026000103\nPublicada: 2026-09-24\nAdjudicada el 2026-09-22
-  a MZ. DE SALINAS-LOPEZ MARQUES\, DERECHO PENAL ECONOMICO\, SL\nFin previs
- to del contrato: 2026-11-19 (estimado: adjudicación + duración)\nhttps:/
- /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CB
- TP5aZ%2BdSteKgd8LfVV9g%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=CBTP5aZ%2BdSteKgd8LfVV9g%3D%3D
-END:VEVENT
 END:VCALENDAR
