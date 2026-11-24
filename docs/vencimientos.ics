@@ -6,6 +6,54 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Vencimientos de contratos
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:m-20987555-fin@contratacion-estado
+DTSTAMP:20261123T132902Z
+LAST-MODIFIED:20261123T132902Z
+SEQUENCE:1795440542
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:AVISO FIN: Contratación de los pasacalles "Estepa invernal" y "Est
+ rellas de Navidad" para el día 23 de diciembre
+DESCRIPTION:Contratación de los pasacalles "Estepa invernal" y "Estrellas 
+ de Navidad" para el día 23 de diciembre\nExpediente: MEN/SERV/2026000139\
+ nPublicada: 2026-11-23\nAdjudicada el 2026-11-23 a ESPECTACULAND EVENTS\, 
+ SL\nFin previsto del contrato: 2026-12-24 (estimado: adjudicación + durac
+ ión)\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licit
+ acion&idEvl=V04aKNwlp5KLAncw3qdZkA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=V04aKNwlp5KLAncw3qdZkA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contratación de los pasacalles "Estepa invernal" y 
+ "Estrellas de Navidad" para el día 23 de diciembre
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20988660-fin@contratacion-estado
+DTSTAMP:20261123T091630Z
+LAST-MODIFIED:20261123T091630Z
+SEQUENCE:1795425390
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:AVISO FIN: Contrato de la instalación de un elemento luminoso orna
+ mental tridimensional en forma de pirámide de planta hexagonal
+DESCRIPTION:Contrato de la instalación de un elemento luminoso ornamental 
+ tridimensional en forma de pirámide de planta hexagonal\nExpediente: MEN/
+ SUMIN/2026000140\nPublicada: 2026-11-23\nAdjudicada el 2026-11-20 a ELECTR
+ ICIDAD C. PLAZA\, S.L.\nFin previsto del contrato: 2027-01-06\nhttps://con
+ trataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=af6XNT
+ l%2BKTB%2FR5QFTlaM4A%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=af6XNTl%2BKTB%2FR5QFTlaM4A%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Contrato de la instalación de un elemento luminoso 
+ ornamental tridimensional en forma de pirámide de planta hexagonal
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20952213-fin@contratacion-estado
 DTSTAMP:20261118T122304Z
 LAST-MODIFIED:20261118T122304Z
