@@ -615,37 +615,4 @@ DESCRIPTION:Contrato para el control de la población de palomas del munici
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=OpJlmTUb2HeIzo3LHNPGcQ%3D%3D
 END:VEVENT
-BEGIN:VEVENT
-UID:m-20560193-adj@contratacion-estado
-DTSTAMP:20260925T121605Z
-LAST-MODIFIED:20260925T121605Z
-SEQUENCE:1790338565
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:ADJ. MENOR: Contratación de la obra de teatro Polvo serán\, más 
- polvo enamorado
-DESCRIPTION:Contratación de la obra de teatro Polvo serán\, más polvo en
- amorado\nExpediente: MEN/SERV/2026000076\nPublicada: 2026-09-25\nAdjudicad
- a el 2026-09-24 a MORFEO TEATRO SL\nFin previsto del contrato: 2026-11-12\
- nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
- idEvl=HrpgxG7S%2FKLE6P%2FuLemXRw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=HrpgxG7S%2FKLE6P%2FuLemXRw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:m-20560217-adj@contratacion-estado
-DTSTAMP:20260925T120406Z
-LAST-MODIFIED:20260925T120406Z
-SEQUENCE:1790337846
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:ADJ. MENOR: Contratación del espectáculo Rodeo
-DESCRIPTION:Contratación del espectáculo Rodeo\nExpediente: MEN/SERV/2026
- 000079\nPublicada: 2026-09-25\nAdjudicada el 2026-09-24 a FONCUBIERTA CAMP
- ANO\,DANIEL\nFin previsto del contrato: 2026-11-13\nhttps://contratacionde
- lestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=FDy88yOK4T3jHF5qK
- I4aaw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=FDy88yOK4T3jHF5qKI4aaw%3D%3D
-END:VEVENT
 END:VCALENDAR
