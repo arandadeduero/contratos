@@ -1,0 +1,19 @@
+.github/workflows/pages.yml
+  s_4d945e3459ecdb::t_66275fef5d1054 33,47-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "805091754a0436a3ede7068e375ff7dd2426c3fd",
+  "prompts": {},
+  "sessions": {
+    "s_4d945e3459ecdb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "64b0f462-ed2a-4326-aa24-490429ec4201",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
