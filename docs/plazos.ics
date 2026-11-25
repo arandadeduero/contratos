@@ -367,32 +367,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20417756-ult@contratacion-estado
-DTSTAMP:20261109T140519Z
-LAST-MODIFIED:20261109T140519Z
-SEQUENCE:1794233119
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:ULT. DÍA: Servicio de actualización permanente del sistema de pro
- tección de datos de carácter personal y del registro de actividades de t
- ratamiento del Ayuntamiento de Aranda de Duero
-DESCRIPTION:Servicio de actualización permanente del sistema de protecció
- n de datos de carácter personal y del registro de actividades de tratamie
- nto del Ayuntamiento de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000
- 037\nPublicada: 2026-09-10\nFin del plazo de ofertas: 2026-09-25 23:59\nht
- tps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idE
- vl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Servicio de actualización permanente del sistema de
-  protección de datos de carácter personal y del registro de actividades 
- de tratamiento del Ayuntamiento de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20593604-pub@contratacion-estado
 DTSTAMP:20261106T123942Z
 LAST-MODIFIED:20261106T123942Z

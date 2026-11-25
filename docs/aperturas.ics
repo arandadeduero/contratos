@@ -1226,32 +1226,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20417756-ult@contratacion-estado
-DTSTAMP:20261109T140519Z
-LAST-MODIFIED:20261109T140519Z
-SEQUENCE:1794233119
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:ULT. DÍA: Servicio de actualización permanente del sistema de pro
- tección de datos de carácter personal y del registro de actividades de t
- ratamiento del Ayuntamiento de Aranda de Duero
-DESCRIPTION:Servicio de actualización permanente del sistema de protecció
- n de datos de carácter personal y del registro de actividades de tratamie
- nto del Ayuntamiento de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000
- 037\nPublicada: 2026-09-10\nFin del plazo de ofertas: 2026-09-25 23:59\nht
- tps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idE
- vl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Servicio de actualización permanente del sistema de
-  protección de datos de carácter personal y del registro de actividades 
- de tratamiento del Ayuntamiento de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:m-20883227-adj@contratacion-estado
 DTSTAMP:20261110T091710Z
 LAST-MODIFIED:20261110T091710Z
@@ -2757,33 +2731,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Migración Exchange\, SharePoint y copies de segurid
  ad en la nube
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m-20353714-fin@contratacion-estado
-DTSTAMP:20260826T111727Z
-LAST-MODIFIED:20260826T111727Z
-SEQUENCE:1787743047
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:AVISO FIN: Contrato para la limpieza arbustiva (desbroce de maleza\
- , corte chupones de árboles\, gation de los residuos...) de las aceras de
- l Polígono Industrial Prado Marina.
-DESCRIPTION:Contrato para la limpieza arbustiva (desbroce de maleza\, corte
-  chupones de árboles\, gation de los residuos...) de las aceras del Polí
- gono Industrial Prado Marina.\nExpediente: MEN/SERV/2026000092\nPublicada:
-  2026-08-26\nAdjudicada el 2026-08-25 a JIMENO*SERRANO\,ANTONIO\nFin previ
- sto del contrato: 2026-09-25 (estimado: adjudicación + duración)\nhttps:
- //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=r
- vBKx%2FWXsVKcTfjQf3USOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=rvBKx%2FWXsVKcTfjQf3USOg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contrato para la limpieza arbustiva (desbroce de mal
- eza\, corte chupones de árboles\, gation de los residuos...) de las acera
- s del Polígono Industrial Prado Marina.
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

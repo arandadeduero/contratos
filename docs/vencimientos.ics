@@ -1152,33 +1152,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m-20353714-fin@contratacion-estado
-DTSTAMP:20260826T111727Z
-LAST-MODIFIED:20260826T111727Z
-SEQUENCE:1787743047
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:AVISO FIN: Contrato para la limpieza arbustiva (desbroce de maleza\
- , corte chupones de árboles\, gation de los residuos...) de las aceras de
- l Polígono Industrial Prado Marina.
-DESCRIPTION:Contrato para la limpieza arbustiva (desbroce de maleza\, corte
-  chupones de árboles\, gation de los residuos...) de las aceras del Polí
- gono Industrial Prado Marina.\nExpediente: MEN/SERV/2026000092\nPublicada:
-  2026-08-26\nAdjudicada el 2026-08-25 a JIMENO*SERRANO\,ANTONIO\nFin previ
- sto del contrato: 2026-09-25 (estimado: adjudicación + duración)\nhttps:
- //contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=r
- vBKx%2FWXsVKcTfjQf3USOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=rvBKx%2FWXsVKcTfjQf3USOg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:AVISO FIN: Contrato para la limpieza arbustiva (desbroce de mal
- eza\, corte chupones de árboles\, gation de los residuos...) de las acera
- s del Polígono Industrial Prado Marina.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20305305-fin@contratacion-estado
 DTSTAMP:20260911T065312Z
 LAST-MODIFIED:20260911T065312Z
