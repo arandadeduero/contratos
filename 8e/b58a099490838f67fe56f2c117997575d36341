@@ -10,7 +10,7 @@ docs/index.html
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "671842cf66960675834a476d28745e6e775a55b4",
+  "base_commit_sha": "8eb58a099490838f67fe56f2c117997575d36341",
   "prompts": {},
   "sessions": {
     "s_e8485df0b1a1c3": {
