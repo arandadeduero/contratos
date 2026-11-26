@@ -6,6 +6,31 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Vencimientos de contratos
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:l-20416971-fin@contratacion-estado
+DTSTAMP:20261125T124853Z
+LAST-MODIFIED:20261125T124853Z
+SEQUENCE:1795610933
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:AVISO FIN: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda
+  de Duero
+DESCRIPTION:Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Due
+ ro\nExpediente: ABR/SERV/2026000038\nPublicada: 2026-09-11\nFin del plazo 
+ de ofertas: 2026-10-13 23:59\nAdjudicada el 2026-11-25 a FUNDACIÓN PARA E
+ L ESTUDIO Y LA PROMOCIÓN DE LA ACCIÓN SOCIAL\, FEPAS\nFin previsto del c
+ ontrato: 2027-11-25 (estimado: adjudicación + duración)\nhttps://contrat
+ aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3U9TsquDg3
+ msNfRW6APEDw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de Ayuda a Domicilio del Ayuntamiento de Ar
+ anda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20998185-fin@contratacion-estado
 DTSTAMP:20261125T132008Z
 LAST-MODIFIED:20261125T132008Z
@@ -47,6 +72,34 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Ejecución de 20 columbarios II.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20417756-fin@contratacion-estado
+DTSTAMP:20261126T100721Z
+LAST-MODIFIED:20261126T100721Z
+SEQUENCE:1795687641
+DTSTART;VALUE=DATE:20301123
+DTEND;VALUE=DATE:20301124
+SUMMARY:AVISO FIN: Servicio de actualización permanente del sistema de pro
+ tección de datos de carácter personal y del registro de actividades de t
+ ratamiento del Ayuntamiento de Aranda de Duero
+DESCRIPTION:Servicio de actualización permanente del sistema de protecció
+ n de datos de carácter personal y del registro de actividades de tratamie
+ nto del Ayuntamiento de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000
+ 037\nPublicada: 2026-09-10\nFin del plazo de ofertas: 2026-09-25 23:59\nAd
+ judicada el 2026-11-23 a APDTIC PROFESIONALES\, S.L.\nFin previsto del con
+ trato: 2030-11-23 (estimado: adjudicación + duración)\nhttps://contratac
+ iondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XDGXxjjTkISo
+ pEMYCmrbmw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Servicio de actualización permanente del sistema de
+  protección de datos de carácter personal y del registro de actividades 
+ de tratamiento del Ayuntamiento de Aranda de Duero
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
@@ -221,9 +274,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20658180-fin@contratacion-estado
-DTSTAMP:20261113T101740Z
-LAST-MODIFIED:20261113T101740Z
-SEQUENCE:1794565060
+DTSTAMP:20261125T091012Z
+LAST-MODIFIED:20261125T091012Z
+SEQUENCE:1795597812
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:AVISO FIN: PRTR - Contratación de las Obras de Reurbanización de 

@@ -9,6 +9,24 @@
   <author><name>Ayuntamiento de Aranda de Duero</name></author>
   <generator>contratacion-estado (lib/feed.js)</generator>
   <entry>
+    <id>tag:contratos.arandadeduero.es,2026:l-20416971-adjudicacion</id>
+    <title>Adjudicación: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Duero — FUNDACIÓN PARA EL ESTUDIO Y LA PROMOCIÓN DE LA ACCIÓN SOCIAL, FEPAS</title>
+    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D"/>
+    <published>2026-11-25T00:00:00Z</published>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <category term="adjudicacion" label="Adjudicación"/>
+    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 1.627.714,95 €.
+Adjudicatario: FUNDACIÓN PARA EL ESTUDIO Y LA PROMOCIÓN DE LA ACCIÓN SOCIAL, FEPAS.
+Importe de adjudicación sin IVA: 1.537.173,40 €.
+Expediente: ABR/SERV/2026000038.</summary>
+    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 1.627.714,95 €.
+Adjudicatario: FUNDACIÓN PARA EL ESTUDIO Y LA PROMOCIÓN DE LA ACCIÓN SOCIAL, FEPAS.
+Importe de adjudicación sin IVA: 1.537.173,40 €.
+Expediente: ABR/SERV/2026000038.</content>
+  </entry>
+  <entry>
     <id>tag:contratos.arandadeduero.es,2026:m-20998185-menor</id>
     <title>Contrato menor adjudicado: Renovación de juntas de dilatación tribunas Juan Carlos Higuero — REYES IMPERMEABILIZ FACHADAS Y SUELOS SL</title>
     <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=YBcSxQYiQH%2F%2Fa9DgO%2BoYKQ%3D%3D"/>
@@ -43,6 +61,24 @@ Presupuesto base de licitación sin IVA: 14.810,17 €.
 Adjudicatario: A.R.P.A.P.E.  S.L.
 Importe de adjudicación sin IVA: 14.018,19 €.
 Expediente: MEN/OBR/2026000130.</content>
+  </entry>
+  <entry>
+    <id>tag:contratos.arandadeduero.es,2026:l-20417756-adjudicacion</id>
+    <title>Adjudicación: Servicio de actualización permanente del sistema de protección de datos de carácter personal y del registro de actividades de tratamiento del Ayuntamiento de Aranda de Duero — APDTIC PROFESIONALES, S.L.</title>
+    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D"/>
+    <published>2026-11-23T00:00:00Z</published>
+    <updated>2026-11-23T00:00:00Z</updated>
+    <category term="adjudicacion" label="Adjudicación"/>
+    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 38.400,00 €.
+Adjudicatario: APDTIC PROFESIONALES, S.L..
+Importe de adjudicación sin IVA: 15.744,00 €.
+Expediente: ABR_SMPL/SERV/2026000037.</summary>
+    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 38.400,00 €.
+Adjudicatario: APDTIC PROFESIONALES, S.L..
+Importe de adjudicación sin IVA: 15.744,00 €.
+Expediente: ABR_SMPL/SERV/2026000037.</content>
   </entry>
   <entry>
     <id>tag:contratos.arandadeduero.es,2026:m-20987555-menor</id>
@@ -1209,21 +1245,5 @@ Expediente: ABR_SMPL/OBR/2026000036.</summary>
 Presupuesto base de licitación sin IVA: 108.564,77 €.
 Plazo de presentación de ofertas: hasta el 17/09/2026 a las 23:59.
 Expediente: ABR_SMPL/OBR/2026000036.</content>
-  </entry>
-  <entry>
-    <id>tag:contratos.arandadeduero.es,2026:l-20356747-licitacion</id>
-    <title>Nueva licitación: Dirección de Obra y Coordinación de Seguridad y Salud para la Campaña asfáltica 2026, de Aranda de Duero</title>
-    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=VC5RLOloRlo3vLk2DU2Ddg%3D%3D"/>
-    <published>2026-08-27T00:00:00Z</published>
-    <updated>2026-08-27T00:00:00Z</updated>
-    <category term="licitacion" label="Nueva licitación"/>
-    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 22.077,18 €.
-Plazo de presentación de ofertas: hasta el 11/09/2026 a las 23:59.
-Expediente: ABR_SP_SMPL/SERV/2026000035.</summary>
-    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 22.077,18 €.
-Plazo de presentación de ofertas: hasta el 11/09/2026 a las 23:59.
-Expediente: ABR_SP_SMPL/SERV/2026000035.</content>
   </entry>
 </feed>

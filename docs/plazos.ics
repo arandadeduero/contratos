@@ -6,6 +6,121 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Aranda de Duero · Plazos de licitaciones
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+UID:l-20416971-ult@contratacion-estado
+DTSTAMP:20261125T124853Z
+LAST-MODIFIED:20261125T124853Z
+SEQUENCE:1795610933
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:ULT. DÍA: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda
+  de Duero
+DESCRIPTION:Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Due
+ ro\nExpediente: ABR/SERV/2026000038\nPublicada: 2026-09-11\nFin del plazo 
+ de ofertas: 2026-10-13 23:59\nAdjudicada el 2026-11-25 a FUNDACIÓN PARA E
+ L ESTUDIO Y LA PROMOCIÓN DE LA ACCIÓN SOCIAL\, FEPAS\nFin previsto del c
+ ontrato: 2027-11-25 (estimado: adjudicación + duración)\nhttps://contrat
+ aciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3U9TsquDg3
+ msNfRW6APEDw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Servicio de Ayuda a Domicilio del Ayuntamiento de Ar
+ anda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788096-pub@contratacion-estado
+DTSTAMP:20261124T133907Z
+LAST-MODIFIED:20261124T133907Z
+SEQUENCE:1795527547
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:PUB: Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
+ _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
+ 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
+ alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788096-ult@contratacion-estado
+DTSTAMP:20261124T133907Z
+LAST-MODIFIED:20261124T133907Z
+SEQUENCE:1795527547
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ULT. DÍA: Contrato de suministro de adquisición de uniformidad y 
+ dotación de los efectivos del Servicio de Prevención\, Extinción de inc
+ endios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
+ ón de los efectivos del Servicio de Prevención\, Extinción de incendios
+  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
+ _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
+ 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
+ alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Contrato de suministro de adquisición de uniformida
+ d y dotación de los efectivos del Servicio de Prevención\, Extinción de
+  incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788245-pub@contratacion-estado
+DTSTAMP:20261124T132623Z
+LAST-MODIFIED:20261124T132623Z
+SEQUENCE:1795526783
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:PUB: Suministro y Servicio de licencias de uso de una aplicación i
+ nformática para la gestión académica de la Escuela Municipal de Música
+  y Danza 'Antonio Baciero' de Aranda de Duero
+DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
+ formática para la gestión académica de la Escuela Municipal de Música 
+ y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
+ 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
+ 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
+ on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788245-ult@contratacion-estado
+DTSTAMP:20261124T132623Z
+LAST-MODIFIED:20261124T132623Z
+SEQUENCE:1795526783
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ULT. DÍA: Suministro y Servicio de licencias de uso de una aplicac
+ ión informática para la gestión académica de la Escuela Municipal de M
+ úsica y Danza 'Antonio Baciero' de Aranda de Duero
+DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
+ formática para la gestión académica de la Escuela Municipal de Música 
+ y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
+ 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
+ 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
+ on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Suministro y Servicio de licencias de uso de una apl
+ icación informática para la gestión académica de la Escuela Municipal 
+ de Música y Danza 'Antonio Baciero' de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20958186-pub@contratacion-estado
 DTSTAMP:20261118T094359Z
 LAST-MODIFIED:20261118T094359Z
@@ -96,96 +211,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20788245-pub@contratacion-estado
-DTSTAMP:20261113T120651Z
-LAST-MODIFIED:20261113T120651Z
-SEQUENCE:1794571611
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:PUB: Suministro y Servicio de licencias de uso de una aplicación i
- nformática para la gestión académica de la Escuela Municipal de Música
-  y Danza 'Antonio Baciero' de Aranda de Duero
-DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
- formática para la gestión académica de la Escuela Municipal de Música 
- y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
- 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
- 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
- on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788245-ult@contratacion-estado
-DTSTAMP:20261113T120651Z
-LAST-MODIFIED:20261113T120651Z
-SEQUENCE:1794571611
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:ULT. DÍA: Suministro y Servicio de licencias de uso de una aplicac
- ión informática para la gestión académica de la Escuela Municipal de M
- úsica y Danza 'Antonio Baciero' de Aranda de Duero
-DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
- formática para la gestión académica de la Escuela Municipal de Música 
- y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
- 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
- 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
- on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Suministro y Servicio de licencias de uso de una apl
- icación informática para la gestión académica de la Escuela Municipal 
- de Música y Danza 'Antonio Baciero' de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788096-pub@contratacion-estado
-DTSTAMP:20261113T120542Z
-LAST-MODIFIED:20261113T120542Z
-SEQUENCE:1794571542
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:PUB: Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
-DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
- _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
- 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788096-ult@contratacion-estado
-DTSTAMP:20261113T120542Z
-LAST-MODIFIED:20261113T120542Z
-SEQUENCE:1794571542
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:ULT. DÍA: Contrato de suministro de adquisición de uniformidad y 
- dotación de los efectivos del Servicio de Prevención\, Extinción de inc
- endios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
-DESCRIPTION:Contrato de suministro de adquisición de uniformidad y dotaci
- ón de los efectivos del Servicio de Prevención\, Extinción de incendios
-  y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)\nExpediente: ABR
- _SMPL/SUMIN/2026000046\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2
- 026-11-11 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:det
- alle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contrato de suministro de adquisición de uniformida
- d y dotación de los efectivos del Servicio de Prevención\, Extinción de
-  incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20585907-pub@contratacion-estado
 DTSTAMP:20261117T080427Z
 LAST-MODIFIED:20261117T080427Z
@@ -231,9 +256,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20658180-pub@contratacion-estado
-DTSTAMP:20261113T101740Z
-LAST-MODIFIED:20261113T101740Z
-SEQUENCE:1794565060
+DTSTAMP:20261125T091012Z
+LAST-MODIFIED:20261125T091012Z
+SEQUENCE:1795597812
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:PUB: PRTR - Contratación de las Obras de Reurbanización de las ca
@@ -251,9 +276,9 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20658180-ult@contratacion-estado
-DTSTAMP:20261113T101740Z
-LAST-MODIFIED:20261113T101740Z
-SEQUENCE:1794565060
+DTSTAMP:20261125T091012Z
+LAST-MODIFIED:20261125T091012Z
+SEQUENCE:1795597812
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:ULT. DÍA: PRTR - Contratación de las Obras de Reurbanización de 
@@ -443,28 +468,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ULT. DÍA: Suministro de energía a varias dependencias municip
  ales a través de la red de calor de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20416971-ult@contratacion-estado
-DTSTAMP:20261029T120143Z
-LAST-MODIFIED:20261029T120143Z
-SEQUENCE:1793275303
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:ULT. DÍA: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda
-  de Duero
-DESCRIPTION:Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Due
- ro\nExpediente: ABR/SERV/2026000038\nPublicada: 2026-09-11\nFin del plazo 
- de ofertas: 2026-10-13 23:59\nhttps://contrataciondelestado.es/wps/poc?uri
- =deeplink:detalle_licitacion&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Servicio de Ayuda a Domicilio del Ayuntamiento de Ar
- anda de Duero
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
