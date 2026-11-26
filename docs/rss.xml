@@ -5,9 +5,33 @@
     <link>https://contratos.arandadeduero.es/</link>
     <description>Nuevas licitaciones, adjudicaciones y contratos menores adjudicados del Ayuntamiento de Aranda de Duero, según la Plataforma de Contratación del Sector Público.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>contratacion-estado (lib/feed.js)</generator>
     <atom:link href="https://contratos.arandadeduero.es/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Contrato menor adjudicado: Renovación de juntas de dilatación tribunas Juan Carlos Higuero — REYES IMPERMEABILIZ FACHADAS Y SUELOS SL</title>
+      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=YBcSxQYiQH%2F%2Fa9DgO%2BoYKQ%3D%3D</link>
+      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:m-20998185-menor</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <category>menor</category>
+      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 24.215,85 €.
+Adjudicatario: REYES IMPERMEABILIZ FACHADAS Y SUELOS SL.
+Importe de adjudicación sin IVA: 22.829,20 €.
+Expediente: MEN/OBR/2026000142.</description>
+    </item>
+    <item>
+      <title>Contrato menor adjudicado: Ejecución de 20 columbarios II. — A.R.P.A.P.E.  S.L</title>
+      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=wLE3XMyQLSf9pbnDwlaUlg%3D%3D</link>
+      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:m-21000736-menor</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <category>menor</category>
+      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 14.810,17 €.
+Adjudicatario: A.R.P.A.P.E.  S.L.
+Importe de adjudicación sin IVA: 14.018,19 €.
+Expediente: MEN/OBR/2026000130.</description>
+    </item>
     <item>
       <title>Contrato menor adjudicado: Contratación de los pasacalles &quot;Estepa invernal&quot; y &quot;Estrellas de Navidad&quot; para el día 23 de diciembre — ESPECTACULAND EVENTS, SL</title>
       <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=V04aKNwlp5KLAncw3qdZkA%3D%3D</link>
@@ -802,18 +826,6 @@ Expediente: ABR_SMPL/OBR/2026000036.</description>
 Presupuesto base de licitación sin IVA: 22.077,18 €.
 Plazo de presentación de ofertas: hasta el 11/09/2026 a las 23:59.
 Expediente: ABR_SP_SMPL/SERV/2026000035.</description>
-    </item>
-    <item>
-      <title>Contrato menor adjudicado: Contrato para la limpieza arbustiva (desbroce de maleza, corte chupones de árboles, gation de los residuos...) de las aceras del Polígono Industrial Prado Marina. — JIMENO*SERRANO,ANTONIO</title>
-      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=rvBKx%2FWXsVKcTfjQf3USOg%3D%3D</link>
-      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:m-20353714-menor</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <category>menor</category>
-      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 11.983,47 €.
-Adjudicatario: JIMENO*SERRANO,ANTONIO.
-Importe de adjudicación sin IVA: 10.000,00 €.
-Expediente: MEN/SERV/2026000092.</description>
     </item>
   </channel>
 </rss>

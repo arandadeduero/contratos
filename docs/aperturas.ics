@@ -455,6 +455,85 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
 END:VEVENT
 BEGIN:VEVENT
+UID:m-20998185-adj@contratacion-estado
+DTSTAMP:20261125T132008Z
+LAST-MODIFIED:20261125T132008Z
+SEQUENCE:1795612808
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:ADJ. MENOR: Renovación de juntas de dilatación tribunas Juan Carl
+ os Higuero
+DESCRIPTION:Renovación de juntas de dilatación tribunas Juan Carlos Higue
+ ro\nExpediente: MEN/OBR/2026000142\nPublicada: 2026-11-25\nAdjudicada el 2
+ 026-11-25 a REYES IMPERMEABILIZ FACHADAS Y SUELOS SL\nFin previsto del con
+ trato: 2026-12-25 (estimado: adjudicación + duración)\nhttps://contratac
+ iondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YBcSxQYiQH%2
+ F%2Fa9DgO%2BoYKQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=YBcSxQYiQH%2F%2Fa9DgO%2BoYKQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-20998185-fin@contratacion-estado
+DTSTAMP:20261125T132008Z
+LAST-MODIFIED:20261125T132008Z
+SEQUENCE:1795612808
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:AVISO FIN: Renovación de juntas de dilatación tribunas Juan Carlo
+ s Higuero
+DESCRIPTION:Renovación de juntas de dilatación tribunas Juan Carlos Higue
+ ro\nExpediente: MEN/OBR/2026000142\nPublicada: 2026-11-25\nAdjudicada el 2
+ 026-11-25 a REYES IMPERMEABILIZ FACHADAS Y SUELOS SL\nFin previsto del con
+ trato: 2026-12-25 (estimado: adjudicación + duración)\nhttps://contratac
+ iondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YBcSxQYiQH%2
+ F%2Fa9DgO%2BoYKQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=YBcSxQYiQH%2F%2Fa9DgO%2BoYKQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Renovación de juntas de dilatación tribunas Juan C
+ arlos Higuero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21000736-adj@contratacion-estado
+DTSTAMP:20261124T112923Z
+LAST-MODIFIED:20261124T112923Z
+SEQUENCE:1795519763
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ADJ. MENOR: Ejecución de 20 columbarios II.
+DESCRIPTION:Ejecución de 20 columbarios II.\nExpediente: MEN/OBR/202600013
+ 0\nPublicada: 2026-11-24\nAdjudicada el 2026-11-24 a A.R.P.A.P.E.  S.L\nFi
+ n previsto del contrato: 2027-02-01 (estimado: adjudicación + duración)\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=wLE3XMyQLSf9pbnDwlaUlg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=wLE3XMyQLSf9pbnDwlaUlg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:m-21000736-fin@contratacion-estado
+DTSTAMP:20261124T112923Z
+LAST-MODIFIED:20261124T112923Z
+SEQUENCE:1795519763
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:AVISO FIN: Ejecución de 20 columbarios II.
+DESCRIPTION:Ejecución de 20 columbarios II.\nExpediente: MEN/OBR/202600013
+ 0\nPublicada: 2026-11-24\nAdjudicada el 2026-11-24 a A.R.P.A.P.E.  S.L\nFi
+ n previsto del contrato: 2027-02-01 (estimado: adjudicación + duración)\
+ nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
+ idEvl=wLE3XMyQLSf9pbnDwlaUlg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=wLE3XMyQLSf9pbnDwlaUlg%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AVISO FIN: Ejecución de 20 columbarios II.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:m-20987555-adj@contratacion-estado
 DTSTAMP:20261123T132902Z
 LAST-MODIFIED:20261123T132902Z
