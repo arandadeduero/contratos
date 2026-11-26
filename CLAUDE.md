@@ -62,7 +62,7 @@ La página de GitHub Pages **sí** se actualiza sola (cada noche y en cada push 
 
 1. **Las cifras y análisis dados en una conversación** (comparativas entre mandatos, totales, rankings): son una
    foto de la fecha en que se calcularon.
-2. **Los textos fijos de la página**: guía de indicadores, umbrales legales, fechas de constitución de las
+2. **Los textos fijos de la página**: umbrales legales, fechas de constitución de las
    corporaciones. Solo cambian si se editan en `template.html`.
 
 (El artefacto de claude.ai que existía se borró a petición del usuario; no hay otra copia publicada.)

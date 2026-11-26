@@ -30,14 +30,6 @@ test('la cabecera enlaza al calendario de aperturas (.ics)', (t) => {
   t.regex(TEMPLATE, /<header class="top">[\s\S]*<a href="aperturas\.ics"[^>]*>Calendario de Contratación<\/a>[\s\S]*<\/header>/);
 });
 
-test('la pestaña de Sentir Aranda está oculta salvo que se abra #sentiraranda', (t) => {
-  t.regex(TEMPLATE, /const HIDDEN_TABS = new Set\(\["sentiraranda"\]\)/);
-  // la barra solo pinta las visibles, y abrir la dirección la revela
-  t.regex(TEMPLATE, /\$\("tabs"\)\.innerHTML = visibleTabs\(\)\.map\(/);
-  t.regex(TEMPLATE, /if \(HIDDEN_TABS\.has\(t\)\) revealedTabs\.add\(t\);/);
-  t.notRegex(TEMPLATE, /\$\("tabs"\)\.innerHTML = TABS\.map\(/);
-});
-
 test('fontCss incrusta la fuente Outfit sin referencias externas', (t) => {
   const css = fontCss();
   t.is((css.match(/@font-face/g) || []).length, 2);
@@ -326,13 +318,8 @@ test('los tres primeros mandatos comparten el azul y el actual conserva el naran
   t.deepEqual(pares[2], pares[1]);
 });
 
-test('fuera de la pestaña oculta no se nombran partidos', (t) => {
-  const oculta = TEMPLATE.match(/<!-- =+ SENTIR ARANDA VS[\s\S]*?(?=<!-- =+ )/)[0];
-  const visible = TEMPLATE.replace(oculta, '');
-  t.regex(oculta, /Partido Popular/);
-  // el script sí contiene el cálculo de la pestaña oculta: se comprueba solo el HTML
-  const html = visible.slice(0, visible.indexOf('<script'));
-  t.notRegex(html, /Partido Popular|Sentir Aranda|\bPP\b/);
+test('la página no nombra partidos', (t) => {
+  t.notRegex(TEMPLATE, /Partido Popular|Sentir Aranda|sentiraranda|\bPP\b/);
 });
 
 test('la etiqueta NextGenerationEU es azul, con la bandera de la UE incrustada (no emoji) y el texto', (t) => {
@@ -359,7 +346,7 @@ test('"Buscar y filtrar" vive en la pestaña Búsqueda (segunda), con el listado
 test('fuera de Búsqueda, los filtros activos se avisan con un botón rojo "Limpiar filtros"', (t) => {
   t.regex(TEMPLATE, /<div class="fclear" id="fclear"[^>]*hidden>[\s\S]*?<button id="reset2" class="danger" type="button">Limpiar filtros<\/button>/);
   t.regex(TEMPLATE, /button\.danger\{background:#b3261e;color:#fff/);
-  t.true(TEMPLATE.includes('$("fclear").hidden = !active.length || ["busqueda", "sentiraranda", "nextgen", "caducidades"].includes(state.tab);'));
+  t.true(TEMPLATE.includes('$("fclear").hidden = !active.length || ["busqueda", "nextgen", "caducidades"].includes(state.tab);'));
   t.true(TEMPLATE.includes('$("reset2").addEventListener("click", clearFilters);'));
 });
 
