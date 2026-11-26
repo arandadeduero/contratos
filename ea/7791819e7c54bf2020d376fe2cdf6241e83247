@@ -1,0 +1,19 @@
+.gitignore
+  s_e258b65c978cb2::t_255628e184cded 11-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ea7791819e7c54bf2020d376fe2cdf6241e83247",
+  "prompts": {},
+  "sessions": {
+    "s_e258b65c978cb2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c1c37b80-bdad-4f36-9977-a74442d947bc",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
