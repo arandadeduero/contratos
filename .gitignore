@@ -8,3 +8,5 @@ transparencia/index.html
 transparencia/*.ics
 transparencia/*.xml
 transparencia/datos/
+# pliegos y memorias descargados para análisis local (pesados, no se versionan)
+dump/ficheros/
