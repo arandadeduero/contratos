@@ -12256,8 +12256,8 @@
     "ref": "ABR/OBR/2026000043",
     "title": "PRTR - Contratación de las Obras de Reurbanización de las calles del entorno de Los Bloques, situados en la UR-5 del ERRP de Santa Catalina.",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mjrSmRE7H%2FnIGlsa0Wad%2Bw%3D%3D",
-    "status": "EV",
-    "version": 1793103332947,
+    "status": "ADJ",
+    "version": 1794565060381,
     "source": {
       "name": "Pliego",
       "published": "2026-10-06T12:54:41.000Z"
@@ -12290,7 +12290,7 @@
     "title": "Contrato de servicios para la Dirección de Obra, la Dirección de Ejecución de Obra y la Coordinación de Seguridad y Salud de las obras de reurbanización de las calles del entorno de \"Los Bloques\", situados en la UR-5 del ERRP de Santa Catalina.",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=gwvjtJozm7peKgd8LfVV9g%3D%3D",
     "status": "EV",
-    "version": 1793192377833,
+    "version": 1794577658252,
     "source": {
       "name": "Pliego",
       "published": "2026-10-09T11:10:57.000Z"
@@ -12354,8 +12354,8 @@
     "ref": "ABR_SMPL/SUMIN/2026000046",
     "title": "Contrato de suministro de adquisición de uniformidad y dotación de los efectivos del Servicio de Prevención, Extinción de incendios y Salvamento del Ayuntamiento de Aranda de Duero (SPEIS)",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0nD4qYvqsoW9Hd5zqvq9cg%3D%3D",
-    "status": "PUB",
-    "version": 1793711589758,
+    "status": "EV",
+    "version": 1794571542683,
     "source": {
       "name": "Rectificación de Pliego",
       "published": "2026-11-03T13:13:09.000Z"
@@ -12377,8 +12377,8 @@
     "ref": "ABR_SMPL/SUMIN/2026000047",
     "title": "Suministro y Servicio de licencias de uso de una aplicación informática para la gestión académica de la Escuela Municipal de Música y Danza 'Antonio Baciero' de Aranda de Duero",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D",
-    "status": "PUB",
-    "version": 1793094164265,
+    "status": "EV",
+    "version": 1794571611370,
     "source": {
       "name": "Pliego",
       "published": "2026-10-27T09:42:44.000Z"
@@ -12401,10 +12401,10 @@
     "title": "Contratación del servicio de mantenimiento e inspección periódica de las botellas de aire comprimido, el centro de carga y la cabina de seguridad de llenado de botellas de aire comprimido y los equipos de respiración autónoma del SPEIS (Bomberos)",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D",
     "status": "PUB",
-    "version": 1793714018544,
+    "version": 1794471230558,
     "source": {
-      "name": "Pliego",
-      "published": "2026-11-03T13:53:38.000Z"
+      "name": "Rectificación de Pliego",
+      "published": "2026-11-12T08:13:50.000Z"
     },
     "events": [
       {
@@ -12413,6 +12413,72 @@
         "sobre": "Sobre Unico - Documentación administrativa y documentación relativa a criterios de adjudicación automáticos",
         "date": "2026-11-19",
         "time": "11:30",
+        "place": "Salón de Plenos",
+        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
+        "public": true
+      }
+    ]
+  },
+  "20896827": {
+    "ref": "ABR/SERV/2026000050",
+    "title": "Servicio de vigilancia de seguridad para las Concejalías de Festejos, Juventud y Administración General",
+    "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D",
+    "status": "PUB",
+    "version": 1794487113526,
+    "source": {
+      "name": "Pliego",
+      "published": "2026-11-12T12:38:33.000Z"
+    },
+    "events": [
+      {
+        "kind": 1,
+        "type": "Apertura sobre administrativo",
+        "sobre": "Sobre A - Documentación administrativa",
+        "date": "2026-11-30",
+        "time": "11:30",
+        "place": "Salón de Plenos",
+        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
+        "public": false
+      },
+      {
+        "kind": 2,
+        "type": "Apertura sobre oferta técnica",
+        "sobre": "Sobre B - Documentación relativa a criterios de adjudicación en función de un juicio de valor",
+        "date": "2026-11-30",
+        "time": "11:45",
+        "place": "Salón de Plenos",
+        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
+        "public": false
+      },
+      {
+        "kind": 4,
+        "type": "Apertura sobre oferta económica",
+        "sobre": "Sobre C - Documentación relativa a criterios de adjudicación automáticos",
+        "date": "2026-12-09",
+        "time": "11:30",
+        "place": "Salón de Plenos",
+        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
+        "public": true
+      }
+    ]
+  },
+  "20958186": {
+    "ref": "ABR_SMPL/SERV/2026000051",
+    "title": "Servicio extraordinario de limpieza de pintadas en fachadas del municipio de Aranda de Duero",
+    "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D",
+    "status": "PUB",
+    "version": 1794995039767,
+    "source": {
+      "name": "Pliego",
+      "published": "2026-11-18T09:43:59.000Z"
+    },
+    "events": [
+      {
+        "kind": 4,
+        "type": "Apertura sobre oferta económica",
+        "sobre": "Sobre Unico. - Documentación administrativa y documentación relativa relativa a criterios de adjudicación automáticos",
+        "date": "2026-12-04",
+        "time": "09:00",
         "place": "Salón de Plenos",
         "address": "PZ MAYOR, 1, ARANDA DE DUERO",
         "public": true

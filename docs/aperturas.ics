@@ -359,9 +359,9 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 END:VEVENT
 BEGIN:VEVENT
 UID:20827723-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
-DTSTAMP:20261103T135338Z
-LAST-MODIFIED:20261103T135338Z
-SEQUENCE:1793714018
+DTSTAMP:20261112T081350Z
+LAST-MODIFIED:20261112T081350Z
+SEQUENCE:1794471230
 DTSTART:20261119T103000Z
 DTEND:20261119T110000Z
 SUMMARY:Oferta económica: Contratación del servicio de mantenimiento e in
@@ -379,6 +379,80 @@ DESCRIPTION:Contratación del servicio de mantenimiento e inspección peri
  boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=boE1%2FiRSjf5rhBlEHQFSKA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:20896827-1-sobre-a-documentacio-n-administrativa@contratacion-estado
+DTSTAMP:20261112T123833Z
+LAST-MODIFIED:20261112T123833Z
+SEQUENCE:1794487113
+DTSTART:20261130T103000Z
+DTEND:20261130T110000Z
+SUMMARY:PRIV · Administrativo: Servicio de vigilancia de seguridad para la
+ s Concejalías de Festejos\, Juventud y Administración General
+LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
+DESCRIPTION:Servicio de vigilancia de seguridad para las Concejalías de Fe
+ stejos\, Juventud y Administración General\nExpediente: ABR/SERV/20260000
+ 50\nSobre: Sobre A - Documentación administrativa\nActo no público\nhttp
+ s://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl
+ =oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:20896827-2-sobre-b-documentacio-n-relativa-a-criter@contratacion-estado
+DTSTAMP:20261112T123833Z
+LAST-MODIFIED:20261112T123833Z
+SEQUENCE:1794487113
+DTSTART:20261130T104500Z
+DTEND:20261130T111500Z
+SUMMARY:PRIV · Oferta técnica: Servicio de vigilancia de seguridad para l
+ as Concejalías de Festejos\, Juventud y Administración General
+LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
+DESCRIPTION:Servicio de vigilancia de seguridad para las Concejalías de Fe
+ stejos\, Juventud y Administración General\nExpediente: ABR/SERV/20260000
+ 50\nSobre: Sobre B - Documentación relativa a criterios de adjudicación 
+ en función de un juicio de valor\nActo no público\nhttps://contrataciond
+ elestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=oXW%2FkHHJB9ecTf
+ jQf3USOg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:20896827-4-sobre-c-documentacio-n-relativa-a-criter@contratacion-estado
+DTSTAMP:20261112T123833Z
+LAST-MODIFIED:20261112T123833Z
+SEQUENCE:1794487113
+DTSTART:20261209T103000Z
+DTEND:20261209T110000Z
+SUMMARY:Oferta económica: Servicio de vigilancia de seguridad para las Con
+ cejalías de Festejos\, Juventud y Administración General
+LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
+DESCRIPTION:Servicio de vigilancia de seguridad para las Concejalías de Fe
+ stejos\, Juventud y Administración General\nExpediente: ABR/SERV/20260000
+ 50\nSobre: Sobre C - Documentación relativa a criterios de adjudicación 
+ automáticos\nActo público\nhttps://contrataciondelestado.es/wps/poc?uri=
+ deeplink:detalle_licitacion&idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=oXW%2FkHHJB9ecTfjQf3USOg%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:20958186-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
+DTSTAMP:20261118T094359Z
+LAST-MODIFIED:20261118T094359Z
+SEQUENCE:1794995039
+DTSTART:20261204T080000Z
+DTEND:20261204T083000Z
+SUMMARY:Oferta económica: Servicio extraordinario de limpieza de pintadas 
+ en fachadas del municipio de Aranda de Duero
+LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
+DESCRIPTION:Servicio extraordinario de limpieza de pintadas en fachadas del
+  municipio de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000051\nSobre
+ : Sobre Unico. - Documentación administrativa y documentación relativa r
+ elativa a criterios de adjudicación automáticos\nActo público\nhttps://
+ contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II0
+ 3Hp9xFVM4NavIWzMcHA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:m-20987555-adj@contratacion-estado
