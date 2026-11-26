@@ -356,3 +356,10 @@ test('contractEnd: fin del anuncio, o inicio + duración en meses, años o días
   t.deepEqual(contractEnd(null, 'no es fecha', dur(3, 'MON')), none);
   t.deepEqual(contractEnd(null, '2026-10-10', undefined), none);
 });
+
+test('contractEnd: sumar meses a fin de mes no desborda al mes siguiente', (t) => {
+  const dur = (value, unit) => ({ '#text': value, '@_unitCode': unit });
+  t.deepEqual(contractEnd(null, '2025-08-31', dur(6, 'MON')), { endDate: '2026-02-28', endEstimated: true });
+  t.deepEqual(contractEnd(null, '2024-08-31', dur(6, 'MON')), { endDate: '2025-02-28', endEstimated: true });
+  t.deepEqual(contractEnd(null, '2023-01-31', dur(1, 'ANN')), { endDate: '2024-01-31', endEstimated: true });
+});

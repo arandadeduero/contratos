@@ -286,9 +286,9 @@ test('la columna Resultado y las insignias del detalle usan outTag', (t) => {
   t.regex(TEMPLATE, /const badges = [^\n]*outTag\(r\.outcome, OUTCOME\[r\.outcome\]\)/);
 });
 
-// La asignación de corporación vive en la plantilla (entre marcadores): se evalúa tal cual
+// La asignación de corporación vive en la plantilla (entre marcadores) con PERIODS inyectado por renderPage: se evalúa la página ya renderizada
 const periodsApi = () => {
-  const code = TEMPLATE.match(/\/\/ <periodos>\n([\s\S]*?)\/\/ <\/periodos>/)[1];
+  const code = renderPage(TEMPLATE, { generated: 'x', records: [] }, '').match(/\/\/ <periodos>\n([\s\S]*?)\/\/ <\/periodos>/)[1];
   return new Function(`${code}; return { PERIODS, periodOf };`)();
 };
 

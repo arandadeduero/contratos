@@ -79,3 +79,11 @@ test('usa una espera real por defecto', async (t) => {
   const { fetchImpl } = sequence(fail(502), ok('bien'));
   t.is(await fetchText('https://example.test/d', { fetchImpl, attempts: 2, baseDelayMs: 1 }), 'bien');
 });
+
+test('envía encabezados de navegador: sin User-Agent el cortafuegos de la Plataforma responde «Request Rejected»', async (t) => {
+  let init;
+  const fetchImpl = async (url, options) => { init = options; return ok('x'); };
+  await fetchText('https://example.test/f', { fetchImpl });
+  t.regex(init.headers['User-Agent'], /^Mozilla\/5\.0 .*Chrome\//);
+  t.truthy(init.headers.Accept);
+});

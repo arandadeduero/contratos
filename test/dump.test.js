@@ -8,7 +8,7 @@ import { entryFileName, isFromAyuntamiento, isPresent } from '../lib/ayuntamient
 import { buildRecords } from '../transparencia/extract.js';
 import { REAL_DUMP } from './helpers.js';
 
-const DIRS = ['licitaciones', 'menores', 'other', 'agregacion'];
+const DIRS = ['licitaciones', 'menores', 'other'];
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/;
 const STATUSES = ['PUB', 'EV', 'ADJ', 'RES', 'ANUL', 'PRE'];
 

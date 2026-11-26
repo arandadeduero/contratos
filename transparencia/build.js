@@ -8,7 +8,7 @@ import { dirname, join, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
 import {
-  DATA_DIR, DATA_FILES, FILES, PAGE_FILE, buildAdjudicatarios, buildAdjudicatariosCsv, buildContratosCsv,
+  DATA_DIR, DATA_FILES, FILES, PAGE_FILE, PERIODS, buildAdjudicatarios, buildAdjudicatariosCsv, buildContratosCsv,
   buildContratosJson, renderDatosPage, temporalCoverage,
 } from '../lib/datos.js';
 import { FEED_FILE, RSS_FILE, buildAtom, buildRss } from '../lib/feed.js';
@@ -57,7 +57,8 @@ export const renderPage = (template, data, fonts, assets = {}, details = {}) => 
   let html = applyAnalytics(template).replace('/*FONTFACE*/', () => fonts)
     .replace('/*DATA*/', () => escape(data))
     // fichas de contrato: la página las lee solo al abrir una
-    .replace('/*DETAILS*/', () => escape(details));
+    .replace('/*DETAILS*/', () => escape(details))
+    .replace('/*PERIODS*/[]', () => escape(PERIODS));
   for (const [marker, uri] of Object.entries(assets)) html = html.replaceAll(marker, () => uri);
   // URLs del sitio (transparencia/site.js) y año del build (contenido por defecto del © sin JS)
   const year = String(data.generated || '').match(/^\d{4}/)?.[0] || '';

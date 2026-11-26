@@ -7,6 +7,7 @@ import {
   ADJ_FIELDS, FIELDS, FILES, LICENSE, PERIODS, buildAdjudicatarios, buildAdjudicatariosCsv, buildContratosCsv,
   buildContratosJson, mandatoOf, periodOf, temporalCoverage, toCsv,
 } from '../lib/datos.js';
+import { renderPage } from '../transparencia/build.js';
 import { buildRecords } from '../transparencia/extract.js';
 import { AYTO_URL, REPO_URL, SITE_URL } from '../transparencia/site.js';
 import { FIXTURES_DUMP, ROOT, tmpDir } from './helpers.js';
@@ -121,7 +122,7 @@ test('periodOf: límites de fecha de los cuatro mandatos (fin = día antes del i
 
 test('la regla de mandato replica la de la plantilla (periodOf/PERIODS entre marcadores)', (t) => {
   const template = readFileSync(join(ROOT, 'transparencia', 'template.html'), 'utf8');
-  const code = template.match(/\/\/ <periodos>\n([\s\S]*?)\/\/ <\/periodos>/)[1];
+  const code = renderPage(template, { generated: 'x', records: [] }, '').match(/\/\/ <periodos>\n([\s\S]*?)\/\/ <\/periodos>/)[1];
   const page = new Function(`${code}; return { PERIODS, periodOf };`)();
   t.deepEqual(page.PERIODS, PERIODS);
   for (let year = 2008; year <= 2027; year += 1) {

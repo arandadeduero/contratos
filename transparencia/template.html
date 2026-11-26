@@ -624,10 +624,7 @@ const VOID_OUTCOMES = ["desierto","desistimiento","renuncia"]; // terminan sin a
 // <periodos>
 // etiqueta del mandato: cuadradito del color del gráfico + texto; azul (p0-p2) o naranja (p3) vía .per-pN
 const periodTag = (p) => `<span class="tag per-p${safeCls(p)}"><i class="p${safeCls(p)}" style="display:inline-block;width:8px;height:8px;border-radius:2px;margin-right:5px"></i>${esc(PERIODS[p].label)}</span>`;
-const PERIODS = [
-  { label: "Mandato 11-15", start: "2011-06-11" }, { label: "Mandato 15-19", start: "2015-06-14" },
-  { label: "Mandato 19-23", start: "2019-06-15" }, { label: "Mandato 23-27", start: "2023-06-17" },
-];
+const PERIODS = /*PERIODS*/[]; // lo rellena renderPage desde PERIODS de lib/datos.js (única fuente)
 const periodOf = (issued) => Math.max(0, PERIODS.findLastIndex((p) => issued >= p.start));
 // </periodos>
 const PERIOD_START = PERIODS[PERIODS.length - 1].start;   // inicio del mandato actual

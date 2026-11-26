@@ -9,7 +9,7 @@ import {
 
 // Carpetas de dump/ que se leen. Las licitaciones y los menores se tratan como universos distintos
 // (un mismo id puede existir en ambos feeds).
-export const SOURCES = ['licitaciones', 'menores', 'other', 'agregacion'];
+export const SOURCES = ['licitaciones', 'menores', 'other'];
 
 // Resultado del procedimiento (cbc:ResultCode, lista oficial TenderResultCode de la Plataforma):
 //   1 adjudicado provisionalmente, 2 adjudicado definitivamente, 8 adjudicado, 9 formalizado, 11 encargo formalizado
@@ -273,8 +273,12 @@ export const contractEnd = (plannedEnd, from, duration) => {
   const months = MONTHS_PER_UNIT[unit];
   const d = new Date(`${from}T00:00:00Z`);
   if (!(n > 0) || Number.isNaN(d.getTime()) || (!months && unit !== 'DAY')) return { endDate: null, endEstimated: false };
-  if (months) d.setUTCMonth(d.getUTCMonth() + n * months);
-  else d.setUTCDate(d.getUTCDate() + n);
+  if (months) {
+    const day = d.getUTCDate();
+    d.setUTCMonth(d.getUTCMonth() + n * months);
+    // 31-ago + 6 meses desborda a marzo: se retrocede al último día del mes de destino
+    if (d.getUTCDate() !== day) d.setUTCDate(0);
+  } else d.setUTCDate(d.getUTCDate() + n);
   return { endDate: d.toISOString().slice(0, 10), endEstimated: true };
 };
 
