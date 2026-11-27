@@ -455,6 +455,209 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
 END:VEVENT
 BEGIN:VEVENT
+UID:21017458-4-sobre-u-nico-documentacio-n-administrati@contratacion-estado
+DTSTAMP:20261127T143621Z
+LAST-MODIFIED:20261127T143621Z
+SEQUENCE:1795790181
+DTSTART:20261215T080000Z
+DTEND:20261215T083000Z
+SUMMARY:Oferta económica: Suministro y colocación de mobiliario urbano pa
+ ra zonas ajardinadas. Parques Barriles y La Isla de Aranda de Duero.
+LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
+DESCRIPTION:Suministro y colocación de mobiliario urbano para zonas ajardi
+ nadas. Parques Barriles y La Isla de Aranda de Duero.\nExpediente: ABR_SMP
+ L/SUMIN/2026000052\nSobre: Sobre ÚNICO - Documentación administrativa y 
+ documentación relativa a criterios de adjudicación automáticos\nActo p
+ úblico\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_lic
+ itacion&idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:21017573-4-sobre-u-nico-documentacio-n-administrati@contratacion-estado
+DTSTAMP:20261127T125940Z
+LAST-MODIFIED:20261127T125940Z
+SEQUENCE:1795784380
+DTSTART:20261218T080000Z
+DTEND:20261218T083000Z
+SUMMARY:Oferta económica: Contrato de obras de reparación de aceras en el
+  Polígono Industrial Allendeduero de Aranda de Duero
+LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
+DESCRIPTION:Contrato de obras de reparación de aceras en el Polígono Indu
+ strial Allendeduero de Aranda de Duero\nExpediente: ABR_SMPL/OBR/202600005
+ 4\nSobre: Sobre ÚNICO -Documentación administrativa y documentación rel
+ ativa a criterios de adjudicación automáticos\nActo público\nhttps://co
+ ntrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=yT%2F
+ uQSjjeWktm4eBPtV6eQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=yT%2FuQSjjeWktm4eBPtV6eQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-21017458-pub@contratacion-estado
+DTSTAMP:20261127T143621Z
+LAST-MODIFIED:20261127T143621Z
+SEQUENCE:1795790181
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:PUB: Suministro y colocación de mobiliario urbano para zonas ajard
+ inadas. Parques Barriles y La Isla de Aranda de Duero.
+DESCRIPTION:Suministro y colocación de mobiliario urbano para zonas ajardi
+ nadas. Parques Barriles y La Isla de Aranda de Duero.\nExpediente: ABR_SMP
+ L/SUMIN/2026000052\nPublicada: 2026-11-27\nFin del plazo de ofertas: 2026-
+ 12-14 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle
+ _licitacion&idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-21017458-ult@contratacion-estado
+DTSTAMP:20261127T143621Z
+LAST-MODIFIED:20261127T143621Z
+SEQUENCE:1795790181
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:ULT. DÍA: Suministro y colocación de mobiliario urbano para zonas
+  ajardinadas. Parques Barriles y La Isla de Aranda de Duero.
+DESCRIPTION:Suministro y colocación de mobiliario urbano para zonas ajardi
+ nadas. Parques Barriles y La Isla de Aranda de Duero.\nExpediente: ABR_SMP
+ L/SUMIN/2026000052\nPublicada: 2026-11-27\nFin del plazo de ofertas: 2026-
+ 12-14 23:59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle
+ _licitacion&idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Suministro y colocación de mobiliario urbano para z
+ onas ajardinadas. Parques Barriles y La Isla de Aranda de Duero.
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-21017573-pub@contratacion-estado
+DTSTAMP:20261127T125940Z
+LAST-MODIFIED:20261127T125940Z
+SEQUENCE:1795784380
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:PUB: Contrato de obras de reparación de aceras en el Polígono Ind
+ ustrial Allendeduero de Aranda de Duero
+DESCRIPTION:Contrato de obras de reparación de aceras en el Polígono Indu
+ strial Allendeduero de Aranda de Duero\nExpediente: ABR_SMPL/OBR/202600005
+ 4\nPublicada: 2026-11-27\nFin del plazo de ofertas: 2026-12-17 23:29\nhttp
+ s://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl
+ =yT%2FuQSjjeWktm4eBPtV6eQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=yT%2FuQSjjeWktm4eBPtV6eQ%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-21017573-ult@contratacion-estado
+DTSTAMP:20261127T125940Z
+LAST-MODIFIED:20261127T125940Z
+SEQUENCE:1795784380
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:ULT. DÍA (23:29): Contrato de obras de reparación de aceras en el
+  Polígono Industrial Allendeduero de Aranda de Duero
+DESCRIPTION:Contrato de obras de reparación de aceras en el Polígono Indu
+ strial Allendeduero de Aranda de Duero\nExpediente: ABR_SMPL/OBR/202600005
+ 4\nPublicada: 2026-11-27\nFin del plazo de ofertas: 2026-12-17 23:29\nhttp
+ s://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl
+ =yT%2FuQSjjeWktm4eBPtV6eQ%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=yT%2FuQSjjeWktm4eBPtV6eQ%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA (23:29): Contrato de obras de reparación de aceras e
+ n el Polígono Industrial Allendeduero de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20958186-pub@contratacion-estado
+DTSTAMP:20261127T105601Z
+LAST-MODIFIED:20261127T105601Z
+SEQUENCE:1795776961
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:PUB: Servicio extraordinario de limpieza de pintadas en fachadas de
+ l municipio de Aranda de Duero
+DESCRIPTION:Servicio extraordinario de limpieza de pintadas en fachadas del
+  municipio de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000051\nPubli
+ cada: 2026-11-18\nFin del plazo de ofertas: 2026-12-03 23:59\nhttps://cont
+ rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II03Hp9
+ xFVM4NavIWzMcHA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20958186-ult@contratacion-estado
+DTSTAMP:20261127T105601Z
+LAST-MODIFIED:20261127T105601Z
+SEQUENCE:1795776961
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:ULT. DÍA: Servicio extraordinario de limpieza de pintadas en facha
+ das del municipio de Aranda de Duero
+DESCRIPTION:Servicio extraordinario de limpieza de pintadas en fachadas del
+  municipio de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000051\nPubli
+ cada: 2026-11-18\nFin del plazo de ofertas: 2026-12-03 23:59\nhttps://cont
+ rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II03Hp9
+ xFVM4NavIWzMcHA%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Servicio extraordinario de limpieza de pintadas en f
+ achadas del municipio de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788245-pub@contratacion-estado
+DTSTAMP:20261127T093037Z
+LAST-MODIFIED:20261127T093037Z
+SEQUENCE:1795771837
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:PUB: Suministro y Servicio de licencias de uso de una aplicación i
+ nformática para la gestión académica de la Escuela Municipal de Música
+  y Danza 'Antonio Baciero' de Aranda de Duero
+DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
+ formática para la gestión académica de la Escuela Municipal de Música 
+ y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
+ 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
+ 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
+ on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+END:VEVENT
+BEGIN:VEVENT
+UID:l-20788245-ult@contratacion-estado
+DTSTAMP:20261127T093037Z
+LAST-MODIFIED:20261127T093037Z
+SEQUENCE:1795771837
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ULT. DÍA: Suministro y Servicio de licencias de uso de una aplicac
+ ión informática para la gestión académica de la Escuela Municipal de M
+ úsica y Danza 'Antonio Baciero' de Aranda de Duero
+DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
+ formática para la gestión académica de la Escuela Municipal de Música 
+ y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
+ 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
+ 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
+ on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
+ n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ULT. DÍA: Suministro y Servicio de licencias de uso de una apl
+ icación informática para la gestión académica de la Escuela Municipal 
+ de Música y Danza 'Antonio Baciero' de Aranda de Duero
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:l-20416971-ult@contratacion-estado
 DTSTAMP:20261125T124853Z
 LAST-MODIFIED:20261125T124853Z
@@ -611,51 +814,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20788245-pub@contratacion-estado
-DTSTAMP:20261124T132623Z
-LAST-MODIFIED:20261124T132623Z
-SEQUENCE:1795526783
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:PUB: Suministro y Servicio de licencias de uso de una aplicación i
- nformática para la gestión académica de la Escuela Municipal de Música
-  y Danza 'Antonio Baciero' de Aranda de Duero
-DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
- formática para la gestión académica de la Escuela Municipal de Música 
- y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
- 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
- 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
- on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20788245-ult@contratacion-estado
-DTSTAMP:20261124T132623Z
-LAST-MODIFIED:20261124T132623Z
-SEQUENCE:1795526783
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:ULT. DÍA: Suministro y Servicio de licencias de uso de una aplicac
- ión informática para la gestión académica de la Escuela Municipal de M
- úsica y Danza 'Antonio Baciero' de Aranda de Duero
-DESCRIPTION:Suministro y Servicio de licencias de uso de una aplicación in
- formática para la gestión académica de la Escuela Municipal de Música 
- y Danza 'Antonio Baciero' de Aranda de Duero\nExpediente: ABR_SMPL/SUMIN/2
- 026000047\nPublicada: 2026-10-27\nFin del plazo de ofertas: 2026-11-11 23:
- 59\nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitaci
- on&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Suministro y Servicio de licencias de uso de una apl
- icación informática para la gestión académica de la Escuela Municipal 
- de Música y Danza 'Antonio Baciero' de Aranda de Duero
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:m-21000736-adj@contratacion-estado
 DTSTAMP:20261124T112923Z
 LAST-MODIFIED:20261124T112923Z
@@ -694,9 +852,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20417756-adj@contratacion-estado
-DTSTAMP:20261126T100721Z
-LAST-MODIFIED:20261126T100721Z
-SEQUENCE:1795687641
+DTSTAMP:20261127T124142Z
+LAST-MODIFIED:20261127T124142Z
+SEQUENCE:1795783302
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:ADJ: Servicio de actualización permanente del sistema de protecci
@@ -715,9 +873,9 @@ URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
 END:VEVENT
 BEGIN:VEVENT
 UID:l-20417756-fin@contratacion-estado
-DTSTAMP:20261126T100721Z
-LAST-MODIFIED:20261126T100721Z
-SEQUENCE:1795687641
+DTSTAMP:20261127T124142Z
+LAST-MODIFIED:20261127T124142Z
+SEQUENCE:1795783302
 DTSTART;VALUE=DATE:20301123
 DTEND;VALUE=DATE:20301124
 SUMMARY:AVISO FIN: Servicio de actualización permanente del sistema de pro
@@ -822,46 +980,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Contrato de la instalación de un elemento luminoso 
  ornamental tridimensional en forma de pirámide de planta hexagonal
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20958186-pub@contratacion-estado
-DTSTAMP:20261118T094359Z
-LAST-MODIFIED:20261118T094359Z
-SEQUENCE:1794995039
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:PUB: Servicio extraordinario de limpieza de pintadas en fachadas de
- l municipio de Aranda de Duero
-DESCRIPTION:Servicio extraordinario de limpieza de pintadas en fachadas del
-  municipio de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000051\nPubli
- cada: 2026-11-18\nFin del plazo de ofertas: 2026-12-03 23:59\nhttps://cont
- rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II03Hp9
- xFVM4NavIWzMcHA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20958186-ult@contratacion-estado
-DTSTAMP:20261118T094359Z
-LAST-MODIFIED:20261118T094359Z
-SEQUENCE:1794995039
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:ULT. DÍA: Servicio extraordinario de limpieza de pintadas en facha
- das del municipio de Aranda de Duero
-DESCRIPTION:Servicio extraordinario de limpieza de pintadas en fachadas del
-  municipio de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000051\nPubli
- cada: 2026-11-18\nFin del plazo de ofertas: 2026-12-03 23:59\nhttps://cont
- rataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II03Hp9
- xFVM4NavIWzMcHA%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Servicio extraordinario de limpieza de pintadas en f
- achadas del municipio de Aranda de Duero
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

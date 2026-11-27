@@ -5,9 +5,41 @@
   <subtitle>Nuevas licitaciones, adjudicaciones y contratos menores adjudicados del Ayuntamiento de Aranda de Duero, según la Plataforma de Contratación del Sector Público.</subtitle>
   <link rel="self" type="application/atom+xml" href="https://contratos.arandadeduero.es/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://contratos.arandadeduero.es/"/>
-  <updated>2026-11-25T00:00:00Z</updated>
+  <updated>2026-11-27T00:00:00Z</updated>
   <author><name>Ayuntamiento de Aranda de Duero</name></author>
   <generator>contratacion-estado (lib/feed.js)</generator>
+  <entry>
+    <id>tag:contratos.arandadeduero.es,2026:l-21017458-licitacion</id>
+    <title>Nueva licitación: Suministro y colocación de mobiliario urbano para zonas ajardinadas. Parques Barriles y La Isla de Aranda de Duero.</title>
+    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D"/>
+    <published>2026-11-27T00:00:00Z</published>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="licitacion" label="Nueva licitación"/>
+    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 64.300,00 €.
+Plazo de presentación de ofertas: hasta el 14/12/2026 a las 23:59.
+Expediente: ABR_SMPL/SUMIN/2026000052.</summary>
+    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 64.300,00 €.
+Plazo de presentación de ofertas: hasta el 14/12/2026 a las 23:59.
+Expediente: ABR_SMPL/SUMIN/2026000052.</content>
+  </entry>
+  <entry>
+    <id>tag:contratos.arandadeduero.es,2026:l-21017573-licitacion</id>
+    <title>Nueva licitación: Contrato de obras de reparación de aceras en el Polígono Industrial Allendeduero de Aranda de Duero</title>
+    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=yT%2FuQSjjeWktm4eBPtV6eQ%3D%3D"/>
+    <published>2026-11-27T00:00:00Z</published>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <category term="licitacion" label="Nueva licitación"/>
+    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 178.722,80 €.
+Plazo de presentación de ofertas: hasta el 17/12/2026 a las 23:29.
+Expediente: ABR_SMPL/OBR/2026000054.</summary>
+    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 178.722,80 €.
+Plazo de presentación de ofertas: hasta el 17/12/2026 a las 23:29.
+Expediente: ABR_SMPL/OBR/2026000054.</content>
+  </entry>
   <entry>
     <id>tag:contratos.arandadeduero.es,2026:l-20416971-adjudicacion</id>
     <title>Adjudicación: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Duero — FUNDACIÓN PARA EL ESTUDIO Y LA PROMOCIÓN DE LA ACCIÓN SOCIAL, FEPAS</title>
@@ -1229,21 +1261,5 @@ Presupuesto base de licitación sin IVA: 15.000,00 €.
 Adjudicatario: ASAC COMUNICACIONES S.L..
 Importe de adjudicación sin IVA: 14.450,00 €.
 Expediente: MEN/SERV/2026000077.</content>
-  </entry>
-  <entry>
-    <id>tag:contratos.arandadeduero.es,2026:l-20497482-licitacion</id>
-    <title>Nueva licitación: Reparación muro contención CEIP Fuenteminaya.</title>
-    <link rel="alternate" type="text/html" href="https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=pV9XV%2BShuLicTfjQf3USOg%3D%3D"/>
-    <published>2026-08-28T00:00:00Z</published>
-    <updated>2026-08-28T00:00:00Z</updated>
-    <category term="licitacion" label="Nueva licitación"/>
-    <summary type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 108.564,77 €.
-Plazo de presentación de ofertas: hasta el 17/09/2026 a las 23:59.
-Expediente: ABR_SMPL/OBR/2026000036.</summary>
-    <content type="text">Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 108.564,77 €.
-Plazo de presentación de ofertas: hasta el 17/09/2026 a las 23:59.
-Expediente: ABR_SMPL/OBR/2026000036.</content>
   </entry>
 </feed>

@@ -12108,8 +12108,8 @@
     "ref": "ABR_SMPL/SERV/2026000037",
     "title": "Servicio de actualización permanente del sistema de protección de datos de carácter personal y del registro de actividades de tratamiento del Ayuntamiento de Aranda de Duero",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D",
-    "status": "ADJ",
-    "version": 1795687641777,
+    "status": "RES",
+    "version": 1795783302234,
     "source": {
       "name": "Rectificación de Pliego",
       "published": "2026-09-21T08:37:23.000Z"
@@ -12378,7 +12378,7 @@
     "title": "Suministro y Servicio de licencias de uso de una aplicación informática para la gestión académica de la Escuela Municipal de Música y Danza 'Antonio Baciero' de Aranda de Duero",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=N%2Bt55bIn5pjE6P%2FuLemXRw%3D%3D",
     "status": "EV",
-    "version": 1795526783133,
+    "version": 1795771837129,
     "source": {
       "name": "Pliego",
       "published": "2026-10-27T09:42:44.000Z"
@@ -12467,7 +12467,7 @@
     "title": "Servicio extraordinario de limpieza de pintadas en fachadas del municipio de Aranda de Duero",
     "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=II03Hp9xFVM4NavIWzMcHA%3D%3D",
     "status": "PUB",
-    "version": 1794995039767,
+    "version": 1795776961449,
     "source": {
       "name": "Pliego",
       "published": "2026-11-18T09:43:59.000Z"
@@ -12478,6 +12478,52 @@
         "type": "Apertura sobre oferta económica",
         "sobre": "Sobre Unico. - Documentación administrativa y documentación relativa relativa a criterios de adjudicación automáticos",
         "date": "2026-12-04",
+        "time": "09:00",
+        "place": "Salón de Plenos",
+        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
+        "public": true
+      }
+    ]
+  },
+  "21017458": {
+    "ref": "ABR_SMPL/SUMIN/2026000052",
+    "title": "Suministro y colocación de mobiliario urbano para zonas ajardinadas. Parques Barriles y La Isla de Aranda de Duero.",
+    "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D",
+    "status": "PUB",
+    "version": 1795790181714,
+    "source": {
+      "name": "Pliego",
+      "published": "2026-11-27T14:36:21.000Z"
+    },
+    "events": [
+      {
+        "kind": 4,
+        "type": "Apertura sobre oferta económica",
+        "sobre": "Sobre ÚNICO - Documentación administrativa y documentación relativa a criterios de adjudicación automáticos",
+        "date": "2026-12-15",
+        "time": "09:00",
+        "place": "Salón de Plenos",
+        "address": "PZ MAYOR, 1, ARANDA DE DUERO",
+        "public": true
+      }
+    ]
+  },
+  "21017573": {
+    "ref": "ABR_SMPL/OBR/2026000054",
+    "title": "Contrato de obras de reparación de aceras en el Polígono Industrial Allendeduero de Aranda de Duero",
+    "link": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=yT%2FuQSjjeWktm4eBPtV6eQ%3D%3D",
+    "status": "PUB",
+    "version": 1795784380763,
+    "source": {
+      "name": "Pliego",
+      "published": "2026-11-27T12:59:40.000Z"
+    },
+    "events": [
+      {
+        "kind": 4,
+        "type": "Apertura sobre oferta económica",
+        "sobre": "Sobre ÚNICO -Documentación administrativa y documentación relativa a criterios de adjudicación automáticos",
+        "date": "2026-12-18",
         "time": "09:00",
         "place": "Salón de Plenos",
         "address": "PZ MAYOR, 1, ARANDA DE DUERO",

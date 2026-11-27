@@ -5,9 +5,31 @@
     <link>https://contratos.arandadeduero.es/</link>
     <description>Nuevas licitaciones, adjudicaciones y contratos menores adjudicados del Ayuntamiento de Aranda de Duero, según la Plataforma de Contratación del Sector Público.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate>
     <generator>contratacion-estado (lib/feed.js)</generator>
     <atom:link href="https://contratos.arandadeduero.es/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nueva licitación: Suministro y colocación de mobiliario urbano para zonas ajardinadas. Parques Barriles y La Isla de Aranda de Duero.</title>
+      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=VzyBZQndOMqqb7rCcv76BA%3D%3D</link>
+      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:l-21017458-licitacion</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>licitacion</category>
+      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 64.300,00 €.
+Plazo de presentación de ofertas: hasta el 14/12/2026 a las 23:59.
+Expediente: ABR_SMPL/SUMIN/2026000052.</description>
+    </item>
+    <item>
+      <title>Nueva licitación: Contrato de obras de reparación de aceras en el Polígono Industrial Allendeduero de Aranda de Duero</title>
+      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=yT%2FuQSjjeWktm4eBPtV6eQ%3D%3D</link>
+      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:l-21017573-licitacion</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>licitacion</category>
+      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
+Presupuesto base de licitación sin IVA: 178.722,80 €.
+Plazo de presentación de ofertas: hasta el 17/12/2026 a las 23:29.
+Expediente: ABR_SMPL/OBR/2026000054.</description>
+    </item>
     <item>
       <title>Adjudicación: Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Duero — FUNDACIÓN PARA EL ESTUDIO Y LA PROMOCIÓN DE LA ACCIÓN SOCIAL, FEPAS</title>
       <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D</link>
@@ -828,17 +850,6 @@ Presupuesto base de licitación sin IVA: 15.000,00 €.
 Adjudicatario: ASAC COMUNICACIONES S.L..
 Importe de adjudicación sin IVA: 14.450,00 €.
 Expediente: MEN/SERV/2026000077.</description>
-    </item>
-    <item>
-      <title>Nueva licitación: Reparación muro contención CEIP Fuenteminaya.</title>
-      <link>https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&amp;idEvl=pV9XV%2BShuLicTfjQf3USOg%3D%3D</link>
-      <guid isPermaLink="false">tag:contratos.arandadeduero.es,2026:l-20497482-licitacion</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <category>licitacion</category>
-      <description>Órgano de contratación: Alcaldía del Ayuntamiento de Aranda de Duero.
-Presupuesto base de licitación sin IVA: 108.564,77 €.
-Plazo de presentación de ofertas: hasta el 17/09/2026 a las 23:59.
-Expediente: ABR_SMPL/OBR/2026000036.</description>
     </item>
   </channel>
 </rss>
