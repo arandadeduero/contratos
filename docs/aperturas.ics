@@ -6,43 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Contratación Ayuntamiento Aranda de Duero
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-UID:20416552-1-sobre-a-documentacio-n-administrativa@contratacion-estado
-DTSTAMP:20260911T120743Z
-LAST-MODIFIED:20260911T120743Z
-SEQUENCE:1789128463
-DTSTART:20260929T093000Z
-DTEND:20260929T100000Z
-SUMMARY:PRIV · Administrativo: Contratación de trabajos de diseño\, ejec
- ución y decoración de dos carrozas para la Cabalgata de Reyes
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Contratación de trabajos de diseño\, ejecución y decoración
-  de dos carrozas para la Cabalgata de Reyes\nExpediente: ABR_SMPL/SERV/202
- 6000039\nSobre: Sobre A - Documentación administrativa\nActo no público\
- nhttps://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&
- idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:20416552-2-sobre-b-documentacio-n-relativa-a-criter@contratacion-estado
-DTSTAMP:20260911T120743Z
-LAST-MODIFIED:20260911T120743Z
-SEQUENCE:1789128463
-DTSTART:20260929T094500Z
-DTEND:20260929T101500Z
-SUMMARY:PRIV · Oferta técnica: Contratación de trabajos de diseño\, eje
- cución y decoración de dos carrozas para la Cabalgata de Reyes
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Contratación de trabajos de diseño\, ejecución y decoración
-  de dos carrozas para la Cabalgata de Reyes\nExpediente: ABR_SMPL/SERV/202
- 6000039\nSobre: Sobre B - Documentación relativa a criterios de adjudicac
- ión en función de un juicio de valor\nActo no público\nhttps://contrata
- ciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LGk%2FJ%2BU
- g%2BpAS7pcxhTeWOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-END:VEVENT
-BEGIN:VEVENT
 UID:20416552-4-sobre-c-documentacio-n-relativa-a-criter@contratacion-estado
 DTSTAMP:20260911T120743Z
 LAST-MODIFIED:20260911T120743Z
@@ -112,27 +75,6 @@ DESCRIPTION:Servicio de Ayuda a Domicilio del Ayuntamiento de Aranda de Due
  Dg3msNfRW6APEDw%3D%3D
 URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
  n&idEvl=3U9TsquDg3msNfRW6APEDw%3D%3D
-END:VEVENT
-BEGIN:VEVENT
-UID:20417756-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
-DTSTAMP:20260921T083723Z
-LAST-MODIFIED:20260921T083723Z
-SEQUENCE:1789979843
-DTSTART:20260929T091500Z
-DTEND:20260929T094500Z
-SUMMARY:Oferta económica: Servicio de actualización permanente del sistem
- a de protección de datos de carácter personal y del registro de activida
- des de tratamiento del Ayuntamiento de Aranda de Duero
-LOCATION:Salón de Plenos · PZ MAYOR\, 1\, ARANDA DE DUERO
-DESCRIPTION:Servicio de actualización permanente del sistema de protecció
- n de datos de carácter personal y del registro de actividades de tratamie
- nto del Ayuntamiento de Aranda de Duero\nExpediente: ABR_SMPL/SERV/2026000
- 037\nSobre: Sobre Unico - Documentación administrativa y documentación r
- elativa a criterios de adjudicación automáticos\nActo público\nhttps://
- contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XDG
- XxjjTkISopEMYCmrbmw%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=XDGXxjjTkISopEMYCmrbmw%3D%3D
 END:VEVENT
 BEGIN:VEVENT
 UID:20585907-4-sobre-unico-documentacio-n-administrativ@contratacion-estado
@@ -2423,31 +2365,6 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:AVISO FIN: Reparacion y acondicionamiento de la ribera del rio 
  Bañuelos.
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:l-20416552-ult@contratacion-estado
-DTSTAMP:20261027T075002Z
-LAST-MODIFIED:20261027T075002Z
-SEQUENCE:1793087402
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:ULT. DÍA: Contratación de trabajos de diseño\, ejecución y deco
- ración de dos carrozas para la Cabalgata de Reyes
-DESCRIPTION:Contratación de trabajos de diseño\, ejecución y decoración
-  de dos carrozas para la Cabalgata de Reyes\nExpediente: ABR_SMPL/SERV/202
- 6000039\nPublicada: 2026-09-11\nFin del plazo de ofertas: 2026-09-28 23:59
- \nAdjudicada el 2026-10-15 a ARTE EFIMERO SL\, ARTE EFIMERO SL\nFin previs
- to del contrato: 2026-12-15 (estimado: adjudicación + duración)\nhttps:/
- /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LG
- k%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contratación de trabajos de diseño\, ejecución y 
- decoración de dos carrozas para la Cabalgata de Reyes
 TRIGGER:-PT15H
 END:VALARM
 END:VEVENT

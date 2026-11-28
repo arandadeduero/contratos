@@ -606,31 +606,6 @@ TRIGGER:-PT15H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l-20416552-ult@contratacion-estado
-DTSTAMP:20261027T075002Z
-LAST-MODIFIED:20261027T075002Z
-SEQUENCE:1793087402
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:ULT. DÍA: Contratación de trabajos de diseño\, ejecución y deco
- ración de dos carrozas para la Cabalgata de Reyes
-DESCRIPTION:Contratación de trabajos de diseño\, ejecución y decoración
-  de dos carrozas para la Cabalgata de Reyes\nExpediente: ABR_SMPL/SERV/202
- 6000039\nPublicada: 2026-09-11\nFin del plazo de ofertas: 2026-09-28 23:59
- \nAdjudicada el 2026-10-15 a ARTE EFIMERO SL\, ARTE EFIMERO SL\nFin previs
- to del contrato: 2026-12-15 (estimado: adjudicación + duración)\nhttps:/
- /contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LG
- k%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-URL:https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacio
- n&idEvl=LGk%2FJ%2BUg%2BpAS7pcxhTeWOg%3D%3D
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:ULT. DÍA: Contratación de trabajos de diseño\, ejecución y 
- decoración de dos carrozas para la Cabalgata de Reyes
-TRIGGER:-PT15H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:l-20698366-pub@contratacion-estado
 DTSTAMP:20261015T065119Z
 LAST-MODIFIED:20261015T065119Z
